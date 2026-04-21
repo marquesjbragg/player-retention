@@ -1,0 +1,4 @@
+{
+  "_comment": "Maps teamSlug to logo URL or local path. Falls back to ESPN CDN, then placeholder.",
+  "_note": "Populate in Phase 3b. Format: { \"duke\": \"https://...\", \"michigan\": \"/logos/michigan.png\" }"
+}

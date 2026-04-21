@@ -28,6 +28,12 @@ yarn-error.log*
 # local env files
 .env*.local
 
+# data cache — API responses are never committed
+/data/cache/
+
+# exports — generated output files
+/exports/
+
 # vercel
 .vercel
 
