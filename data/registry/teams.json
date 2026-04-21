@@ -1,1 +1,4370 @@
-[]
+[
+  {
+    "slug": "abilene-christian",
+    "displayName": "Abilene Christian",
+    "shortName": "Abilene Christian",
+    "division": "D1",
+    "conference": "WAC",
+    "externalIds": {
+      "cbbdTeamId": 1,
+      "cbbdName": "Abilene Christian"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "air-force",
+    "displayName": "Air Force",
+    "shortName": "Air Force",
+    "division": "D1",
+    "conference": "Mountain West",
+    "externalIds": {
+      "cbbdTeamId": 2,
+      "cbbdName": "Air Force"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "akron",
+    "displayName": "Akron",
+    "shortName": "Akron",
+    "division": "D1",
+    "conference": "MAC",
+    "externalIds": {
+      "cbbdTeamId": 3,
+      "cbbdName": "Akron"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "alabama",
+    "displayName": "Alabama",
+    "shortName": "Alabama",
+    "division": "D1",
+    "conference": "SEC",
+    "externalIds": {
+      "cbbdTeamId": 5,
+      "cbbdName": "Alabama"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "alabama-am",
+    "displayName": "Alabama A&M",
+    "shortName": "Alabama A&M",
+    "division": "D1",
+    "conference": "SWAC",
+    "externalIds": {
+      "cbbdTeamId": 4,
+      "cbbdName": "Alabama A&M"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "alabama-state",
+    "displayName": "Alabama State",
+    "shortName": "Alabama State",
+    "division": "D1",
+    "conference": "SWAC",
+    "externalIds": {
+      "cbbdTeamId": 6,
+      "cbbdName": "Alabama State"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "alcorn-state",
+    "displayName": "Alcorn State",
+    "shortName": "Alcorn State",
+    "division": "D1",
+    "conference": "SWAC",
+    "externalIds": {
+      "cbbdTeamId": 7,
+      "cbbdName": "Alcorn State"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "american-university",
+    "displayName": "American University",
+    "shortName": "American University",
+    "division": "D1",
+    "conference": "Patriot",
+    "externalIds": {
+      "cbbdTeamId": 8,
+      "cbbdName": "American University"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "app-state",
+    "displayName": "App State",
+    "shortName": "App State",
+    "division": "D1",
+    "conference": "Sun Belt",
+    "externalIds": {
+      "cbbdTeamId": 9,
+      "cbbdName": "App State"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "arizona",
+    "displayName": "Arizona",
+    "shortName": "Arizona",
+    "division": "D1",
+    "conference": "Big 12",
+    "externalIds": {
+      "cbbdTeamId": 11,
+      "cbbdName": "Arizona"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "arizona-state",
+    "displayName": "Arizona State",
+    "shortName": "Arizona State",
+    "division": "D1",
+    "conference": "Big 12",
+    "externalIds": {
+      "cbbdTeamId": 10,
+      "cbbdName": "Arizona State"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "arkansas",
+    "displayName": "Arkansas",
+    "shortName": "Arkansas",
+    "division": "D1",
+    "conference": "SEC",
+    "externalIds": {
+      "cbbdTeamId": 12,
+      "cbbdName": "Arkansas"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "arkansas-pine-bluff",
+    "displayName": "Arkansas-Pine Bluff",
+    "shortName": "Arkansas-Pine Bluff",
+    "division": "D1",
+    "conference": "SWAC",
+    "externalIds": {
+      "cbbdTeamId": 14,
+      "cbbdName": "Arkansas-Pine Bluff"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "arkansas-state",
+    "displayName": "Arkansas State",
+    "shortName": "Arkansas State",
+    "division": "D1",
+    "conference": "Sun Belt",
+    "externalIds": {
+      "cbbdTeamId": 13,
+      "cbbdName": "Arkansas State"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "army",
+    "displayName": "Army",
+    "shortName": "Army",
+    "division": "D1",
+    "conference": "Patriot",
+    "externalIds": {
+      "cbbdTeamId": 15,
+      "cbbdName": "Army"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "auburn",
+    "displayName": "Auburn",
+    "shortName": "Auburn",
+    "division": "D1",
+    "conference": "SEC",
+    "externalIds": {
+      "cbbdTeamId": 16,
+      "cbbdName": "Auburn"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "austin-peay",
+    "displayName": "Austin Peay",
+    "shortName": "Austin Peay",
+    "division": "D1",
+    "conference": "ASUN",
+    "externalIds": {
+      "cbbdTeamId": 17,
+      "cbbdName": "Austin Peay"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "ball-state",
+    "displayName": "Ball State",
+    "shortName": "Ball State",
+    "division": "D1",
+    "conference": "MAC",
+    "externalIds": {
+      "cbbdTeamId": 19,
+      "cbbdName": "Ball State"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "baylor",
+    "displayName": "Baylor",
+    "shortName": "Baylor",
+    "division": "D1",
+    "conference": "Big 12",
+    "externalIds": {
+      "cbbdTeamId": 20,
+      "cbbdName": "Baylor"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "bellarmine",
+    "displayName": "Bellarmine",
+    "shortName": "Bellarmine",
+    "division": "D1",
+    "conference": "ASUN",
+    "externalIds": {
+      "cbbdTeamId": 21,
+      "cbbdName": "Bellarmine"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "belmont",
+    "displayName": "Belmont",
+    "shortName": "Belmont",
+    "division": "D1",
+    "conference": "MVC",
+    "externalIds": {
+      "cbbdTeamId": 22,
+      "cbbdName": "Belmont"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "bethune-cookman",
+    "displayName": "Bethune-Cookman",
+    "shortName": "Bethune-Cookman",
+    "division": "D1",
+    "conference": "SWAC",
+    "externalIds": {
+      "cbbdTeamId": 23,
+      "cbbdName": "Bethune-Cookman"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "binghamton",
+    "displayName": "Binghamton",
+    "shortName": "Binghamton",
+    "division": "D1",
+    "conference": "Am. East",
+    "externalIds": {
+      "cbbdTeamId": 24,
+      "cbbdName": "Binghamton"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "boise-state",
+    "displayName": "Boise State",
+    "shortName": "Boise State",
+    "division": "D1",
+    "conference": "Mountain West",
+    "externalIds": {
+      "cbbdTeamId": 25,
+      "cbbdName": "Boise State"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "boston-college",
+    "displayName": "Boston College",
+    "shortName": "Boston College",
+    "division": "D1",
+    "conference": "ACC",
+    "externalIds": {
+      "cbbdTeamId": 26,
+      "cbbdName": "Boston College"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "boston-university",
+    "displayName": "Boston University",
+    "shortName": "Boston University",
+    "division": "D1",
+    "conference": "Patriot",
+    "externalIds": {
+      "cbbdTeamId": 27,
+      "cbbdName": "Boston University"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "bowling-green",
+    "displayName": "Bowling Green",
+    "shortName": "Bowling Green",
+    "division": "D1",
+    "conference": "MAC",
+    "externalIds": {
+      "cbbdTeamId": 28,
+      "cbbdName": "Bowling Green"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "bradley",
+    "displayName": "Bradley",
+    "shortName": "Bradley",
+    "division": "D1",
+    "conference": "MVC",
+    "externalIds": {
+      "cbbdTeamId": 29,
+      "cbbdName": "Bradley"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "brown",
+    "displayName": "Brown",
+    "shortName": "Brown",
+    "division": "D1",
+    "conference": "Ivy",
+    "externalIds": {
+      "cbbdTeamId": 30,
+      "cbbdName": "Brown"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "bryant",
+    "displayName": "Bryant",
+    "shortName": "Bryant",
+    "division": "D1",
+    "conference": "Am. East",
+    "externalIds": {
+      "cbbdTeamId": 31,
+      "cbbdName": "Bryant"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "bucknell",
+    "displayName": "Bucknell",
+    "shortName": "Bucknell",
+    "division": "D1",
+    "conference": "Patriot",
+    "externalIds": {
+      "cbbdTeamId": 32,
+      "cbbdName": "Bucknell"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "buffalo",
+    "displayName": "Buffalo",
+    "shortName": "Buffalo",
+    "division": "D1",
+    "conference": "MAC",
+    "externalIds": {
+      "cbbdTeamId": 33,
+      "cbbdName": "Buffalo"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "butler",
+    "displayName": "Butler",
+    "shortName": "Butler",
+    "division": "D1",
+    "conference": "Big East",
+    "externalIds": {
+      "cbbdTeamId": 34,
+      "cbbdName": "Butler"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "byu",
+    "displayName": "BYU",
+    "shortName": "BYU",
+    "division": "D1",
+    "conference": "Big 12",
+    "externalIds": {
+      "cbbdTeamId": 18,
+      "cbbdName": "BYU"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "cal-poly",
+    "displayName": "Cal Poly",
+    "shortName": "Cal Poly",
+    "division": "D1",
+    "conference": "Big West",
+    "externalIds": {
+      "cbbdTeamId": 35,
+      "cbbdName": "Cal Poly"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "cal-state-bakersfield",
+    "displayName": "Cal State Bakersfield",
+    "shortName": "Cal State Bakersfield",
+    "division": "D1",
+    "conference": "Big West",
+    "externalIds": {
+      "cbbdTeamId": 36,
+      "cbbdName": "Cal State Bakersfield"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "cal-state-fullerton",
+    "displayName": "Cal State Fullerton",
+    "shortName": "Cal State Fullerton",
+    "division": "D1",
+    "conference": "Big West",
+    "externalIds": {
+      "cbbdTeamId": 37,
+      "cbbdName": "Cal State Fullerton"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "cal-state-northridge",
+    "displayName": "Cal State Northridge",
+    "shortName": "Cal State Northridge",
+    "division": "D1",
+    "conference": "Big West",
+    "externalIds": {
+      "cbbdTeamId": 38,
+      "cbbdName": "Cal State Northridge"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "california",
+    "displayName": "California",
+    "shortName": "California",
+    "division": "D1",
+    "conference": "ACC",
+    "externalIds": {
+      "cbbdTeamId": 40,
+      "cbbdName": "California"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "california-baptist",
+    "displayName": "California Baptist",
+    "shortName": "California Baptist",
+    "division": "D1",
+    "conference": "WAC",
+    "externalIds": {
+      "cbbdTeamId": 39,
+      "cbbdName": "California Baptist"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "campbell",
+    "displayName": "Campbell",
+    "shortName": "Campbell",
+    "division": "D1",
+    "conference": "CAA",
+    "externalIds": {
+      "cbbdTeamId": 41,
+      "cbbdName": "Campbell"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "canisius",
+    "displayName": "Canisius",
+    "shortName": "Canisius",
+    "division": "D1",
+    "conference": "MAAC",
+    "externalIds": {
+      "cbbdTeamId": 42,
+      "cbbdName": "Canisius"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "central-arkansas",
+    "displayName": "Central Arkansas",
+    "shortName": "Central Arkansas",
+    "division": "D1",
+    "conference": "ASUN",
+    "externalIds": {
+      "cbbdTeamId": 43,
+      "cbbdName": "Central Arkansas"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "central-connecticut",
+    "displayName": "Central Connecticut",
+    "shortName": "Central Connecticut",
+    "division": "D1",
+    "conference": "NEC",
+    "externalIds": {
+      "cbbdTeamId": 44,
+      "cbbdName": "Central Connecticut"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "central-michigan",
+    "displayName": "Central Michigan",
+    "shortName": "Central Michigan",
+    "division": "D1",
+    "conference": "MAC",
+    "externalIds": {
+      "cbbdTeamId": 45,
+      "cbbdName": "Central Michigan"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "charleston",
+    "displayName": "Charleston",
+    "shortName": "Charleston",
+    "division": "D1",
+    "conference": "CAA",
+    "externalIds": {
+      "cbbdTeamId": 46,
+      "cbbdName": "Charleston"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "charleston-southern",
+    "displayName": "Charleston Southern",
+    "shortName": "Charleston Southern",
+    "division": "D1",
+    "conference": "Big South",
+    "externalIds": {
+      "cbbdTeamId": 47,
+      "cbbdName": "Charleston Southern"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "charlotte",
+    "displayName": "Charlotte",
+    "shortName": "Charlotte",
+    "division": "D1",
+    "conference": "American",
+    "externalIds": {
+      "cbbdTeamId": 48,
+      "cbbdName": "Charlotte"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "chattanooga",
+    "displayName": "Chattanooga",
+    "shortName": "Chattanooga",
+    "division": "D1",
+    "conference": "SoCon",
+    "externalIds": {
+      "cbbdTeamId": 49,
+      "cbbdName": "Chattanooga"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "chicago-state",
+    "displayName": "Chicago State",
+    "shortName": "Chicago State",
+    "division": "D1",
+    "conference": "NEC",
+    "externalIds": {
+      "cbbdTeamId": 50,
+      "cbbdName": "Chicago State"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "cincinnati",
+    "displayName": "Cincinnati",
+    "shortName": "Cincinnati",
+    "division": "D1",
+    "conference": "Big 12",
+    "externalIds": {
+      "cbbdTeamId": 51,
+      "cbbdName": "Cincinnati"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "clemson",
+    "displayName": "Clemson",
+    "shortName": "Clemson",
+    "division": "D1",
+    "conference": "ACC",
+    "externalIds": {
+      "cbbdTeamId": 52,
+      "cbbdName": "Clemson"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "cleveland-state",
+    "displayName": "Cleveland State",
+    "shortName": "Cleveland State",
+    "division": "D1",
+    "conference": "Horizon",
+    "externalIds": {
+      "cbbdTeamId": 53,
+      "cbbdName": "Cleveland State"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "coastal-carolina",
+    "displayName": "Coastal Carolina",
+    "shortName": "Coastal Carolina",
+    "division": "D1",
+    "conference": "Sun Belt",
+    "externalIds": {
+      "cbbdTeamId": 54,
+      "cbbdName": "Coastal Carolina"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "colgate",
+    "displayName": "Colgate",
+    "shortName": "Colgate",
+    "division": "D1",
+    "conference": "Patriot",
+    "externalIds": {
+      "cbbdTeamId": 55,
+      "cbbdName": "Colgate"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "colorado",
+    "displayName": "Colorado",
+    "shortName": "Colorado",
+    "division": "D1",
+    "conference": "Big 12",
+    "externalIds": {
+      "cbbdTeamId": 56,
+      "cbbdName": "Colorado"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "colorado-state",
+    "displayName": "Colorado State",
+    "shortName": "Colorado State",
+    "division": "D1",
+    "conference": "Mountain West",
+    "externalIds": {
+      "cbbdTeamId": 57,
+      "cbbdName": "Colorado State"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "columbia",
+    "displayName": "Columbia",
+    "shortName": "Columbia",
+    "division": "D1",
+    "conference": "Ivy",
+    "externalIds": {
+      "cbbdTeamId": 58,
+      "cbbdName": "Columbia"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "coppin-state",
+    "displayName": "Coppin State",
+    "shortName": "Coppin State",
+    "division": "D1",
+    "conference": "MEAC",
+    "externalIds": {
+      "cbbdTeamId": 59,
+      "cbbdName": "Coppin State"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "cornell",
+    "displayName": "Cornell",
+    "shortName": "Cornell",
+    "division": "D1",
+    "conference": "Ivy",
+    "externalIds": {
+      "cbbdTeamId": 60,
+      "cbbdName": "Cornell"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "creighton",
+    "displayName": "Creighton",
+    "shortName": "Creighton",
+    "division": "D1",
+    "conference": "Big East",
+    "externalIds": {
+      "cbbdTeamId": 61,
+      "cbbdName": "Creighton"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "dartmouth",
+    "displayName": "Dartmouth",
+    "shortName": "Dartmouth",
+    "division": "D1",
+    "conference": "Ivy",
+    "externalIds": {
+      "cbbdTeamId": 62,
+      "cbbdName": "Dartmouth"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "davidson",
+    "displayName": "Davidson",
+    "shortName": "Davidson",
+    "division": "D1",
+    "conference": "A-10",
+    "externalIds": {
+      "cbbdTeamId": 63,
+      "cbbdName": "Davidson"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "dayton",
+    "displayName": "Dayton",
+    "shortName": "Dayton",
+    "division": "D1",
+    "conference": "A-10",
+    "externalIds": {
+      "cbbdTeamId": 64,
+      "cbbdName": "Dayton"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "delaware",
+    "displayName": "Delaware",
+    "shortName": "Delaware",
+    "division": "D1",
+    "conference": "CAA",
+    "externalIds": {
+      "cbbdTeamId": 66,
+      "cbbdName": "Delaware"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "delaware-state",
+    "displayName": "Delaware State",
+    "shortName": "Delaware State",
+    "division": "D1",
+    "conference": "MEAC",
+    "externalIds": {
+      "cbbdTeamId": 67,
+      "cbbdName": "Delaware State"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "denver",
+    "displayName": "Denver",
+    "shortName": "Denver",
+    "division": "D1",
+    "conference": "Summit",
+    "externalIds": {
+      "cbbdTeamId": 68,
+      "cbbdName": "Denver"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "depaul",
+    "displayName": "DePaul",
+    "shortName": "DePaul",
+    "division": "D1",
+    "conference": "Big East",
+    "externalIds": {
+      "cbbdTeamId": 65,
+      "cbbdName": "DePaul"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "detroit-mercy",
+    "displayName": "Detroit Mercy",
+    "shortName": "Detroit Mercy",
+    "division": "D1",
+    "conference": "Horizon",
+    "externalIds": {
+      "cbbdTeamId": 69,
+      "cbbdName": "Detroit Mercy"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "drake",
+    "displayName": "Drake",
+    "shortName": "Drake",
+    "division": "D1",
+    "conference": "MVC",
+    "externalIds": {
+      "cbbdTeamId": 70,
+      "cbbdName": "Drake"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "drexel",
+    "displayName": "Drexel",
+    "shortName": "Drexel",
+    "division": "D1",
+    "conference": "CAA",
+    "externalIds": {
+      "cbbdTeamId": 71,
+      "cbbdName": "Drexel"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "duke",
+    "displayName": "Duke",
+    "shortName": "Duke",
+    "division": "D1",
+    "conference": "ACC",
+    "externalIds": {
+      "cbbdTeamId": 72,
+      "cbbdName": "Duke"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "duquesne",
+    "displayName": "Duquesne",
+    "shortName": "Duquesne",
+    "division": "D1",
+    "conference": "A-10",
+    "externalIds": {
+      "cbbdTeamId": 73,
+      "cbbdName": "Duquesne"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "east-carolina",
+    "displayName": "East Carolina",
+    "shortName": "East Carolina",
+    "division": "D1",
+    "conference": "American",
+    "externalIds": {
+      "cbbdTeamId": 74,
+      "cbbdName": "East Carolina"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "east-tennessee-state",
+    "displayName": "East Tennessee State",
+    "shortName": "East Tennessee State",
+    "division": "D1",
+    "conference": "SoCon",
+    "externalIds": {
+      "cbbdTeamId": 75,
+      "cbbdName": "East Tennessee State"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "east-texas-am",
+    "displayName": "East Texas A&M",
+    "shortName": "East Texas A&M",
+    "division": "D1",
+    "conference": "Southland",
+    "externalIds": {
+      "cbbdTeamId": 76,
+      "cbbdName": "East Texas A&M"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "eastern-illinois",
+    "displayName": "Eastern Illinois",
+    "shortName": "Eastern Illinois",
+    "division": "D1",
+    "conference": "OVC",
+    "externalIds": {
+      "cbbdTeamId": 77,
+      "cbbdName": "Eastern Illinois"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "eastern-kentucky",
+    "displayName": "Eastern Kentucky",
+    "shortName": "Eastern Kentucky",
+    "division": "D1",
+    "conference": "ASUN",
+    "externalIds": {
+      "cbbdTeamId": 78,
+      "cbbdName": "Eastern Kentucky"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "eastern-michigan",
+    "displayName": "Eastern Michigan",
+    "shortName": "Eastern Michigan",
+    "division": "D1",
+    "conference": "MAC",
+    "externalIds": {
+      "cbbdTeamId": 79,
+      "cbbdName": "Eastern Michigan"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "eastern-washington",
+    "displayName": "Eastern Washington",
+    "shortName": "Eastern Washington",
+    "division": "D1",
+    "conference": "Big Sky",
+    "externalIds": {
+      "cbbdTeamId": 80,
+      "cbbdName": "Eastern Washington"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "elon",
+    "displayName": "Elon",
+    "shortName": "Elon",
+    "division": "D1",
+    "conference": "CAA",
+    "externalIds": {
+      "cbbdTeamId": 81,
+      "cbbdName": "Elon"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "evansville",
+    "displayName": "Evansville",
+    "shortName": "Evansville",
+    "division": "D1",
+    "conference": "MVC",
+    "externalIds": {
+      "cbbdTeamId": 82,
+      "cbbdName": "Evansville"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "fairfield",
+    "displayName": "Fairfield",
+    "shortName": "Fairfield",
+    "division": "D1",
+    "conference": "MAAC",
+    "externalIds": {
+      "cbbdTeamId": 83,
+      "cbbdName": "Fairfield"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "fairleigh-dickinson",
+    "displayName": "Fairleigh Dickinson",
+    "shortName": "Fairleigh Dickinson",
+    "division": "D1",
+    "conference": "NEC",
+    "externalIds": {
+      "cbbdTeamId": 84,
+      "cbbdName": "Fairleigh Dickinson"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "florida",
+    "displayName": "Florida",
+    "shortName": "Florida",
+    "division": "D1",
+    "conference": "SEC",
+    "externalIds": {
+      "cbbdTeamId": 87,
+      "cbbdName": "Florida"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "florida-am",
+    "displayName": "Florida A&M",
+    "shortName": "Florida A&M",
+    "division": "D1",
+    "conference": "SWAC",
+    "externalIds": {
+      "cbbdTeamId": 85,
+      "cbbdName": "Florida A&M"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "florida-atlantic",
+    "displayName": "Florida Atlantic",
+    "shortName": "Florida Atlantic",
+    "division": "D1",
+    "conference": "American",
+    "externalIds": {
+      "cbbdTeamId": 86,
+      "cbbdName": "Florida Atlantic"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "florida-gulf-coast",
+    "displayName": "Florida Gulf Coast",
+    "shortName": "Florida Gulf Coast",
+    "division": "D1",
+    "conference": "ASUN",
+    "externalIds": {
+      "cbbdTeamId": 88,
+      "cbbdName": "Florida Gulf Coast"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "florida-international",
+    "displayName": "Florida International",
+    "shortName": "Florida International",
+    "division": "D1",
+    "conference": "CUSA",
+    "externalIds": {
+      "cbbdTeamId": 89,
+      "cbbdName": "Florida International"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "florida-state",
+    "displayName": "Florida State",
+    "shortName": "Florida State",
+    "division": "D1",
+    "conference": "ACC",
+    "externalIds": {
+      "cbbdTeamId": 90,
+      "cbbdName": "Florida State"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "fordham",
+    "displayName": "Fordham",
+    "shortName": "Fordham",
+    "division": "D1",
+    "conference": "A-10",
+    "externalIds": {
+      "cbbdTeamId": 91,
+      "cbbdName": "Fordham"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "fresno-state",
+    "displayName": "Fresno State",
+    "shortName": "Fresno State",
+    "division": "D1",
+    "conference": "Mountain West",
+    "externalIds": {
+      "cbbdTeamId": 92,
+      "cbbdName": "Fresno State"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "furman",
+    "displayName": "Furman",
+    "shortName": "Furman",
+    "division": "D1",
+    "conference": "SoCon",
+    "externalIds": {
+      "cbbdTeamId": 93,
+      "cbbdName": "Furman"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "gardner-webb",
+    "displayName": "Gardner-Webb",
+    "shortName": "Gardner-Webb",
+    "division": "D1",
+    "conference": "Big South",
+    "externalIds": {
+      "cbbdTeamId": 94,
+      "cbbdName": "Gardner-Webb"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "george-mason",
+    "displayName": "George Mason",
+    "shortName": "George Mason",
+    "division": "D1",
+    "conference": "A-10",
+    "externalIds": {
+      "cbbdTeamId": 95,
+      "cbbdName": "George Mason"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "george-washington",
+    "displayName": "George Washington",
+    "shortName": "George Washington",
+    "division": "D1",
+    "conference": "A-10",
+    "externalIds": {
+      "cbbdTeamId": 96,
+      "cbbdName": "George Washington"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "georgetown",
+    "displayName": "Georgetown",
+    "shortName": "Georgetown",
+    "division": "D1",
+    "conference": "Big East",
+    "externalIds": {
+      "cbbdTeamId": 97,
+      "cbbdName": "Georgetown"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "georgia",
+    "displayName": "Georgia",
+    "shortName": "Georgia",
+    "division": "D1",
+    "conference": "SEC",
+    "externalIds": {
+      "cbbdTeamId": 98,
+      "cbbdName": "Georgia"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "georgia-southern",
+    "displayName": "Georgia Southern",
+    "shortName": "Georgia Southern",
+    "division": "D1",
+    "conference": "Sun Belt",
+    "externalIds": {
+      "cbbdTeamId": 99,
+      "cbbdName": "Georgia Southern"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "georgia-state",
+    "displayName": "Georgia State",
+    "shortName": "Georgia State",
+    "division": "D1",
+    "conference": "Sun Belt",
+    "externalIds": {
+      "cbbdTeamId": 100,
+      "cbbdName": "Georgia State"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "georgia-tech",
+    "displayName": "Georgia Tech",
+    "shortName": "Georgia Tech",
+    "division": "D1",
+    "conference": "ACC",
+    "externalIds": {
+      "cbbdTeamId": 101,
+      "cbbdName": "Georgia Tech"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "gonzaga",
+    "displayName": "Gonzaga",
+    "shortName": "Gonzaga",
+    "division": "D1",
+    "conference": "WCC",
+    "externalIds": {
+      "cbbdTeamId": 102,
+      "cbbdName": "Gonzaga"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "grambling",
+    "displayName": "Grambling",
+    "shortName": "Grambling",
+    "division": "D1",
+    "conference": "SWAC",
+    "externalIds": {
+      "cbbdTeamId": 103,
+      "cbbdName": "Grambling"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "grand-canyon",
+    "displayName": "Grand Canyon",
+    "shortName": "Grand Canyon",
+    "division": "D1",
+    "conference": "WAC",
+    "externalIds": {
+      "cbbdTeamId": 104,
+      "cbbdName": "Grand Canyon"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "green-bay",
+    "displayName": "Green Bay",
+    "shortName": "Green Bay",
+    "division": "D1",
+    "conference": "Horizon",
+    "externalIds": {
+      "cbbdTeamId": 105,
+      "cbbdName": "Green Bay"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "hampton",
+    "displayName": "Hampton",
+    "shortName": "Hampton",
+    "division": "D1",
+    "conference": "CAA",
+    "externalIds": {
+      "cbbdTeamId": 106,
+      "cbbdName": "Hampton"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "harvard",
+    "displayName": "Harvard",
+    "shortName": "Harvard",
+    "division": "D1",
+    "conference": "Ivy",
+    "externalIds": {
+      "cbbdTeamId": 107,
+      "cbbdName": "Harvard"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "hawaii",
+    "displayName": "Hawai'i",
+    "shortName": "Hawai'i",
+    "division": "D1",
+    "conference": "Big West",
+    "externalIds": {
+      "cbbdTeamId": 108,
+      "cbbdName": "Hawai'i"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "high-point",
+    "displayName": "High Point",
+    "shortName": "High Point",
+    "division": "D1",
+    "conference": "Big South",
+    "externalIds": {
+      "cbbdTeamId": 109,
+      "cbbdName": "High Point"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "hofstra",
+    "displayName": "Hofstra",
+    "shortName": "Hofstra",
+    "division": "D1",
+    "conference": "CAA",
+    "externalIds": {
+      "cbbdTeamId": 110,
+      "cbbdName": "Hofstra"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "holy-cross",
+    "displayName": "Holy Cross",
+    "shortName": "Holy Cross",
+    "division": "D1",
+    "conference": "Patriot",
+    "externalIds": {
+      "cbbdTeamId": 111,
+      "cbbdName": "Holy Cross"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "houston",
+    "displayName": "Houston",
+    "shortName": "Houston",
+    "division": "D1",
+    "conference": "Big 12",
+    "externalIds": {
+      "cbbdTeamId": 113,
+      "cbbdName": "Houston"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "houston-christian",
+    "displayName": "Houston Christian",
+    "shortName": "Houston Christian",
+    "division": "D1",
+    "conference": "Southland",
+    "externalIds": {
+      "cbbdTeamId": 112,
+      "cbbdName": "Houston Christian"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "howard",
+    "displayName": "Howard",
+    "shortName": "Howard",
+    "division": "D1",
+    "conference": "MEAC",
+    "externalIds": {
+      "cbbdTeamId": 114,
+      "cbbdName": "Howard"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "idaho",
+    "displayName": "Idaho",
+    "shortName": "Idaho",
+    "division": "D1",
+    "conference": "Big Sky",
+    "externalIds": {
+      "cbbdTeamId": 117,
+      "cbbdName": "Idaho"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "idaho-state",
+    "displayName": "Idaho State",
+    "shortName": "Idaho State",
+    "division": "D1",
+    "conference": "Big Sky",
+    "externalIds": {
+      "cbbdTeamId": 116,
+      "cbbdName": "Idaho State"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "illinois",
+    "displayName": "Illinois",
+    "shortName": "Illinois",
+    "division": "D1",
+    "conference": "Big Ten",
+    "externalIds": {
+      "cbbdTeamId": 118,
+      "cbbdName": "Illinois"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "illinois-state",
+    "displayName": "Illinois State",
+    "shortName": "Illinois State",
+    "division": "D1",
+    "conference": "MVC",
+    "externalIds": {
+      "cbbdTeamId": 119,
+      "cbbdName": "Illinois State"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "incarnate-word",
+    "displayName": "Incarnate Word",
+    "shortName": "Incarnate Word",
+    "division": "D1",
+    "conference": "Southland",
+    "externalIds": {
+      "cbbdTeamId": 120,
+      "cbbdName": "Incarnate Word"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "indiana",
+    "displayName": "Indiana",
+    "shortName": "Indiana",
+    "division": "D1",
+    "conference": "Big Ten",
+    "externalIds": {
+      "cbbdTeamId": 121,
+      "cbbdName": "Indiana"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "indiana-state",
+    "displayName": "Indiana State",
+    "shortName": "Indiana State",
+    "division": "D1",
+    "conference": "MVC",
+    "externalIds": {
+      "cbbdTeamId": 122,
+      "cbbdName": "Indiana State"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "iona",
+    "displayName": "Iona",
+    "shortName": "Iona",
+    "division": "D1",
+    "conference": "MAAC",
+    "externalIds": {
+      "cbbdTeamId": 123,
+      "cbbdName": "Iona"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "iowa",
+    "displayName": "Iowa",
+    "shortName": "Iowa",
+    "division": "D1",
+    "conference": "Big Ten",
+    "externalIds": {
+      "cbbdTeamId": 124,
+      "cbbdName": "Iowa"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "iowa-state",
+    "displayName": "Iowa State",
+    "shortName": "Iowa State",
+    "division": "D1",
+    "conference": "Big 12",
+    "externalIds": {
+      "cbbdTeamId": 125,
+      "cbbdName": "Iowa State"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "iu-indianapolis",
+    "displayName": "IU Indianapolis",
+    "shortName": "IU Indianapolis",
+    "division": "D1",
+    "conference": "Horizon",
+    "externalIds": {
+      "cbbdTeamId": 115,
+      "cbbdName": "IU Indianapolis"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "jackson-state",
+    "displayName": "Jackson State",
+    "shortName": "Jackson State",
+    "division": "D1",
+    "conference": "SWAC",
+    "externalIds": {
+      "cbbdTeamId": 126,
+      "cbbdName": "Jackson State"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "jacksonville",
+    "displayName": "Jacksonville",
+    "shortName": "Jacksonville",
+    "division": "D1",
+    "conference": "ASUN",
+    "externalIds": {
+      "cbbdTeamId": 127,
+      "cbbdName": "Jacksonville"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "jacksonville-state",
+    "displayName": "Jacksonville State",
+    "shortName": "Jacksonville State",
+    "division": "D1",
+    "conference": "CUSA",
+    "externalIds": {
+      "cbbdTeamId": 128,
+      "cbbdName": "Jacksonville State"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "james-madison",
+    "displayName": "James Madison",
+    "shortName": "James Madison",
+    "division": "D1",
+    "conference": "Sun Belt",
+    "externalIds": {
+      "cbbdTeamId": 129,
+      "cbbdName": "James Madison"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "kansas",
+    "displayName": "Kansas",
+    "shortName": "Kansas",
+    "division": "D1",
+    "conference": "Big 12",
+    "externalIds": {
+      "cbbdTeamId": 131,
+      "cbbdName": "Kansas"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "kansas-city",
+    "displayName": "Kansas City",
+    "shortName": "Kansas City",
+    "division": "D1",
+    "conference": "Summit",
+    "externalIds": {
+      "cbbdTeamId": 130,
+      "cbbdName": "Kansas City"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "kansas-state",
+    "displayName": "Kansas State",
+    "shortName": "Kansas State",
+    "division": "D1",
+    "conference": "Big 12",
+    "externalIds": {
+      "cbbdTeamId": 132,
+      "cbbdName": "Kansas State"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "kennesaw-state",
+    "displayName": "Kennesaw State",
+    "shortName": "Kennesaw State",
+    "division": "D1",
+    "conference": "CUSA",
+    "externalIds": {
+      "cbbdTeamId": 133,
+      "cbbdName": "Kennesaw State"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "kent-state",
+    "displayName": "Kent State",
+    "shortName": "Kent State",
+    "division": "D1",
+    "conference": "MAC",
+    "externalIds": {
+      "cbbdTeamId": 134,
+      "cbbdName": "Kent State"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "kentucky",
+    "displayName": "Kentucky",
+    "shortName": "Kentucky",
+    "division": "D1",
+    "conference": "SEC",
+    "externalIds": {
+      "cbbdTeamId": 135,
+      "cbbdName": "Kentucky"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "la-salle",
+    "displayName": "La Salle",
+    "shortName": "La Salle",
+    "division": "D1",
+    "conference": "A-10",
+    "externalIds": {
+      "cbbdTeamId": 137,
+      "cbbdName": "La Salle"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "lafayette",
+    "displayName": "Lafayette",
+    "shortName": "Lafayette",
+    "division": "D1",
+    "conference": "Patriot",
+    "externalIds": {
+      "cbbdTeamId": 138,
+      "cbbdName": "Lafayette"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "lamar",
+    "displayName": "Lamar",
+    "shortName": "Lamar",
+    "division": "D1",
+    "conference": "Southland",
+    "externalIds": {
+      "cbbdTeamId": 139,
+      "cbbdName": "Lamar"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "le-moyne",
+    "displayName": "Le Moyne",
+    "shortName": "Le Moyne",
+    "division": "D1",
+    "conference": "NEC",
+    "externalIds": {
+      "cbbdTeamId": 140,
+      "cbbdName": "Le Moyne"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "lehigh",
+    "displayName": "Lehigh",
+    "shortName": "Lehigh",
+    "division": "D1",
+    "conference": "Patriot",
+    "externalIds": {
+      "cbbdTeamId": 141,
+      "cbbdName": "Lehigh"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "liberty",
+    "displayName": "Liberty",
+    "shortName": "Liberty",
+    "division": "D1",
+    "conference": "CUSA",
+    "externalIds": {
+      "cbbdTeamId": 142,
+      "cbbdName": "Liberty"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "lindenwood",
+    "displayName": "Lindenwood",
+    "shortName": "Lindenwood",
+    "division": "D1",
+    "conference": "OVC",
+    "externalIds": {
+      "cbbdTeamId": 366,
+      "cbbdName": "Lindenwood"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "lipscomb",
+    "displayName": "Lipscomb",
+    "shortName": "Lipscomb",
+    "division": "D1",
+    "conference": "ASUN",
+    "externalIds": {
+      "cbbdTeamId": 143,
+      "cbbdName": "Lipscomb"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "little-rock",
+    "displayName": "Little Rock",
+    "shortName": "Little Rock",
+    "division": "D1",
+    "conference": "OVC",
+    "externalIds": {
+      "cbbdTeamId": 144,
+      "cbbdName": "Little Rock"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "long-beach-state",
+    "displayName": "Long Beach State",
+    "shortName": "Long Beach State",
+    "division": "D1",
+    "conference": "Big West",
+    "externalIds": {
+      "cbbdTeamId": 145,
+      "cbbdName": "Long Beach State"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "long-island-university",
+    "displayName": "Long Island University",
+    "shortName": "Long Island University",
+    "division": "D1",
+    "conference": "NEC",
+    "externalIds": {
+      "cbbdTeamId": 146,
+      "cbbdName": "Long Island University"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "longwood",
+    "displayName": "Longwood",
+    "shortName": "Longwood",
+    "division": "D1",
+    "conference": "Big South",
+    "externalIds": {
+      "cbbdTeamId": 147,
+      "cbbdName": "Longwood"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "louisiana-lafayette",
+    "displayName": "Louisiana",
+    "shortName": "Louisiana",
+    "division": "D1",
+    "conference": "Sun Belt",
+    "externalIds": {
+      "cbbdTeamId": 148,
+      "cbbdName": "Louisiana"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "louisiana-tech",
+    "displayName": "Louisiana Tech",
+    "shortName": "Louisiana Tech",
+    "division": "D1",
+    "conference": "CUSA",
+    "externalIds": {
+      "cbbdTeamId": 149,
+      "cbbdName": "Louisiana Tech"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "louisville",
+    "displayName": "Louisville",
+    "shortName": "Louisville",
+    "division": "D1",
+    "conference": "ACC",
+    "externalIds": {
+      "cbbdTeamId": 150,
+      "cbbdName": "Louisville"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "loyola-chicago",
+    "displayName": "Loyola Chicago",
+    "shortName": "Loyola Chicago",
+    "division": "D1",
+    "conference": "A-10",
+    "externalIds": {
+      "cbbdTeamId": 151,
+      "cbbdName": "Loyola Chicago"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "loyola-maryland",
+    "displayName": "Loyola Maryland",
+    "shortName": "Loyola Maryland",
+    "division": "D1",
+    "conference": "Patriot",
+    "externalIds": {
+      "cbbdTeamId": 152,
+      "cbbdName": "Loyola Maryland"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "loyola-marymount",
+    "displayName": "Loyola Marymount",
+    "shortName": "Loyola Marymount",
+    "division": "D1",
+    "conference": "WCC",
+    "externalIds": {
+      "cbbdTeamId": 153,
+      "cbbdName": "Loyola Marymount"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "lsu",
+    "displayName": "LSU",
+    "shortName": "LSU",
+    "division": "D1",
+    "conference": "SEC",
+    "externalIds": {
+      "cbbdTeamId": 136,
+      "cbbdName": "LSU"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "maine",
+    "displayName": "Maine",
+    "shortName": "Maine",
+    "division": "D1",
+    "conference": "Am. East",
+    "externalIds": {
+      "cbbdTeamId": 154,
+      "cbbdName": "Maine"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "manhattan",
+    "displayName": "Manhattan",
+    "shortName": "Manhattan",
+    "division": "D1",
+    "conference": "MAAC",
+    "externalIds": {
+      "cbbdTeamId": 155,
+      "cbbdName": "Manhattan"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "marist",
+    "displayName": "Marist",
+    "shortName": "Marist",
+    "division": "D1",
+    "conference": "MAAC",
+    "externalIds": {
+      "cbbdTeamId": 156,
+      "cbbdName": "Marist"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "marquette",
+    "displayName": "Marquette",
+    "shortName": "Marquette",
+    "division": "D1",
+    "conference": "Big East",
+    "externalIds": {
+      "cbbdTeamId": 157,
+      "cbbdName": "Marquette"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "marshall",
+    "displayName": "Marshall",
+    "shortName": "Marshall",
+    "division": "D1",
+    "conference": "Sun Belt",
+    "externalIds": {
+      "cbbdTeamId": 158,
+      "cbbdName": "Marshall"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "maryland",
+    "displayName": "Maryland",
+    "shortName": "Maryland",
+    "division": "D1",
+    "conference": "Big Ten",
+    "externalIds": {
+      "cbbdTeamId": 160,
+      "cbbdName": "Maryland"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "maryland-eastern-shore",
+    "displayName": "Maryland Eastern Shore",
+    "shortName": "Maryland Eastern Shore",
+    "division": "D1",
+    "conference": "MEAC",
+    "externalIds": {
+      "cbbdTeamId": 159,
+      "cbbdName": "Maryland Eastern Shore"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "massachusetts",
+    "displayName": "Massachusetts",
+    "shortName": "Massachusetts",
+    "division": "D1",
+    "conference": "A-10",
+    "externalIds": {
+      "cbbdTeamId": 161,
+      "cbbdName": "Massachusetts"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "mcneese",
+    "displayName": "McNeese",
+    "shortName": "McNeese",
+    "division": "D1",
+    "conference": "Southland",
+    "externalIds": {
+      "cbbdTeamId": 162,
+      "cbbdName": "McNeese"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "memphis",
+    "displayName": "Memphis",
+    "shortName": "Memphis",
+    "division": "D1",
+    "conference": "American",
+    "externalIds": {
+      "cbbdTeamId": 163,
+      "cbbdName": "Memphis"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "mercer",
+    "displayName": "Mercer",
+    "shortName": "Mercer",
+    "division": "D1",
+    "conference": "SoCon",
+    "externalIds": {
+      "cbbdTeamId": 164,
+      "cbbdName": "Mercer"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "mercyhurst",
+    "displayName": "Mercyhurst",
+    "shortName": "Mercyhurst",
+    "division": "D1",
+    "conference": "NEC",
+    "externalIds": {
+      "cbbdTeamId": 165,
+      "cbbdName": "Mercyhurst"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "merrimack",
+    "displayName": "Merrimack",
+    "shortName": "Merrimack",
+    "division": "D1",
+    "conference": "MAAC",
+    "externalIds": {
+      "cbbdTeamId": 166,
+      "cbbdName": "Merrimack"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "miami",
+    "displayName": "Miami",
+    "shortName": "Miami",
+    "division": "D1",
+    "conference": "ACC",
+    "externalIds": {
+      "cbbdTeamId": 168,
+      "cbbdName": "Miami"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "miami-oh",
+    "displayName": "Miami (OH)",
+    "shortName": "Miami",
+    "division": "D1",
+    "conference": "MAC",
+    "externalIds": {
+      "cbbdTeamId": 167,
+      "cbbdName": "Miami (OH)"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "michigan",
+    "displayName": "Michigan",
+    "shortName": "Michigan",
+    "division": "D1",
+    "conference": "Big Ten",
+    "externalIds": {
+      "cbbdTeamId": 170,
+      "cbbdName": "Michigan"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "michigan-state",
+    "displayName": "Michigan State",
+    "shortName": "Michigan State",
+    "division": "D1",
+    "conference": "Big Ten",
+    "externalIds": {
+      "cbbdTeamId": 169,
+      "cbbdName": "Michigan State"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "middle-tennessee",
+    "displayName": "Middle Tennessee",
+    "shortName": "Middle Tennessee",
+    "division": "D1",
+    "conference": "CUSA",
+    "externalIds": {
+      "cbbdTeamId": 171,
+      "cbbdName": "Middle Tennessee"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "milwaukee",
+    "displayName": "Milwaukee",
+    "shortName": "Milwaukee",
+    "division": "D1",
+    "conference": "Horizon",
+    "externalIds": {
+      "cbbdTeamId": 172,
+      "cbbdName": "Milwaukee"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "minnesota",
+    "displayName": "Minnesota",
+    "shortName": "Minnesota",
+    "division": "D1",
+    "conference": "Big Ten",
+    "externalIds": {
+      "cbbdTeamId": 173,
+      "cbbdName": "Minnesota"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "mississippi-state",
+    "displayName": "Mississippi State",
+    "shortName": "Mississippi State",
+    "division": "D1",
+    "conference": "SEC",
+    "externalIds": {
+      "cbbdTeamId": 174,
+      "cbbdName": "Mississippi State"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "mississippi-valley-state",
+    "displayName": "Mississippi Valley State",
+    "shortName": "Mississippi Valley State",
+    "division": "D1",
+    "conference": "SWAC",
+    "externalIds": {
+      "cbbdTeamId": 175,
+      "cbbdName": "Mississippi Valley State"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "missouri",
+    "displayName": "Missouri",
+    "shortName": "Missouri",
+    "division": "D1",
+    "conference": "SEC",
+    "externalIds": {
+      "cbbdTeamId": 177,
+      "cbbdName": "Missouri"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "missouri-state",
+    "displayName": "Missouri State",
+    "shortName": "Missouri State",
+    "division": "D1",
+    "conference": "MVC",
+    "externalIds": {
+      "cbbdTeamId": 176,
+      "cbbdName": "Missouri State"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "monmouth",
+    "displayName": "Monmouth",
+    "shortName": "Monmouth",
+    "division": "D1",
+    "conference": "CAA",
+    "externalIds": {
+      "cbbdTeamId": 178,
+      "cbbdName": "Monmouth"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "montana",
+    "displayName": "Montana",
+    "shortName": "Montana",
+    "division": "D1",
+    "conference": "Big Sky",
+    "externalIds": {
+      "cbbdTeamId": 179,
+      "cbbdName": "Montana"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "montana-state",
+    "displayName": "Montana State",
+    "shortName": "Montana State",
+    "division": "D1",
+    "conference": "Big Sky",
+    "externalIds": {
+      "cbbdTeamId": 180,
+      "cbbdName": "Montana State"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "morehead-state",
+    "displayName": "Morehead State",
+    "shortName": "Morehead State",
+    "division": "D1",
+    "conference": "OVC",
+    "externalIds": {
+      "cbbdTeamId": 181,
+      "cbbdName": "Morehead State"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "morgan-state",
+    "displayName": "Morgan State",
+    "shortName": "Morgan State",
+    "division": "D1",
+    "conference": "MEAC",
+    "externalIds": {
+      "cbbdTeamId": 182,
+      "cbbdName": "Morgan State"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "mount-st-marys",
+    "displayName": "Mount St. Mary's",
+    "shortName": "Mount St. Mary's",
+    "division": "D1",
+    "conference": "MAAC",
+    "externalIds": {
+      "cbbdTeamId": 183,
+      "cbbdName": "Mount St. Mary's"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "murray-state",
+    "displayName": "Murray State",
+    "shortName": "Murray State",
+    "division": "D1",
+    "conference": "MVC",
+    "externalIds": {
+      "cbbdTeamId": 184,
+      "cbbdName": "Murray State"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "navy",
+    "displayName": "Navy",
+    "shortName": "Navy",
+    "division": "D1",
+    "conference": "Patriot",
+    "externalIds": {
+      "cbbdTeamId": 187,
+      "cbbdName": "Navy"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "nc-state",
+    "displayName": "NC State",
+    "shortName": "NC State",
+    "division": "D1",
+    "conference": "ACC",
+    "externalIds": {
+      "cbbdTeamId": 185,
+      "cbbdName": "NC State"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "nebraska",
+    "displayName": "Nebraska",
+    "shortName": "Nebraska",
+    "division": "D1",
+    "conference": "Big Ten",
+    "externalIds": {
+      "cbbdTeamId": 188,
+      "cbbdName": "Nebraska"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "nevada",
+    "displayName": "Nevada",
+    "shortName": "Nevada",
+    "division": "D1",
+    "conference": "Mountain West",
+    "externalIds": {
+      "cbbdTeamId": 189,
+      "cbbdName": "Nevada"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "new-hampshire",
+    "displayName": "New Hampshire",
+    "shortName": "New Hampshire",
+    "division": "D1",
+    "conference": "Am. East",
+    "externalIds": {
+      "cbbdTeamId": 190,
+      "cbbdName": "New Hampshire"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "new-mexico",
+    "displayName": "New Mexico",
+    "shortName": "New Mexico",
+    "division": "D1",
+    "conference": "Mountain West",
+    "externalIds": {
+      "cbbdTeamId": 191,
+      "cbbdName": "New Mexico"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "new-mexico-state",
+    "displayName": "New Mexico State",
+    "shortName": "New Mexico State",
+    "division": "D1",
+    "conference": "CUSA",
+    "externalIds": {
+      "cbbdTeamId": 192,
+      "cbbdName": "New Mexico State"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "new-orleans",
+    "displayName": "New Orleans",
+    "shortName": "New Orleans",
+    "division": "D1",
+    "conference": "Southland",
+    "externalIds": {
+      "cbbdTeamId": 193,
+      "cbbdName": "New Orleans"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "niagara",
+    "displayName": "Niagara",
+    "shortName": "Niagara",
+    "division": "D1",
+    "conference": "MAAC",
+    "externalIds": {
+      "cbbdTeamId": 194,
+      "cbbdName": "Niagara"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "nicholls",
+    "displayName": "Nicholls",
+    "shortName": "Nicholls",
+    "division": "D1",
+    "conference": "Southland",
+    "externalIds": {
+      "cbbdTeamId": 195,
+      "cbbdName": "Nicholls"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "njit",
+    "displayName": "NJIT",
+    "shortName": "NJIT",
+    "division": "D1",
+    "conference": "Am. East",
+    "externalIds": {
+      "cbbdTeamId": 186,
+      "cbbdName": "NJIT"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "norfolk-state",
+    "displayName": "Norfolk State",
+    "shortName": "Norfolk State",
+    "division": "D1",
+    "conference": "MEAC",
+    "externalIds": {
+      "cbbdTeamId": 196,
+      "cbbdName": "Norfolk State"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "north-alabama",
+    "displayName": "North Alabama",
+    "shortName": "North Alabama",
+    "division": "D1",
+    "conference": "ASUN",
+    "externalIds": {
+      "cbbdTeamId": 197,
+      "cbbdName": "North Alabama"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "north-carolina",
+    "displayName": "North Carolina",
+    "shortName": "North Carolina",
+    "division": "D1",
+    "conference": "ACC",
+    "externalIds": {
+      "cbbdTeamId": 200,
+      "cbbdName": "North Carolina"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "north-carolina-at",
+    "displayName": "North Carolina A&T",
+    "shortName": "North Carolina A&T",
+    "division": "D1",
+    "conference": "CAA",
+    "externalIds": {
+      "cbbdTeamId": 198,
+      "cbbdName": "North Carolina A&T"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "north-carolina-central",
+    "displayName": "North Carolina Central",
+    "shortName": "North Carolina Central",
+    "division": "D1",
+    "conference": "MEAC",
+    "externalIds": {
+      "cbbdTeamId": 199,
+      "cbbdName": "North Carolina Central"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "north-dakota",
+    "displayName": "North Dakota",
+    "shortName": "North Dakota",
+    "division": "D1",
+    "conference": "Summit",
+    "externalIds": {
+      "cbbdTeamId": 201,
+      "cbbdName": "North Dakota"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "north-dakota-state",
+    "displayName": "North Dakota State",
+    "shortName": "North Dakota State",
+    "division": "D1",
+    "conference": "Summit",
+    "externalIds": {
+      "cbbdTeamId": 202,
+      "cbbdName": "North Dakota State"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "north-florida",
+    "displayName": "North Florida",
+    "shortName": "North Florida",
+    "division": "D1",
+    "conference": "ASUN",
+    "externalIds": {
+      "cbbdTeamId": 203,
+      "cbbdName": "North Florida"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "north-texas",
+    "displayName": "North Texas",
+    "shortName": "North Texas",
+    "division": "D1",
+    "conference": "American",
+    "externalIds": {
+      "cbbdTeamId": 204,
+      "cbbdName": "North Texas"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "northeastern",
+    "displayName": "Northeastern",
+    "shortName": "Northeastern",
+    "division": "D1",
+    "conference": "CAA",
+    "externalIds": {
+      "cbbdTeamId": 205,
+      "cbbdName": "Northeastern"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "northern-arizona",
+    "displayName": "Northern Arizona",
+    "shortName": "Northern Arizona",
+    "division": "D1",
+    "conference": "Big Sky",
+    "externalIds": {
+      "cbbdTeamId": 206,
+      "cbbdName": "Northern Arizona"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "northern-colorado",
+    "displayName": "Northern Colorado",
+    "shortName": "Northern Colorado",
+    "division": "D1",
+    "conference": "Big Sky",
+    "externalIds": {
+      "cbbdTeamId": 207,
+      "cbbdName": "Northern Colorado"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "northern-illinois",
+    "displayName": "Northern Illinois",
+    "shortName": "Northern Illinois",
+    "division": "D1",
+    "conference": "MAC",
+    "externalIds": {
+      "cbbdTeamId": 208,
+      "cbbdName": "Northern Illinois"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "northern-iowa",
+    "displayName": "Northern Iowa",
+    "shortName": "Northern Iowa",
+    "division": "D1",
+    "conference": "MVC",
+    "externalIds": {
+      "cbbdTeamId": 209,
+      "cbbdName": "Northern Iowa"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "northern-kentucky",
+    "displayName": "Northern Kentucky",
+    "shortName": "Northern Kentucky",
+    "division": "D1",
+    "conference": "Horizon",
+    "externalIds": {
+      "cbbdTeamId": 210,
+      "cbbdName": "Northern Kentucky"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "northwestern",
+    "displayName": "Northwestern",
+    "shortName": "Northwestern",
+    "division": "D1",
+    "conference": "Big Ten",
+    "externalIds": {
+      "cbbdTeamId": 212,
+      "cbbdName": "Northwestern"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "northwestern-state",
+    "displayName": "Northwestern State",
+    "shortName": "Northwestern State",
+    "division": "D1",
+    "conference": "Southland",
+    "externalIds": {
+      "cbbdTeamId": 211,
+      "cbbdName": "Northwestern State"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "notre-dame",
+    "displayName": "Notre Dame",
+    "shortName": "Notre Dame",
+    "division": "D1",
+    "conference": "ACC",
+    "externalIds": {
+      "cbbdTeamId": 213,
+      "cbbdName": "Notre Dame"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "oakland",
+    "displayName": "Oakland",
+    "shortName": "Oakland",
+    "division": "D1",
+    "conference": "Horizon",
+    "externalIds": {
+      "cbbdTeamId": 214,
+      "cbbdName": "Oakland"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "ohio",
+    "displayName": "Ohio",
+    "shortName": "Ohio",
+    "division": "D1",
+    "conference": "MAC",
+    "externalIds": {
+      "cbbdTeamId": 215,
+      "cbbdName": "Ohio"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "ohio-state",
+    "displayName": "Ohio State",
+    "shortName": "Ohio State",
+    "division": "D1",
+    "conference": "Big Ten",
+    "externalIds": {
+      "cbbdTeamId": 216,
+      "cbbdName": "Ohio State"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "oklahoma",
+    "displayName": "Oklahoma",
+    "shortName": "Oklahoma",
+    "division": "D1",
+    "conference": "SEC",
+    "externalIds": {
+      "cbbdTeamId": 217,
+      "cbbdName": "Oklahoma"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "oklahoma-state",
+    "displayName": "Oklahoma State",
+    "shortName": "Oklahoma State",
+    "division": "D1",
+    "conference": "Big 12",
+    "externalIds": {
+      "cbbdTeamId": 218,
+      "cbbdName": "Oklahoma State"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "old-dominion",
+    "displayName": "Old Dominion",
+    "shortName": "Old Dominion",
+    "division": "D1",
+    "conference": "Sun Belt",
+    "externalIds": {
+      "cbbdTeamId": 219,
+      "cbbdName": "Old Dominion"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "ole-miss",
+    "displayName": "Ole Miss",
+    "shortName": "Ole Miss",
+    "division": "D1",
+    "conference": "SEC",
+    "externalIds": {
+      "cbbdTeamId": 220,
+      "cbbdName": "Ole Miss"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "omaha",
+    "displayName": "Omaha",
+    "shortName": "Omaha",
+    "division": "D1",
+    "conference": "Summit",
+    "externalIds": {
+      "cbbdTeamId": 221,
+      "cbbdName": "Omaha"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "oral-roberts",
+    "displayName": "Oral Roberts",
+    "shortName": "Oral Roberts",
+    "division": "D1",
+    "conference": "Summit",
+    "externalIds": {
+      "cbbdTeamId": 222,
+      "cbbdName": "Oral Roberts"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "oregon",
+    "displayName": "Oregon",
+    "shortName": "Oregon",
+    "division": "D1",
+    "conference": "Big Ten",
+    "externalIds": {
+      "cbbdTeamId": 223,
+      "cbbdName": "Oregon"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "oregon-state",
+    "displayName": "Oregon State",
+    "shortName": "Oregon State",
+    "division": "D1",
+    "conference": "WCC",
+    "externalIds": {
+      "cbbdTeamId": 224,
+      "cbbdName": "Oregon State"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "pacific",
+    "displayName": "Pacific",
+    "shortName": "Pacific",
+    "division": "D1",
+    "conference": "WCC",
+    "externalIds": {
+      "cbbdTeamId": 225,
+      "cbbdName": "Pacific"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "penn-state",
+    "displayName": "Penn State",
+    "shortName": "Penn State",
+    "division": "D1",
+    "conference": "Big Ten",
+    "externalIds": {
+      "cbbdTeamId": 226,
+      "cbbdName": "Penn State"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "pennsylvania",
+    "displayName": "Pennsylvania",
+    "shortName": "Pennsylvania",
+    "division": "D1",
+    "conference": "Ivy",
+    "externalIds": {
+      "cbbdTeamId": 227,
+      "cbbdName": "Pennsylvania"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "pepperdine",
+    "displayName": "Pepperdine",
+    "shortName": "Pepperdine",
+    "division": "D1",
+    "conference": "WCC",
+    "externalIds": {
+      "cbbdTeamId": 228,
+      "cbbdName": "Pepperdine"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "pittsburgh",
+    "displayName": "Pittsburgh",
+    "shortName": "Pittsburgh",
+    "division": "D1",
+    "conference": "ACC",
+    "externalIds": {
+      "cbbdTeamId": 229,
+      "cbbdName": "Pittsburgh"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "portland",
+    "displayName": "Portland",
+    "shortName": "Portland",
+    "division": "D1",
+    "conference": "WCC",
+    "externalIds": {
+      "cbbdTeamId": 230,
+      "cbbdName": "Portland"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "portland-state",
+    "displayName": "Portland State",
+    "shortName": "Portland State",
+    "division": "D1",
+    "conference": "Big Sky",
+    "externalIds": {
+      "cbbdTeamId": 231,
+      "cbbdName": "Portland State"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "prairie-view-am",
+    "displayName": "Prairie View A&M",
+    "shortName": "Prairie View A&M",
+    "division": "D1",
+    "conference": "SWAC",
+    "externalIds": {
+      "cbbdTeamId": 232,
+      "cbbdName": "Prairie View A&M"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "presbyterian",
+    "displayName": "Presbyterian",
+    "shortName": "Presbyterian",
+    "division": "D1",
+    "conference": "Big South",
+    "externalIds": {
+      "cbbdTeamId": 233,
+      "cbbdName": "Presbyterian"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "princeton",
+    "displayName": "Princeton",
+    "shortName": "Princeton",
+    "division": "D1",
+    "conference": "Ivy",
+    "externalIds": {
+      "cbbdTeamId": 234,
+      "cbbdName": "Princeton"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "providence",
+    "displayName": "Providence",
+    "shortName": "Providence",
+    "division": "D1",
+    "conference": "Big East",
+    "externalIds": {
+      "cbbdTeamId": 235,
+      "cbbdName": "Providence"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "purdue",
+    "displayName": "Purdue",
+    "shortName": "Purdue",
+    "division": "D1",
+    "conference": "Big Ten",
+    "externalIds": {
+      "cbbdTeamId": 236,
+      "cbbdName": "Purdue"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "purdue-fort-wayne",
+    "displayName": "Purdue Fort Wayne",
+    "shortName": "Purdue Fort Wayne",
+    "division": "D1",
+    "conference": "Horizon",
+    "externalIds": {
+      "cbbdTeamId": 237,
+      "cbbdName": "Purdue Fort Wayne"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "queens-university",
+    "displayName": "Queens University",
+    "shortName": "Queens University",
+    "division": "D1",
+    "conference": "ASUN",
+    "externalIds": {
+      "cbbdTeamId": 362,
+      "cbbdName": "Queens University"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "quinnipiac",
+    "displayName": "Quinnipiac",
+    "shortName": "Quinnipiac",
+    "division": "D1",
+    "conference": "MAAC",
+    "externalIds": {
+      "cbbdTeamId": 238,
+      "cbbdName": "Quinnipiac"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "radford",
+    "displayName": "Radford",
+    "shortName": "Radford",
+    "division": "D1",
+    "conference": "Big South",
+    "externalIds": {
+      "cbbdTeamId": 239,
+      "cbbdName": "Radford"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "rhode-island",
+    "displayName": "Rhode Island",
+    "shortName": "Rhode Island",
+    "division": "D1",
+    "conference": "A-10",
+    "externalIds": {
+      "cbbdTeamId": 240,
+      "cbbdName": "Rhode Island"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "rice",
+    "displayName": "Rice",
+    "shortName": "Rice",
+    "division": "D1",
+    "conference": "American",
+    "externalIds": {
+      "cbbdTeamId": 241,
+      "cbbdName": "Rice"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "richmond",
+    "displayName": "Richmond",
+    "shortName": "Richmond",
+    "division": "D1",
+    "conference": "A-10",
+    "externalIds": {
+      "cbbdTeamId": 242,
+      "cbbdName": "Richmond"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "rider",
+    "displayName": "Rider",
+    "shortName": "Rider",
+    "division": "D1",
+    "conference": "MAAC",
+    "externalIds": {
+      "cbbdTeamId": 243,
+      "cbbdName": "Rider"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "robert-morris",
+    "displayName": "Robert Morris",
+    "shortName": "Robert Morris",
+    "division": "D1",
+    "conference": "Horizon",
+    "externalIds": {
+      "cbbdTeamId": 244,
+      "cbbdName": "Robert Morris"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "rutgers",
+    "displayName": "Rutgers",
+    "shortName": "Rutgers",
+    "division": "D1",
+    "conference": "Big Ten",
+    "externalIds": {
+      "cbbdTeamId": 245,
+      "cbbdName": "Rutgers"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "sacramento-state",
+    "displayName": "Sacramento State",
+    "shortName": "Sacramento State",
+    "division": "D1",
+    "conference": "Big Sky",
+    "externalIds": {
+      "cbbdTeamId": 249,
+      "cbbdName": "Sacramento State"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "sacred-heart",
+    "displayName": "Sacred Heart",
+    "shortName": "Sacred Heart",
+    "division": "D1",
+    "conference": "MAAC",
+    "externalIds": {
+      "cbbdTeamId": 250,
+      "cbbdName": "Sacred Heart"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "saint-josephs",
+    "displayName": "Saint Joseph's",
+    "shortName": "Saint Joseph's",
+    "division": "D1",
+    "conference": "A-10",
+    "externalIds": {
+      "cbbdTeamId": 251,
+      "cbbdName": "Saint Joseph's"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "saint-louis",
+    "displayName": "Saint Louis",
+    "shortName": "Saint Louis",
+    "division": "D1",
+    "conference": "A-10",
+    "externalIds": {
+      "cbbdTeamId": 252,
+      "cbbdName": "Saint Louis"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "saint-marys",
+    "displayName": "Saint Mary's",
+    "shortName": "Saint Mary's",
+    "division": "D1",
+    "conference": "WCC",
+    "externalIds": {
+      "cbbdTeamId": 253,
+      "cbbdName": "Saint Mary's"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "saint-peters",
+    "displayName": "Saint Peter's",
+    "shortName": "Saint Peter's",
+    "division": "D1",
+    "conference": "MAAC",
+    "externalIds": {
+      "cbbdTeamId": 254,
+      "cbbdName": "Saint Peter's"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "sam-houston",
+    "displayName": "Sam Houston",
+    "shortName": "Sam Houston",
+    "division": "D1",
+    "conference": "CUSA",
+    "externalIds": {
+      "cbbdTeamId": 255,
+      "cbbdName": "Sam Houston"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "samford",
+    "displayName": "Samford",
+    "shortName": "Samford",
+    "division": "D1",
+    "conference": "SoCon",
+    "externalIds": {
+      "cbbdTeamId": 256,
+      "cbbdName": "Samford"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "san-diego",
+    "displayName": "San Diego",
+    "shortName": "San Diego",
+    "division": "D1",
+    "conference": "WCC",
+    "externalIds": {
+      "cbbdTeamId": 258,
+      "cbbdName": "San Diego"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "san-diego-state",
+    "displayName": "San Diego State",
+    "shortName": "San Diego State",
+    "division": "D1",
+    "conference": "Mountain West",
+    "externalIds": {
+      "cbbdTeamId": 257,
+      "cbbdName": "San Diego State"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "san-francisco",
+    "displayName": "San Francisco",
+    "shortName": "San Francisco",
+    "division": "D1",
+    "conference": "WCC",
+    "externalIds": {
+      "cbbdTeamId": 259,
+      "cbbdName": "San Francisco"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "san-jos-state",
+    "displayName": "San José State",
+    "shortName": "San José State",
+    "division": "D1",
+    "conference": "Mountain West",
+    "externalIds": {
+      "cbbdTeamId": 260,
+      "cbbdName": "San José State"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "santa-clara",
+    "displayName": "Santa Clara",
+    "shortName": "Santa Clara",
+    "division": "D1",
+    "conference": "WCC",
+    "externalIds": {
+      "cbbdTeamId": 261,
+      "cbbdName": "Santa Clara"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "se-louisiana",
+    "displayName": "SE Louisiana",
+    "shortName": "SE Louisiana",
+    "division": "D1",
+    "conference": "Southland",
+    "externalIds": {
+      "cbbdTeamId": 246,
+      "cbbdName": "SE Louisiana"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "seattle-u",
+    "displayName": "Seattle U",
+    "shortName": "Seattle U",
+    "division": "D1",
+    "conference": "WAC",
+    "externalIds": {
+      "cbbdTeamId": 262,
+      "cbbdName": "Seattle U"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "seton-hall",
+    "displayName": "Seton Hall",
+    "shortName": "Seton Hall",
+    "division": "D1",
+    "conference": "Big East",
+    "externalIds": {
+      "cbbdTeamId": 263,
+      "cbbdName": "Seton Hall"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "siena",
+    "displayName": "Siena",
+    "shortName": "Siena",
+    "division": "D1",
+    "conference": "MAAC",
+    "externalIds": {
+      "cbbdTeamId": 264,
+      "cbbdName": "Siena"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "siu-edwardsville",
+    "displayName": "SIU Edwardsville",
+    "shortName": "SIU Edwardsville",
+    "division": "D1",
+    "conference": "OVC",
+    "externalIds": {
+      "cbbdTeamId": 247,
+      "cbbdName": "SIU Edwardsville"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "smu",
+    "displayName": "SMU",
+    "shortName": "SMU",
+    "division": "D1",
+    "conference": "ACC",
+    "externalIds": {
+      "cbbdTeamId": 248,
+      "cbbdName": "SMU"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "south-alabama",
+    "displayName": "South Alabama",
+    "shortName": "South Alabama",
+    "division": "D1",
+    "conference": "Sun Belt",
+    "externalIds": {
+      "cbbdTeamId": 265,
+      "cbbdName": "South Alabama"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "south-carolina",
+    "displayName": "South Carolina",
+    "shortName": "South Carolina",
+    "division": "D1",
+    "conference": "SEC",
+    "externalIds": {
+      "cbbdTeamId": 266,
+      "cbbdName": "South Carolina"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "south-carolina-state",
+    "displayName": "South Carolina State",
+    "shortName": "South Carolina State",
+    "division": "D1",
+    "conference": "MEAC",
+    "externalIds": {
+      "cbbdTeamId": 267,
+      "cbbdName": "South Carolina State"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "south-carolina-upstate",
+    "displayName": "South Carolina Upstate",
+    "shortName": "South Carolina Upstate",
+    "division": "D1",
+    "conference": "Big South",
+    "externalIds": {
+      "cbbdTeamId": 268,
+      "cbbdName": "South Carolina Upstate"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "south-dakota",
+    "displayName": "South Dakota",
+    "shortName": "South Dakota",
+    "division": "D1",
+    "conference": "Summit",
+    "externalIds": {
+      "cbbdTeamId": 269,
+      "cbbdName": "South Dakota"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "south-dakota-state",
+    "displayName": "South Dakota State",
+    "shortName": "South Dakota State",
+    "division": "D1",
+    "conference": "Summit",
+    "externalIds": {
+      "cbbdTeamId": 270,
+      "cbbdName": "South Dakota State"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "south-florida",
+    "displayName": "South Florida",
+    "shortName": "South Florida",
+    "division": "D1",
+    "conference": "American",
+    "externalIds": {
+      "cbbdTeamId": 271,
+      "cbbdName": "South Florida"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "southeast-missouri-state",
+    "displayName": "Southeast Missouri State",
+    "shortName": "Southeast Missouri State",
+    "division": "D1",
+    "conference": "OVC",
+    "externalIds": {
+      "cbbdTeamId": 272,
+      "cbbdName": "Southeast Missouri State"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "southern",
+    "displayName": "Southern",
+    "shortName": "Southern",
+    "division": "D1",
+    "conference": "SWAC",
+    "externalIds": {
+      "cbbdTeamId": 274,
+      "cbbdName": "Southern"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "southern-illinois",
+    "displayName": "Southern Illinois",
+    "shortName": "Southern Illinois",
+    "division": "D1",
+    "conference": "MVC",
+    "externalIds": {
+      "cbbdTeamId": 273,
+      "cbbdName": "Southern Illinois"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "southern-indiana",
+    "displayName": "Southern Indiana",
+    "shortName": "Southern Indiana",
+    "division": "D1",
+    "conference": "OVC",
+    "externalIds": {
+      "cbbdTeamId": 365,
+      "cbbdName": "Southern Indiana"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "southern-miss",
+    "displayName": "Southern Miss",
+    "shortName": "Southern Miss",
+    "division": "D1",
+    "conference": "Sun Belt",
+    "externalIds": {
+      "cbbdTeamId": 275,
+      "cbbdName": "Southern Miss"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "southern-utah",
+    "displayName": "Southern Utah",
+    "shortName": "Southern Utah",
+    "division": "D1",
+    "conference": "WAC",
+    "externalIds": {
+      "cbbdTeamId": 276,
+      "cbbdName": "Southern Utah"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "st-bonaventure",
+    "displayName": "St. Bonaventure",
+    "shortName": "St. Bonaventure",
+    "division": "D1",
+    "conference": "A-10",
+    "externalIds": {
+      "cbbdTeamId": 277,
+      "cbbdName": "St. Bonaventure"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "st-francis-pa",
+    "displayName": "St. Francis (PA)",
+    "shortName": "St. Francis",
+    "division": "D1",
+    "conference": "NEC",
+    "externalIds": {
+      "cbbdTeamId": 278,
+      "cbbdName": "St. Francis (PA)"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "st-johns",
+    "displayName": "St. John's",
+    "shortName": "St. John's",
+    "division": "D1",
+    "conference": "Big East",
+    "externalIds": {
+      "cbbdTeamId": 279,
+      "cbbdName": "St. John's"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "st-thomas-minnesota",
+    "displayName": "St. Thomas-Minnesota",
+    "shortName": "St. Thomas-Minnesota",
+    "division": "D1",
+    "conference": "Summit",
+    "externalIds": {
+      "cbbdTeamId": 280,
+      "cbbdName": "St. Thomas-Minnesota"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "stanford",
+    "displayName": "Stanford",
+    "shortName": "Stanford",
+    "division": "D1",
+    "conference": "ACC",
+    "externalIds": {
+      "cbbdTeamId": 281,
+      "cbbdName": "Stanford"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "stephen-f-austin",
+    "displayName": "Stephen F. Austin",
+    "shortName": "Stephen F. Austin",
+    "division": "D1",
+    "conference": "Southland",
+    "externalIds": {
+      "cbbdTeamId": 282,
+      "cbbdName": "Stephen F. Austin"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "stetson",
+    "displayName": "Stetson",
+    "shortName": "Stetson",
+    "division": "D1",
+    "conference": "ASUN",
+    "externalIds": {
+      "cbbdTeamId": 283,
+      "cbbdName": "Stetson"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "stonehill",
+    "displayName": "Stonehill",
+    "shortName": "Stonehill",
+    "division": "D1",
+    "conference": "NEC",
+    "externalIds": {
+      "cbbdTeamId": 284,
+      "cbbdName": "Stonehill"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "stony-brook",
+    "displayName": "Stony Brook",
+    "shortName": "Stony Brook",
+    "division": "D1",
+    "conference": "CAA",
+    "externalIds": {
+      "cbbdTeamId": 285,
+      "cbbdName": "Stony Brook"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "syracuse",
+    "displayName": "Syracuse",
+    "shortName": "Syracuse",
+    "division": "D1",
+    "conference": "ACC",
+    "externalIds": {
+      "cbbdTeamId": 286,
+      "cbbdName": "Syracuse"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "tarleton-state",
+    "displayName": "Tarleton State",
+    "shortName": "Tarleton State",
+    "division": "D1",
+    "conference": "WAC",
+    "externalIds": {
+      "cbbdTeamId": 288,
+      "cbbdName": "Tarleton State"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "tcu",
+    "displayName": "TCU",
+    "shortName": "TCU",
+    "division": "D1",
+    "conference": "Big 12",
+    "externalIds": {
+      "cbbdTeamId": 287,
+      "cbbdName": "TCU"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "temple",
+    "displayName": "Temple",
+    "shortName": "Temple",
+    "division": "D1",
+    "conference": "American",
+    "externalIds": {
+      "cbbdTeamId": 289,
+      "cbbdName": "Temple"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "tennessee",
+    "displayName": "Tennessee",
+    "shortName": "Tennessee",
+    "division": "D1",
+    "conference": "SEC",
+    "externalIds": {
+      "cbbdTeamId": 292,
+      "cbbdName": "Tennessee"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "tennessee-state",
+    "displayName": "Tennessee State",
+    "shortName": "Tennessee State",
+    "division": "D1",
+    "conference": "OVC",
+    "externalIds": {
+      "cbbdTeamId": 290,
+      "cbbdName": "Tennessee State"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "tennessee-tech",
+    "displayName": "Tennessee Tech",
+    "shortName": "Tennessee Tech",
+    "division": "D1",
+    "conference": "OVC",
+    "externalIds": {
+      "cbbdTeamId": 291,
+      "cbbdName": "Tennessee Tech"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "texas",
+    "displayName": "Texas",
+    "shortName": "Texas",
+    "division": "D1",
+    "conference": "SEC",
+    "externalIds": {
+      "cbbdTeamId": 295,
+      "cbbdName": "Texas"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "texas-am",
+    "displayName": "Texas A&M",
+    "shortName": "Texas A&M",
+    "division": "D1",
+    "conference": "SEC",
+    "externalIds": {
+      "cbbdTeamId": 293,
+      "cbbdName": "Texas A&M"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "texas-am-corpus-christi",
+    "displayName": "Texas A&M-Corpus Christi",
+    "shortName": "Texas A&M-Corpus Christi",
+    "division": "D1",
+    "conference": "Southland",
+    "externalIds": {
+      "cbbdTeamId": 294,
+      "cbbdName": "Texas A&M-Corpus Christi"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "texas-southern",
+    "displayName": "Texas Southern",
+    "shortName": "Texas Southern",
+    "division": "D1",
+    "conference": "SWAC",
+    "externalIds": {
+      "cbbdTeamId": 296,
+      "cbbdName": "Texas Southern"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "texas-state",
+    "displayName": "Texas State",
+    "shortName": "Texas State",
+    "division": "D1",
+    "conference": "Sun Belt",
+    "externalIds": {
+      "cbbdTeamId": 297,
+      "cbbdName": "Texas State"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "texas-tech",
+    "displayName": "Texas Tech",
+    "shortName": "Texas Tech",
+    "division": "D1",
+    "conference": "Big 12",
+    "externalIds": {
+      "cbbdTeamId": 298,
+      "cbbdName": "Texas Tech"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "the-citadel",
+    "displayName": "The Citadel",
+    "shortName": "Citadel",
+    "division": "D1",
+    "conference": "SoCon",
+    "externalIds": {
+      "cbbdTeamId": 299,
+      "cbbdName": "The Citadel"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "toledo",
+    "displayName": "Toledo",
+    "shortName": "Toledo",
+    "division": "D1",
+    "conference": "MAC",
+    "externalIds": {
+      "cbbdTeamId": 300,
+      "cbbdName": "Toledo"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "towson",
+    "displayName": "Towson",
+    "shortName": "Towson",
+    "division": "D1",
+    "conference": "CAA",
+    "externalIds": {
+      "cbbdTeamId": 301,
+      "cbbdName": "Towson"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "troy",
+    "displayName": "Troy",
+    "shortName": "Troy",
+    "division": "D1",
+    "conference": "Sun Belt",
+    "externalIds": {
+      "cbbdTeamId": 302,
+      "cbbdName": "Troy"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "tulane",
+    "displayName": "Tulane",
+    "shortName": "Tulane",
+    "division": "D1",
+    "conference": "American",
+    "externalIds": {
+      "cbbdTeamId": 303,
+      "cbbdName": "Tulane"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "tulsa",
+    "displayName": "Tulsa",
+    "shortName": "Tulsa",
+    "division": "D1",
+    "conference": "American",
+    "externalIds": {
+      "cbbdTeamId": 304,
+      "cbbdName": "Tulsa"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "uab",
+    "displayName": "UAB",
+    "shortName": "UAB",
+    "division": "D1",
+    "conference": "American",
+    "externalIds": {
+      "cbbdTeamId": 305,
+      "cbbdName": "UAB"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "ualbany",
+    "displayName": "UAlbany",
+    "shortName": "UAlbany",
+    "division": "D1",
+    "conference": "Am. East",
+    "externalIds": {
+      "cbbdTeamId": 306,
+      "cbbdName": "UAlbany"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "uc-davis",
+    "displayName": "UC Davis",
+    "shortName": "UC Davis",
+    "division": "D1",
+    "conference": "Big West",
+    "externalIds": {
+      "cbbdTeamId": 307,
+      "cbbdName": "UC Davis"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "uc-irvine",
+    "displayName": "UC Irvine",
+    "shortName": "UC Irvine",
+    "division": "D1",
+    "conference": "Big West",
+    "externalIds": {
+      "cbbdTeamId": 308,
+      "cbbdName": "UC Irvine"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "uc-riverside",
+    "displayName": "UC Riverside",
+    "shortName": "UC Riverside",
+    "division": "D1",
+    "conference": "Big West",
+    "externalIds": {
+      "cbbdTeamId": 309,
+      "cbbdName": "UC Riverside"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "uc-san-diego",
+    "displayName": "UC San Diego",
+    "shortName": "UC San Diego",
+    "division": "D1",
+    "conference": "Big West",
+    "externalIds": {
+      "cbbdTeamId": 310,
+      "cbbdName": "UC San Diego"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "uc-santa-barbara",
+    "displayName": "UC Santa Barbara",
+    "shortName": "UC Santa Barbara",
+    "division": "D1",
+    "conference": "Big West",
+    "externalIds": {
+      "cbbdTeamId": 311,
+      "cbbdName": "UC Santa Barbara"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "ucf",
+    "displayName": "UCF",
+    "shortName": "UCF",
+    "division": "D1",
+    "conference": "Big 12",
+    "externalIds": {
+      "cbbdTeamId": 312,
+      "cbbdName": "UCF"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "ucla",
+    "displayName": "UCLA",
+    "shortName": "UCLA",
+    "division": "D1",
+    "conference": "Big Ten",
+    "externalIds": {
+      "cbbdTeamId": 313,
+      "cbbdName": "UCLA"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "uconn",
+    "displayName": "UConn",
+    "shortName": "UConn",
+    "division": "D1",
+    "conference": "Big East",
+    "externalIds": {
+      "cbbdTeamId": 314,
+      "cbbdName": "UConn"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "uic",
+    "displayName": "UIC",
+    "shortName": "UIC",
+    "division": "D1",
+    "conference": "MVC",
+    "externalIds": {
+      "cbbdTeamId": 315,
+      "cbbdName": "UIC"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "ul-monroe",
+    "displayName": "UL Monroe",
+    "shortName": "UL Monroe",
+    "division": "D1",
+    "conference": "Sun Belt",
+    "externalIds": {
+      "cbbdTeamId": 316,
+      "cbbdName": "UL Monroe"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "umass-lowell",
+    "displayName": "UMass Lowell",
+    "shortName": "UMass Lowell",
+    "division": "D1",
+    "conference": "Am. East",
+    "externalIds": {
+      "cbbdTeamId": 318,
+      "cbbdName": "UMass Lowell"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "umbc",
+    "displayName": "UMBC",
+    "shortName": "UMBC",
+    "division": "D1",
+    "conference": "Am. East",
+    "externalIds": {
+      "cbbdTeamId": 317,
+      "cbbdName": "UMBC"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "unc-asheville",
+    "displayName": "UNC Asheville",
+    "shortName": "UNC Asheville",
+    "division": "D1",
+    "conference": "Big South",
+    "externalIds": {
+      "cbbdTeamId": 319,
+      "cbbdName": "UNC Asheville"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "unc-greensboro",
+    "displayName": "UNC Greensboro",
+    "shortName": "UNC Greensboro",
+    "division": "D1",
+    "conference": "SoCon",
+    "externalIds": {
+      "cbbdTeamId": 320,
+      "cbbdName": "UNC Greensboro"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "unc-wilmington",
+    "displayName": "UNC Wilmington",
+    "shortName": "UNC Wilmington",
+    "division": "D1",
+    "conference": "CAA",
+    "externalIds": {
+      "cbbdTeamId": 321,
+      "cbbdName": "UNC Wilmington"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "unlv",
+    "displayName": "UNLV",
+    "shortName": "UNLV",
+    "division": "D1",
+    "conference": "Mountain West",
+    "externalIds": {
+      "cbbdTeamId": 322,
+      "cbbdName": "UNLV"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "usc",
+    "displayName": "USC",
+    "shortName": "USC",
+    "division": "D1",
+    "conference": "Big Ten",
+    "externalIds": {
+      "cbbdTeamId": 323,
+      "cbbdName": "USC"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "ut-arlington",
+    "displayName": "UT Arlington",
+    "shortName": "UT Arlington",
+    "division": "D1",
+    "conference": "WAC",
+    "externalIds": {
+      "cbbdTeamId": 324,
+      "cbbdName": "UT Arlington"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "ut-martin",
+    "displayName": "UT Martin",
+    "shortName": "UT Martin",
+    "division": "D1",
+    "conference": "OVC",
+    "externalIds": {
+      "cbbdTeamId": 325,
+      "cbbdName": "UT Martin"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "ut-rio-grande-valley",
+    "displayName": "UT Rio Grande Valley",
+    "shortName": "UT Rio Grande Valley",
+    "division": "D1",
+    "conference": "Southland",
+    "externalIds": {
+      "cbbdTeamId": 326,
+      "cbbdName": "UT Rio Grande Valley"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "utah",
+    "displayName": "Utah",
+    "shortName": "Utah",
+    "division": "D1",
+    "conference": "Big 12",
+    "externalIds": {
+      "cbbdTeamId": 331,
+      "cbbdName": "Utah"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "utah-state",
+    "displayName": "Utah State",
+    "shortName": "Utah State",
+    "division": "D1",
+    "conference": "Mountain West",
+    "externalIds": {
+      "cbbdTeamId": 329,
+      "cbbdName": "Utah State"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "utah-tech",
+    "displayName": "Utah Tech",
+    "shortName": "Utah Tech",
+    "division": "D1",
+    "conference": "WAC",
+    "externalIds": {
+      "cbbdTeamId": 330,
+      "cbbdName": "Utah Tech"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "utah-valley",
+    "displayName": "Utah Valley",
+    "shortName": "Utah Valley",
+    "division": "D1",
+    "conference": "WAC",
+    "externalIds": {
+      "cbbdTeamId": 332,
+      "cbbdName": "Utah Valley"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "utep",
+    "displayName": "UTEP",
+    "shortName": "UTEP",
+    "division": "D1",
+    "conference": "CUSA",
+    "externalIds": {
+      "cbbdTeamId": 327,
+      "cbbdName": "UTEP"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "utsa",
+    "displayName": "UTSA",
+    "shortName": "UTSA",
+    "division": "D1",
+    "conference": "American",
+    "externalIds": {
+      "cbbdTeamId": 328,
+      "cbbdName": "UTSA"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "valparaiso",
+    "displayName": "Valparaiso",
+    "shortName": "Valparaiso",
+    "division": "D1",
+    "conference": "MVC",
+    "externalIds": {
+      "cbbdTeamId": 335,
+      "cbbdName": "Valparaiso"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "vanderbilt",
+    "displayName": "Vanderbilt",
+    "shortName": "Vanderbilt",
+    "division": "D1",
+    "conference": "SEC",
+    "externalIds": {
+      "cbbdTeamId": 336,
+      "cbbdName": "Vanderbilt"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "vcu",
+    "displayName": "VCU",
+    "shortName": "VCU",
+    "division": "D1",
+    "conference": "A-10",
+    "externalIds": {
+      "cbbdTeamId": 333,
+      "cbbdName": "VCU"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "vermont",
+    "displayName": "Vermont",
+    "shortName": "Vermont",
+    "division": "D1",
+    "conference": "Am. East",
+    "externalIds": {
+      "cbbdTeamId": 337,
+      "cbbdName": "Vermont"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "villanova",
+    "displayName": "Villanova",
+    "shortName": "Villanova",
+    "division": "D1",
+    "conference": "Big East",
+    "externalIds": {
+      "cbbdTeamId": 338,
+      "cbbdName": "Villanova"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "virginia",
+    "displayName": "Virginia",
+    "shortName": "Virginia",
+    "division": "D1",
+    "conference": "ACC",
+    "externalIds": {
+      "cbbdTeamId": 339,
+      "cbbdName": "Virginia"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "virginia-tech",
+    "displayName": "Virginia Tech",
+    "shortName": "Virginia Tech",
+    "division": "D1",
+    "conference": "ACC",
+    "externalIds": {
+      "cbbdTeamId": 340,
+      "cbbdName": "Virginia Tech"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "vmi",
+    "displayName": "VMI",
+    "shortName": "VMI",
+    "division": "D1",
+    "conference": "SoCon",
+    "externalIds": {
+      "cbbdTeamId": 334,
+      "cbbdName": "VMI"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "wagner",
+    "displayName": "Wagner",
+    "shortName": "Wagner",
+    "division": "D1",
+    "conference": "NEC",
+    "externalIds": {
+      "cbbdTeamId": 341,
+      "cbbdName": "Wagner"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "wake-forest",
+    "displayName": "Wake Forest",
+    "shortName": "Wake Forest",
+    "division": "D1",
+    "conference": "ACC",
+    "externalIds": {
+      "cbbdTeamId": 342,
+      "cbbdName": "Wake Forest"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "washington",
+    "displayName": "Washington",
+    "shortName": "Washington",
+    "division": "D1",
+    "conference": "Big Ten",
+    "externalIds": {
+      "cbbdTeamId": 343,
+      "cbbdName": "Washington"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "washington-state",
+    "displayName": "Washington State",
+    "shortName": "Washington State",
+    "division": "D1",
+    "conference": "WCC",
+    "externalIds": {
+      "cbbdTeamId": 344,
+      "cbbdName": "Washington State"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "weber-state",
+    "displayName": "Weber State",
+    "shortName": "Weber State",
+    "division": "D1",
+    "conference": "Big Sky",
+    "externalIds": {
+      "cbbdTeamId": 345,
+      "cbbdName": "Weber State"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "west-georgia",
+    "displayName": "West Georgia",
+    "shortName": "West Georgia",
+    "division": "D1",
+    "conference": "ASUN",
+    "externalIds": {
+      "cbbdTeamId": 346,
+      "cbbdName": "West Georgia"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "west-virginia",
+    "displayName": "West Virginia",
+    "shortName": "West Virginia",
+    "division": "D1",
+    "conference": "Big 12",
+    "externalIds": {
+      "cbbdTeamId": 347,
+      "cbbdName": "West Virginia"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "western-carolina",
+    "displayName": "Western Carolina",
+    "shortName": "Western Carolina",
+    "division": "D1",
+    "conference": "SoCon",
+    "externalIds": {
+      "cbbdTeamId": 348,
+      "cbbdName": "Western Carolina"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "western-illinois",
+    "displayName": "Western Illinois",
+    "shortName": "Western Illinois",
+    "division": "D1",
+    "conference": "OVC",
+    "externalIds": {
+      "cbbdTeamId": 349,
+      "cbbdName": "Western Illinois"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "western-kentucky",
+    "displayName": "Western Kentucky",
+    "shortName": "Western Kentucky",
+    "division": "D1",
+    "conference": "CUSA",
+    "externalIds": {
+      "cbbdTeamId": 350,
+      "cbbdName": "Western Kentucky"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "western-michigan",
+    "displayName": "Western Michigan",
+    "shortName": "Western Michigan",
+    "division": "D1",
+    "conference": "MAC",
+    "externalIds": {
+      "cbbdTeamId": 351,
+      "cbbdName": "Western Michigan"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "wichita-state",
+    "displayName": "Wichita State",
+    "shortName": "Wichita State",
+    "division": "D1",
+    "conference": "American",
+    "externalIds": {
+      "cbbdTeamId": 352,
+      "cbbdName": "Wichita State"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "william-mary",
+    "displayName": "William & Mary",
+    "shortName": "William & Mary",
+    "division": "D1",
+    "conference": "CAA",
+    "externalIds": {
+      "cbbdTeamId": 353,
+      "cbbdName": "William & Mary"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "winthrop",
+    "displayName": "Winthrop",
+    "shortName": "Winthrop",
+    "division": "D1",
+    "conference": "Big South",
+    "externalIds": {
+      "cbbdTeamId": 354,
+      "cbbdName": "Winthrop"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "wisconsin",
+    "displayName": "Wisconsin",
+    "shortName": "Wisconsin",
+    "division": "D1",
+    "conference": "Big Ten",
+    "externalIds": {
+      "cbbdTeamId": 355,
+      "cbbdName": "Wisconsin"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "wofford",
+    "displayName": "Wofford",
+    "shortName": "Wofford",
+    "division": "D1",
+    "conference": "SoCon",
+    "externalIds": {
+      "cbbdTeamId": 356,
+      "cbbdName": "Wofford"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "wright-state",
+    "displayName": "Wright State",
+    "shortName": "Wright State",
+    "division": "D1",
+    "conference": "Horizon",
+    "externalIds": {
+      "cbbdTeamId": 357,
+      "cbbdName": "Wright State"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "wyoming",
+    "displayName": "Wyoming",
+    "shortName": "Wyoming",
+    "division": "D1",
+    "conference": "Mountain West",
+    "externalIds": {
+      "cbbdTeamId": 358,
+      "cbbdName": "Wyoming"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "xavier",
+    "displayName": "Xavier",
+    "shortName": "Xavier",
+    "division": "D1",
+    "conference": "Big East",
+    "externalIds": {
+      "cbbdTeamId": 359,
+      "cbbdName": "Xavier"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "yale",
+    "displayName": "Yale",
+    "shortName": "Yale",
+    "division": "D1",
+    "conference": "Ivy",
+    "externalIds": {
+      "cbbdTeamId": 360,
+      "cbbdName": "Yale"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "youngstown-state",
+    "displayName": "Youngstown State",
+    "shortName": "Youngstown State",
+    "division": "D1",
+    "conference": "Horizon",
+    "externalIds": {
+      "cbbdTeamId": 361,
+      "cbbdName": "Youngstown State"
+    },
+    "logoUrl": null
+  }
+]

@@ -22,7 +22,8 @@ export type MatchConfidence = 'exact' | 'fuzzy' | 'low' | 'manual'
 // slug is used for all cache file paths — never raw CBBD or Sidearm names.
 
 export interface ExternalIds {
-  cbbdName?: string       // CBBD API team name — may differ from display name (e.g. "Saint John's (NY)")
+  cbbdTeamId?: number     // CBBD numeric team ID — stable across seasons, from /ratings/adjusted response
+  cbbdName?: string       // CBBD API display name for query params (e.g. "St. John's", "Texas A&M")
   sidearmId?: string      // Sidearm conference site ID (D2 only)
   masseyName?: string     // Massey ratings site name (D2 only, optional)
 }
