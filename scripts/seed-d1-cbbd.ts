@@ -34,7 +34,11 @@ const TEST_SLUGS = [
   'san-diego-state',
 ]
 
-const SEASONS = [2025]
+// Accept --season YYYY args, fallback to [2025]
+const argSeasons = process.argv
+  .filter(a => a.match(/^\d{4}$/))
+  .map(Number)
+const SEASONS = argSeasons.length > 0 ? argSeasons : [2025]
 
 // ── Helpers ───────────────────────────────────────────────────────────────────
 
