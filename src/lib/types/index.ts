@@ -220,12 +220,13 @@ export type RatingsBucket = 'high' | 'mid' | 'low' | null
 export interface RatingsEntry {
   teamSlug: string
   season: SeasonYear
-  rank: number | null
-  rating: number | null       // adjusted efficiency (CBBD) or composite (Massey)
-  wins: number
-  losses: number
+  rank: number | null         // overall rank (CBBD: rankings.net; Massey: rank)
+  rating: number | null       // net adjusted efficiency (CBBD: netRating) or Massey composite
+  offRating: number | null    // offensive adj efficiency — CBBD only, null for Massey
+  defRating: number | null    // defensive adj efficiency — CBBD only, null for Massey
   conference: string
   source: RatingsSource
+  // wins/losses live in TeamSeason — not duplicated here
 }
 
 export interface RatingsSeasonData {
