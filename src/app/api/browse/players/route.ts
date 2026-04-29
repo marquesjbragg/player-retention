@@ -1,12 +1,7 @@
-import * as fs from 'fs'
-import * as path from 'path'
+import { prisma } from '@/lib/db'
 
-const D1_CACHE_ROOT = path.resolve(process.cwd(), 'data/cache/d1/cbbd/players')
-const D2_CACHE_ROOT = path.resolve(process.cwd(), 'data/cache/d2/sidearm/players')
-
-// Only scan the most recent seasons — fast and sufficient for current-season results.
-const D1_SCAN_YEARS = [2026, 2025]
-const D2_SCAN_YEARS = [2026, 2025]
+// Scan the two most recent seasons — sufficient for current-season results.
+const SCAN_YEARS = [2026, 2025]
 
 export interface PlayerIndexEntry {
   athleteId: string  // D1: numeric only e.g. "237"; D2: full sidearm ID e.g. "sidearm-425-2311"
@@ -16,61 +11,35 @@ export interface PlayerIndexEntry {
 }
 
 export async function GET() {
-  const seen = new Set<string>()  // dedup by athleteId
+  const rows = await prisma.playerSeason.findMany({
+    where: { year: { in: SCAN_YEARS } },
+    select: {
+      playerId:   true,
+      playerName: true,
+      teamId:     true,
+      year:       true,
+    },
+    orderBy: [{ year: 'desc' }, { playerName: 'asc' }],
+  })
+
+  const seen = new Set<string>()
   const entries: PlayerIndexEntry[] = []
 
-  // ── D1 players ────────────────────────────────────────────────────────────
-  for (const year of D1_SCAN_YEARS) {
-    const yearDir = path.join(D1_CACHE_ROOT, String(year))
-    if (!fs.existsSync(yearDir)) continue
+  for (const row of rows) {
+    const isD1 = row.playerId.startsWith('cbbd-')
+    const isD2 = row.playerId.startsWith('sidearm-')
+    if (!isD1 && !isD2) continue
 
-    const files = fs.readdirSync(yearDir).filter(f => f.endsWith('.json'))
-    for (const file of files) {
-      const teamSlug = file.replace('.json', '')
-      try {
-        const raw = fs.readFileSync(path.join(yearDir, file), 'utf-8')
-        const entry = JSON.parse(raw)
-        const players: { playerId: string; playerName: string }[] = entry.data ?? entry
-        if (!Array.isArray(players)) continue
-        for (const p of players) {
-          if (!p.playerId?.startsWith('cbbd-')) continue
-          const athleteId = p.playerId.slice(5)  // strip "cbbd-"
-          if (!seen.has(athleteId)) {
-            seen.add(athleteId)
-            entries.push({ athleteId, name: p.playerName, teamSlug, year })
-          }
-        }
-      } catch {
-        // skip
-      }
-    }
-  }
+    const athleteId = isD1 ? row.playerId.slice(5) : row.playerId
+    if (seen.has(athleteId)) continue
+    seen.add(athleteId)
 
-  // ── D2 players ────────────────────────────────────────────────────────────
-  for (const year of D2_SCAN_YEARS) {
-    const yearDir = path.join(D2_CACHE_ROOT, String(year))
-    if (!fs.existsSync(yearDir)) continue
-
-    const files = fs.readdirSync(yearDir).filter(f => f.endsWith('.json'))
-    for (const file of files) {
-      const teamSlug = file.replace('.json', '')
-      try {
-        const raw = fs.readFileSync(path.join(yearDir, file), 'utf-8')
-        const entry = JSON.parse(raw)
-        const players: { playerId: string; playerName: string }[] = entry.data ?? entry
-        if (!Array.isArray(players)) continue
-        for (const p of players) {
-          if (!p.playerId?.startsWith('sidearm-')) continue
-          const athleteId = p.playerId  // keep full ID: "sidearm-425-2311"
-          if (!seen.has(athleteId)) {
-            seen.add(athleteId)
-            entries.push({ athleteId, name: p.playerName, teamSlug, year })
-          }
-        }
-      } catch {
-        // skip
-      }
-    }
+    entries.push({
+      athleteId,
+      name:     row.playerName,
+      teamSlug: row.teamId,
+      year:     row.year,
+    })
   }
 
   return Response.json({ success: true, data: entries })
