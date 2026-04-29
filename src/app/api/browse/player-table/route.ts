@@ -102,18 +102,11 @@ export async function GET(request: NextRequest) {
     return Response.json({ success: false, error: { code: 'INVALID_YEAR' } }, { status: 400 })
   }
 
-  // D2 data has not been imported into the database yet.
-  if (isD2) {
-    return Response.json({ success: true, data: [] })
-  }
-
   try {
-    // ── Single query: all D1 player seasons for year-1 and year ──────────────
-    // Uses @@index([year, division]) for fast retrieval.
     const allSeasons = await prisma.playerSeason.findMany({
       where: {
         year:     { in: [year1, year2] },
-        division: 'D1',
+        division: isD2 ? 'D2' : 'D1',
       },
       include: { team: true },
     })

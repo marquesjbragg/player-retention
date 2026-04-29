@@ -169,8 +169,23 @@ function dbRatingsToApp(r: DbRatingsEntry): RatingsEntry {
 
 // ─── Available years ──────────────────────────────────────────────────────────
 
-/** Returns year2 values (newest first) where team-season data exists for both year1 and year2. */
+/**
+ * Returns year2 values (newest first) where usable data exists.
+ * D1: requires both year-1 and year team-season records.
+ * D2: returns any year with player-season data (team seasons may be incomplete).
+ */
 export async function getAvailableYears(teamSlug: string): Promise<number[]> {
+  const team = await prisma.team.findUnique({ where: { id: teamSlug }, select: { division: true } })
+
+  if (team?.division === 'D2') {
+    const rows = await prisma.playerSeason.findMany({
+      where:   { teamId: teamSlug },
+      select:  { year: true },
+      orderBy: { year: 'desc' },
+    })
+    return Array.from(new Set(rows.map(r => r.year))).sort((a, b) => b - a)
+  }
+
   const rows = await prisma.teamSeason.findMany({
     where:   { teamId: teamSlug },
     select:  { year: true },

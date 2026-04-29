@@ -98,9 +98,6 @@ export interface BrowseBuildOptions {
 export async function buildBrowseRows(options: BrowseBuildOptions): Promise<BrowseRow[]> {
   const { division = 'D1', conference, year1, year2 } = options
 
-  // D2 data has not been imported into the database yet.
-  if (division === 'D2') return []
-
   // Five parallel bulk queries — no N+1.
   const [dbTeams, dbPlayerSeasons, dbTeamSeasons, dbRatings, dbMassey] = await Promise.all([
     prisma.team.findMany({ where: { division } }),
