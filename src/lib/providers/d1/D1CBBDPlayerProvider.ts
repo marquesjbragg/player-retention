@@ -44,6 +44,7 @@ interface CbbdPlayerRaw {
   conference: string
   athleteId: number
   name: string
+  position?: string
   games: number
   starts: number
   minutes: number
@@ -70,6 +71,7 @@ function normalize(raw: CbbdPlayerRaw, teamSlug: string): PlayerSeason {
     playerName:     raw.name,
     teamId:         teamSlug,
     seasonYear:     raw.season,
+    position:       raw.position ?? undefined,
     games:          raw.games ?? 0,
     gamesStarted:   raw.starts ?? null,
     minutesPlayed:  raw.minutes ?? 0,

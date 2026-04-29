@@ -55,6 +55,7 @@ export interface PlayerSeason {
   playerName: string
   teamId: string              // = teamSlug in V2
   seasonYear: SeasonYear
+  position?: string           // e.g. "G", "F", "C" — available in CBBD raw; may be absent on older normalized cache
   games: number
   gamesStarted: number | null // null = starts not reported for this team-season
   minutesPlayed: number
@@ -73,6 +74,23 @@ export interface PlayerSeason {
   ftMade: number
   ftAttempted: number
   source: DataSource
+
+  // Identity enrichment — appended by scripts/enrich-d2-player-fields.ts (D2 only)
+  eligibilityYear?: string | null  // "FR"|"SO"|"JR"|"SR"|"GS"|"RS" — from Sidearm `year` field; null = not reported
+  normalizedName?:  string         // precomputed via normalizePlayerName(); stable cross-season matching key
+  sourceKey?:       string | null  // raw source ID: "425-2311" for Sidearm; null when name-based fallback
+
+  // T-Rank enrichment — appended by scripts/enrich-players-trank.ts, never overwrites above fields
+  tRankPid?: number           // T-Rank's own player ID (for future cross-year T-Rank linking)
+  tRankPositionRole?: string  // e.g. "Pure PG", "Wing G", "Stretch 4"
+  tRankYr?: string            // class year: "Fr" | "So" | "Jr" | "Sr"
+  tRankHt?: string            // height: "6-1", "6-8", etc.
+  tRankUsg?: number           // usage %
+  tRankOrtg?: number          // offensive rating
+  tRankDrtg?: number          // defensive rating
+  tRankBpm?: number           // box plus/minus
+  tRankObpm?: number          // offensive BPM component
+  tRankDbpm?: number          // defensive BPM component
 }
 
 // ─── Team Season ──────────────────────────────────────────────────────────────
@@ -237,17 +255,16 @@ export interface RatingsSeasonData {
 }
 
 // ─── Outlier Flag ─────────────────────────────────────────────────────────────
-// Null = no notable pattern. Computed from CI tier vs win% delta.
-// High/Low thresholds: CI ≥ 65 = high, ≤ 40 = low; W% Δ > ±5pts flagged.
-// Mid threshold (41–64): only large swings (> ±10pts) flagged.
+// Every full-data team gets a flag. Tiers: CI ≥ 70 = high, CI 40–69 = mid, CI < 40 = low.
+// W% Δ > +5 = improve, < −5 = decline, otherwise stable.
+// stats-only = team stats present but no player data (CI not computable).
+// null = no data available (unavailable / no-player-data).
 
 export type OutlierFlag =
-  | 'high-ci-improve'   // CI ≥ 65, W% Δ > +5  — high continuity, improved
-  | 'high-ci-decline'   // CI ≥ 65, W% Δ < −5  — high continuity, declined (anomaly)
-  | 'mid-ci-improve'    // CI 41–64, W% Δ > +10
-  | 'mid-ci-decline'    // CI 41–64, W% Δ < −10
-  | 'low-ci-improve'    // CI ≤ 40, W% Δ > +5  — low continuity, improved (anomaly)
-  | 'low-ci-decline'    // CI ≤ 40, W% Δ < −5  — low continuity, declined
+  | 'high-ci-improve' | 'high-ci-stable' | 'high-ci-decline'
+  | 'mid-ci-improve'  | 'mid-ci-stable'  | 'mid-ci-decline'
+  | 'low-ci-improve'  | 'low-ci-stable'  | 'low-ci-decline'
+  | 'stats-only'
   | null
 
 // ─── Browse Row ───────────────────────────────────────────────────────────────
@@ -269,8 +286,8 @@ export interface BrowseRow {
   dataStatus: DataStatus
   dataSource: DataSource
   dataQuality: DataQuality
-  // Continuity Index
-  continuityIndex: number
+  // Continuity Index — null when player data is unavailable (check dataStatus)
+  continuityIndex: number | null
   returningMinutesPct: number
   returningStartsPct: number | null
   returningPointsPct: number
@@ -287,11 +304,14 @@ export interface BrowseRow {
   winPctDelta: number
   ppgDelta: number
   oppPpgDelta: number
-  // Ratings context
+  // Ratings context (CBBD adjusted efficiency — D1)
   ratingsRank: number | null
   ratingsRating: number | null
   ratingsBucket: RatingsBucket
   ratingsSource: RatingsSource | null
+  // Massey composite rating (D1 only; null when file not available for season)
+  masseyRank: number | null
+  masseyRating: number | null
   // Pattern flag
   outlierFlag: OutlierFlag
 }

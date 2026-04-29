@@ -1,0 +1,2927 @@
+{
+  "season": 2026,
+  "fetchedAt": "2026-04-17T05:40:37.126Z",
+  "source": "data/massey/raw/2026.csv",
+  "ratings": [
+    {
+      "rank": 1,
+      "teamName": "Michigan",
+      "conference": "Big 10",
+      "wins": 37,
+      "losses": 3,
+      "rating": 9.26
+    },
+    {
+      "rank": 2,
+      "teamName": "Arizona",
+      "conference": "Big 12",
+      "wins": 36,
+      "losses": 3,
+      "rating": 9.26
+    },
+    {
+      "rank": 3,
+      "teamName": "Duke",
+      "conference": "Atlantic Coast",
+      "wins": 35,
+      "losses": 3,
+      "rating": 9.13
+    },
+    {
+      "rank": 4,
+      "teamName": "Connecticut",
+      "conference": "Big East",
+      "wins": 34,
+      "losses": 6,
+      "rating": 8.85
+    },
+    {
+      "rank": 5,
+      "teamName": "Houston",
+      "conference": "Big 12",
+      "wins": 30,
+      "losses": 7,
+      "rating": 8.83
+    },
+    {
+      "rank": 6,
+      "teamName": "Purdue",
+      "conference": "Big 10",
+      "wins": 30,
+      "losses": 9,
+      "rating": 8.78
+    },
+    {
+      "rank": 7,
+      "teamName": "Florida",
+      "conference": "Southeastern",
+      "wins": 27,
+      "losses": 8,
+      "rating": 8.73
+    },
+    {
+      "rank": 8,
+      "teamName": "Iowa St",
+      "conference": "Big 12",
+      "wins": 29,
+      "losses": 8,
+      "rating": 8.72
+    },
+    {
+      "rank": 9,
+      "teamName": "Illinois",
+      "conference": "Big 10",
+      "wins": 28,
+      "losses": 9,
+      "rating": 8.72
+    },
+    {
+      "rank": 10,
+      "teamName": "Gonzaga",
+      "conference": "West Coast",
+      "wins": 31,
+      "losses": 4,
+      "rating": 8.69
+    },
+    {
+      "rank": 11,
+      "teamName": "St John's",
+      "conference": "Big East",
+      "wins": 30,
+      "losses": 7,
+      "rating": 8.66
+    },
+    {
+      "rank": 12,
+      "teamName": "Alabama",
+      "conference": "Southeastern",
+      "wins": 25,
+      "losses": 10,
+      "rating": 8.62
+    },
+    {
+      "rank": 13,
+      "teamName": "Michigan St",
+      "conference": "Big 10",
+      "wins": 27,
+      "losses": 8,
+      "rating": 8.6
+    },
+    {
+      "rank": 14,
+      "teamName": "Arkansas",
+      "conference": "Southeastern",
+      "wins": 28,
+      "losses": 9,
+      "rating": 8.55
+    },
+    {
+      "rank": 15,
+      "teamName": "Tennessee",
+      "conference": "Southeastern",
+      "wins": 25,
+      "losses": 12,
+      "rating": 8.55
+    },
+    {
+      "rank": 16,
+      "teamName": "Nebraska",
+      "conference": "Big 10",
+      "wins": 28,
+      "losses": 7,
+      "rating": 8.52
+    },
+    {
+      "rank": 17,
+      "teamName": "Vanderbilt",
+      "conference": "Southeastern",
+      "wins": 27,
+      "losses": 9,
+      "rating": 8.48
+    },
+    {
+      "rank": 18,
+      "teamName": "Texas Tech",
+      "conference": "Big 12",
+      "wins": 23,
+      "losses": 11,
+      "rating": 8.45
+    },
+    {
+      "rank": 19,
+      "teamName": "Kansas",
+      "conference": "Big 12",
+      "wins": 24,
+      "losses": 11,
+      "rating": 8.45
+    },
+    {
+      "rank": 20,
+      "teamName": "Virginia",
+      "conference": "Atlantic Coast",
+      "wins": 30,
+      "losses": 6,
+      "rating": 8.42
+    },
+    {
+      "rank": 21,
+      "teamName": "Wisconsin",
+      "conference": "Big 10",
+      "wins": 24,
+      "losses": 11,
+      "rating": 8.39
+    },
+    {
+      "rank": 22,
+      "teamName": "Iowa",
+      "conference": "Big 10",
+      "wins": 24,
+      "losses": 13,
+      "rating": 8.34
+    },
+    {
+      "rank": 23,
+      "teamName": "Kentucky",
+      "conference": "Southeastern",
+      "wins": 22,
+      "losses": 14,
+      "rating": 8.34
+    },
+    {
+      "rank": 24,
+      "teamName": "BYU",
+      "conference": "Big 12",
+      "wins": 23,
+      "losses": 12,
+      "rating": 8.34
+    },
+    {
+      "rank": 25,
+      "teamName": "UCLA",
+      "conference": "Big 10",
+      "wins": 24,
+      "losses": 12,
+      "rating": 8.31
+    },
+    {
+      "rank": 26,
+      "teamName": "Auburn",
+      "conference": "Southeastern",
+      "wins": 22,
+      "losses": 16,
+      "rating": 8.28
+    },
+    {
+      "rank": 27,
+      "teamName": "Utah St",
+      "conference": "Mountain West",
+      "wins": 29,
+      "losses": 7,
+      "rating": 8.28
+    },
+    {
+      "rank": 28,
+      "teamName": "North Carolina",
+      "conference": "Atlantic Coast",
+      "wins": 24,
+      "losses": 9,
+      "rating": 8.26
+    },
+    {
+      "rank": 29,
+      "teamName": "Ohio St",
+      "conference": "Big 10",
+      "wins": 21,
+      "losses": 13,
+      "rating": 8.24
+    },
+    {
+      "rank": 30,
+      "teamName": "Louisville",
+      "conference": "Atlantic Coast",
+      "wins": 24,
+      "losses": 11,
+      "rating": 8.24
+    },
+    {
+      "rank": 31,
+      "teamName": "Villanova",
+      "conference": "Big East",
+      "wins": 24,
+      "losses": 9,
+      "rating": 8.2
+    },
+    {
+      "rank": 32,
+      "teamName": "Texas",
+      "conference": "Southeastern",
+      "wins": 21,
+      "losses": 15,
+      "rating": 8.2
+    },
+    {
+      "rank": 33,
+      "teamName": "St Mary's CA",
+      "conference": "West Coast",
+      "wins": 27,
+      "losses": 6,
+      "rating": 8.19
+    },
+    {
+      "rank": 34,
+      "teamName": "Texas A&M",
+      "conference": "Southeastern",
+      "wins": 22,
+      "losses": 12,
+      "rating": 8.18
+    },
+    {
+      "rank": 35,
+      "teamName": "Clemson",
+      "conference": "Atlantic Coast",
+      "wins": 24,
+      "losses": 11,
+      "rating": 8.18
+    },
+    {
+      "rank": 36,
+      "teamName": "TCU",
+      "conference": "Big 12",
+      "wins": 23,
+      "losses": 12,
+      "rating": 8.16
+    },
+    {
+      "rank": 37,
+      "teamName": "Miami FL",
+      "conference": "Atlantic Coast",
+      "wins": 26,
+      "losses": 9,
+      "rating": 8.12
+    },
+    {
+      "rank": 38,
+      "teamName": "Oklahoma",
+      "conference": "Southeastern",
+      "wins": 21,
+      "losses": 16,
+      "rating": 8.1
+    },
+    {
+      "rank": 39,
+      "teamName": "Georgia",
+      "conference": "Southeastern",
+      "wins": 22,
+      "losses": 11,
+      "rating": 8.1
+    },
+    {
+      "rank": 40,
+      "teamName": "Santa Clara",
+      "conference": "West Coast",
+      "wins": 26,
+      "losses": 9,
+      "rating": 8.03
+    },
+    {
+      "rank": 41,
+      "teamName": "VCU",
+      "conference": "Atlantic 10",
+      "wins": 28,
+      "losses": 8,
+      "rating": 8.02
+    },
+    {
+      "rank": 42,
+      "teamName": "UCF",
+      "conference": "Big 12",
+      "wins": 21,
+      "losses": 12,
+      "rating": 8.01
+    },
+    {
+      "rank": 43,
+      "teamName": "West Virginia",
+      "conference": "Big 12",
+      "wins": 21,
+      "losses": 14,
+      "rating": 8
+    },
+    {
+      "rank": 44,
+      "teamName": "St Louis",
+      "conference": "Atlantic 10",
+      "wins": 29,
+      "losses": 6,
+      "rating": 7.99
+    },
+    {
+      "rank": 45,
+      "teamName": "Missouri",
+      "conference": "Southeastern",
+      "wins": 20,
+      "losses": 13,
+      "rating": 7.99
+    },
+    {
+      "rank": 46,
+      "teamName": "Indiana",
+      "conference": "Big 10",
+      "wins": 18,
+      "losses": 14,
+      "rating": 7.98
+    },
+    {
+      "rank": 47,
+      "teamName": "Baylor",
+      "conference": "Big 12",
+      "wins": 17,
+      "losses": 17,
+      "rating": 7.97
+    },
+    {
+      "rank": 48,
+      "teamName": "San Diego St",
+      "conference": "Mountain West",
+      "wins": 22,
+      "losses": 11,
+      "rating": 7.97
+    },
+    {
+      "rank": 49,
+      "teamName": "NC State",
+      "conference": "Atlantic Coast",
+      "wins": 20,
+      "losses": 14,
+      "rating": 7.96
+    },
+    {
+      "rank": 50,
+      "teamName": "Seton Hall",
+      "conference": "Big East",
+      "wins": 21,
+      "losses": 12,
+      "rating": 7.95
+    },
+    {
+      "rank": 51,
+      "teamName": "Cincinnati",
+      "conference": "Big 12",
+      "wins": 18,
+      "losses": 15,
+      "rating": 7.95
+    },
+    {
+      "rank": 52,
+      "teamName": "New Mexico",
+      "conference": "Mountain West",
+      "wins": 26,
+      "losses": 11,
+      "rating": 7.9
+    },
+    {
+      "rank": 53,
+      "teamName": "SMU",
+      "conference": "Atlantic Coast",
+      "wins": 20,
+      "losses": 14,
+      "rating": 7.87
+    },
+    {
+      "rank": 54,
+      "teamName": "Arizona St",
+      "conference": "Big 12",
+      "wins": 17,
+      "losses": 16,
+      "rating": 7.85
+    },
+    {
+      "rank": 55,
+      "teamName": "USC",
+      "conference": "Big 10",
+      "wins": 18,
+      "losses": 14,
+      "rating": 7.84
+    },
+    {
+      "rank": 56,
+      "teamName": "Mississippi",
+      "conference": "Southeastern",
+      "wins": 15,
+      "losses": 20,
+      "rating": 7.84
+    },
+    {
+      "rank": 57,
+      "teamName": "South Florida",
+      "conference": "American Athletic",
+      "wins": 25,
+      "losses": 9,
+      "rating": 7.82
+    },
+    {
+      "rank": 58,
+      "teamName": "Northwestern",
+      "conference": "Big 10",
+      "wins": 15,
+      "losses": 19,
+      "rating": 7.82
+    },
+    {
+      "rank": 59,
+      "teamName": "Washington",
+      "conference": "Big 10",
+      "wins": 16,
+      "losses": 17,
+      "rating": 7.81
+    },
+    {
+      "rank": 60,
+      "teamName": "Oklahoma St",
+      "conference": "Big 12",
+      "wins": 20,
+      "losses": 15,
+      "rating": 7.79
+    },
+    {
+      "rank": 61,
+      "teamName": "Creighton",
+      "conference": "Big East",
+      "wins": 16,
+      "losses": 18,
+      "rating": 7.79
+    },
+    {
+      "rank": 62,
+      "teamName": "Virginia Tech",
+      "conference": "Atlantic Coast",
+      "wins": 19,
+      "losses": 13,
+      "rating": 7.79
+    },
+    {
+      "rank": 63,
+      "teamName": "Boise St",
+      "conference": "Mountain West",
+      "wins": 20,
+      "losses": 12,
+      "rating": 7.76
+    },
+    {
+      "rank": 64,
+      "teamName": "Nevada",
+      "conference": "Mountain West",
+      "wins": 24,
+      "losses": 13,
+      "rating": 7.76
+    },
+    {
+      "rank": 65,
+      "teamName": "Florida St",
+      "conference": "Atlantic Coast",
+      "wins": 18,
+      "losses": 15,
+      "rating": 7.76
+    },
+    {
+      "rank": 66,
+      "teamName": "Stanford",
+      "conference": "Atlantic Coast",
+      "wins": 20,
+      "losses": 13,
+      "rating": 7.75
+    },
+    {
+      "rank": 67,
+      "teamName": "Tulsa",
+      "conference": "American Athletic",
+      "wins": 30,
+      "losses": 8,
+      "rating": 7.75
+    },
+    {
+      "rank": 68,
+      "teamName": "Colorado",
+      "conference": "Big 12",
+      "wins": 17,
+      "losses": 16,
+      "rating": 7.74
+    },
+    {
+      "rank": 69,
+      "teamName": "Miami OH",
+      "conference": "Mid-American",
+      "wins": 32,
+      "losses": 2,
+      "rating": 7.73
+    },
+    {
+      "rank": 70,
+      "teamName": "Dayton",
+      "conference": "Atlantic 10",
+      "wins": 25,
+      "losses": 12,
+      "rating": 7.72
+    },
+    {
+      "rank": 71,
+      "teamName": "LSU",
+      "conference": "Southeastern",
+      "wins": 15,
+      "losses": 17,
+      "rating": 7.7
+    },
+    {
+      "rank": 72,
+      "teamName": "Xavier",
+      "conference": "Big East",
+      "wins": 15,
+      "losses": 18,
+      "rating": 7.69
+    },
+    {
+      "rank": 73,
+      "teamName": "Wake Forest",
+      "conference": "Atlantic Coast",
+      "wins": 18,
+      "losses": 17,
+      "rating": 7.69
+    },
+    {
+      "rank": 74,
+      "teamName": "Providence",
+      "conference": "Big East",
+      "wins": 15,
+      "losses": 18,
+      "rating": 7.68
+    },
+    {
+      "rank": 75,
+      "teamName": "Akron",
+      "conference": "Mid-American",
+      "wins": 29,
+      "losses": 6,
+      "rating": 7.68
+    },
+    {
+      "rank": 76,
+      "teamName": "Belmont",
+      "conference": "Missouri Val",
+      "wins": 26,
+      "losses": 6,
+      "rating": 7.68
+    },
+    {
+      "rank": 77,
+      "teamName": "Butler",
+      "conference": "Big East",
+      "wins": 16,
+      "losses": 16,
+      "rating": 7.67
+    },
+    {
+      "rank": 78,
+      "teamName": "Maryland",
+      "conference": "Big 10",
+      "wins": 12,
+      "losses": 21,
+      "rating": 7.66
+    },
+    {
+      "rank": 79,
+      "teamName": "Grand Canyon",
+      "conference": "Mountain West",
+      "wins": 20,
+      "losses": 12,
+      "rating": 7.65
+    },
+    {
+      "rank": 80,
+      "teamName": "California",
+      "conference": "Atlantic Coast",
+      "wins": 22,
+      "losses": 12,
+      "rating": 7.65
+    },
+    {
+      "rank": 81,
+      "teamName": "Mississippi St",
+      "conference": "Southeastern",
+      "wins": 13,
+      "losses": 19,
+      "rating": 7.65
+    },
+    {
+      "rank": 82,
+      "teamName": "Georgetown",
+      "conference": "Big East",
+      "wins": 16,
+      "losses": 18,
+      "rating": 7.64
+    },
+    {
+      "rank": 83,
+      "teamName": "Oregon",
+      "conference": "Big 10",
+      "wins": 12,
+      "losses": 20,
+      "rating": 7.63
+    },
+    {
+      "rank": 84,
+      "teamName": "Marquette",
+      "conference": "Big East",
+      "wins": 12,
+      "losses": 20,
+      "rating": 7.63
+    },
+    {
+      "rank": 85,
+      "teamName": "Colorado St",
+      "conference": "Mountain West",
+      "wins": 21,
+      "losses": 13,
+      "rating": 7.62
+    },
+    {
+      "rank": 86,
+      "teamName": "Minnesota",
+      "conference": "Big 10",
+      "wins": 15,
+      "losses": 18,
+      "rating": 7.62
+    },
+    {
+      "rank": 87,
+      "teamName": "High Point",
+      "conference": "Big South",
+      "wins": 31,
+      "losses": 5,
+      "rating": 7.62
+    },
+    {
+      "rank": 88,
+      "teamName": "Wichita St",
+      "conference": "American Athletic",
+      "wins": 24,
+      "losses": 12,
+      "rating": 7.61
+    },
+    {
+      "rank": 89,
+      "teamName": "McNeese St",
+      "conference": "Southland",
+      "wins": 28,
+      "losses": 6,
+      "rating": 7.59
+    },
+    {
+      "rank": 90,
+      "teamName": "Kansas St",
+      "conference": "Big 12",
+      "wins": 12,
+      "losses": 20,
+      "rating": 7.54
+    },
+    {
+      "rank": 91,
+      "teamName": "Rutgers",
+      "conference": "Big 10",
+      "wins": 14,
+      "losses": 20,
+      "rating": 7.53
+    },
+    {
+      "rank": 92,
+      "teamName": "Syracuse",
+      "conference": "Atlantic Coast",
+      "wins": 15,
+      "losses": 17,
+      "rating": 7.52
+    },
+    {
+      "rank": 93,
+      "teamName": "DePaul",
+      "conference": "Big East",
+      "wins": 16,
+      "losses": 16,
+      "rating": 7.51
+    },
+    {
+      "rank": 94,
+      "teamName": "Northern Iowa",
+      "conference": "Missouri Val",
+      "wins": 23,
+      "losses": 13,
+      "rating": 7.51
+    },
+    {
+      "rank": 95,
+      "teamName": "Pittsburgh",
+      "conference": "Atlantic Coast",
+      "wins": 13,
+      "losses": 20,
+      "rating": 7.5
+    },
+    {
+      "rank": 96,
+      "teamName": "St Joseph's PA",
+      "conference": "Atlantic 10",
+      "wins": 24,
+      "losses": 12,
+      "rating": 7.48
+    },
+    {
+      "rank": 97,
+      "teamName": "South Carolina",
+      "conference": "Southeastern",
+      "wins": 13,
+      "losses": 19,
+      "rating": 7.48
+    },
+    {
+      "rank": 98,
+      "teamName": "Liberty",
+      "conference": "Conference USA",
+      "wins": 26,
+      "losses": 8,
+      "rating": 7.47
+    },
+    {
+      "rank": 99,
+      "teamName": "UNLV",
+      "conference": "Mountain West",
+      "wins": 18,
+      "losses": 17,
+      "rating": 7.45
+    },
+    {
+      "rank": 100,
+      "teamName": "Notre Dame",
+      "conference": "Atlantic Coast",
+      "wins": 13,
+      "losses": 18,
+      "rating": 7.45
+    },
+    {
+      "rank": 101,
+      "teamName": "Illinois St",
+      "conference": "Missouri Val",
+      "wins": 23,
+      "losses": 13,
+      "rating": 7.45
+    },
+    {
+      "rank": 102,
+      "teamName": "George Mason",
+      "conference": "Atlantic 10",
+      "wins": 23,
+      "losses": 10,
+      "rating": 7.43
+    },
+    {
+      "rank": 103,
+      "teamName": "Yale",
+      "conference": "Ivy League",
+      "wins": 24,
+      "losses": 7,
+      "rating": 7.42
+    },
+    {
+      "rank": 104,
+      "teamName": "Cal Baptist",
+      "conference": "Western Athletic",
+      "wins": 25,
+      "losses": 9,
+      "rating": 7.42
+    },
+    {
+      "rank": 105,
+      "teamName": "Utah Valley",
+      "conference": "Western Athletic",
+      "wins": 25,
+      "losses": 9,
+      "rating": 7.4
+    },
+    {
+      "rank": 106,
+      "teamName": "Penn St",
+      "conference": "Big 10",
+      "wins": 12,
+      "losses": 20,
+      "rating": 7.39
+    },
+    {
+      "rank": 107,
+      "teamName": "San Francisco",
+      "conference": "West Coast",
+      "wins": 17,
+      "losses": 16,
+      "rating": 7.37
+    },
+    {
+      "rank": 108,
+      "teamName": "UAB",
+      "conference": "American Athletic",
+      "wins": 20,
+      "losses": 12,
+      "rating": 7.37
+    },
+    {
+      "rank": 109,
+      "teamName": "Utah",
+      "conference": "Big 12",
+      "wins": 10,
+      "losses": 22,
+      "rating": 7.36
+    },
+    {
+      "rank": 110,
+      "teamName": "SF Austin",
+      "conference": "Southland",
+      "wins": 28,
+      "losses": 6,
+      "rating": 7.36
+    },
+    {
+      "rank": 111,
+      "teamName": "Wyoming",
+      "conference": "Mountain West",
+      "wins": 18,
+      "losses": 15,
+      "rating": 7.34
+    },
+    {
+      "rank": 112,
+      "teamName": "Seattle",
+      "conference": "West Coast",
+      "wins": 21,
+      "losses": 14,
+      "rating": 7.33
+    },
+    {
+      "rank": 113,
+      "teamName": "North Texas",
+      "conference": "American Athletic",
+      "wins": 19,
+      "losses": 14,
+      "rating": 7.33
+    },
+    {
+      "rank": 114,
+      "teamName": "Bradley",
+      "conference": "Missouri Val",
+      "wins": 21,
+      "losses": 13,
+      "rating": 7.32
+    },
+    {
+      "rank": 115,
+      "teamName": "Memphis",
+      "conference": "American Athletic",
+      "wins": 13,
+      "losses": 19,
+      "rating": 7.31
+    },
+    {
+      "rank": 116,
+      "teamName": "Davidson",
+      "conference": "Atlantic 10",
+      "wins": 20,
+      "losses": 14,
+      "rating": 7.31
+    },
+    {
+      "rank": 117,
+      "teamName": "N Dakota St",
+      "conference": "Summit Lg",
+      "wins": 27,
+      "losses": 8,
+      "rating": 7.31
+    },
+    {
+      "rank": 118,
+      "teamName": "UNC Wilmington",
+      "conference": "Coastal",
+      "wins": 27,
+      "losses": 7,
+      "rating": 7.3
+    },
+    {
+      "rank": 119,
+      "teamName": "FL Atlantic",
+      "conference": "American Athletic",
+      "wins": 18,
+      "losses": 15,
+      "rating": 7.3
+    },
+    {
+      "rank": 120,
+      "teamName": "Hofstra",
+      "conference": "Coastal",
+      "wins": 24,
+      "losses": 11,
+      "rating": 7.3
+    },
+    {
+      "rank": 121,
+      "teamName": "G Washington",
+      "conference": "Atlantic 10",
+      "wins": 19,
+      "losses": 16,
+      "rating": 7.28
+    },
+    {
+      "rank": 122,
+      "teamName": "Sam Houston St",
+      "conference": "Conference USA",
+      "wins": 22,
+      "losses": 12,
+      "rating": 7.27
+    },
+    {
+      "rank": 123,
+      "teamName": "Hawaii",
+      "conference": "Big West",
+      "wins": 24,
+      "losses": 9,
+      "rating": 7.27
+    },
+    {
+      "rank": 124,
+      "teamName": "Murray St",
+      "conference": "Missouri Val",
+      "wins": 20,
+      "losses": 13,
+      "rating": 7.26
+    },
+    {
+      "rank": 125,
+      "teamName": "UC Irvine",
+      "conference": "Big West",
+      "wins": 23,
+      "losses": 12,
+      "rating": 7.24
+    },
+    {
+      "rank": 126,
+      "teamName": "Oregon St",
+      "conference": "West Coast",
+      "wins": 17,
+      "losses": 16,
+      "rating": 7.24
+    },
+    {
+      "rank": 127,
+      "teamName": "Kent",
+      "conference": "Mid-American",
+      "wins": 24,
+      "losses": 10,
+      "rating": 7.22
+    },
+    {
+      "rank": 128,
+      "teamName": "UC San Diego",
+      "conference": "Big West",
+      "wins": 23,
+      "losses": 11,
+      "rating": 7.21
+    },
+    {
+      "rank": 129,
+      "teamName": "Troy",
+      "conference": "Sun Belt",
+      "wins": 22,
+      "losses": 12,
+      "rating": 7.19
+    },
+    {
+      "rank": 130,
+      "teamName": "Duquesne",
+      "conference": "Atlantic 10",
+      "wins": 18,
+      "losses": 15,
+      "rating": 7.18
+    },
+    {
+      "rank": 131,
+      "teamName": "Kennesaw",
+      "conference": "Conference USA",
+      "wins": 21,
+      "losses": 14,
+      "rating": 7.16
+    },
+    {
+      "rank": 132,
+      "teamName": "IL Chicago",
+      "conference": "Missouri Val",
+      "wins": 19,
+      "losses": 16,
+      "rating": 7.16
+    },
+    {
+      "rank": 133,
+      "teamName": "S Illinois",
+      "conference": "Missouri Val",
+      "wins": 16,
+      "losses": 16,
+      "rating": 7.15
+    },
+    {
+      "rank": 134,
+      "teamName": "St Bonaventure",
+      "conference": "Atlantic 10",
+      "wins": 17,
+      "losses": 17,
+      "rating": 7.14
+    },
+    {
+      "rank": 135,
+      "teamName": "Tulane",
+      "conference": "American Athletic",
+      "wins": 18,
+      "losses": 15,
+      "rating": 7.13
+    },
+    {
+      "rank": 136,
+      "teamName": "Wright St",
+      "conference": "Horizon",
+      "wins": 23,
+      "losses": 12,
+      "rating": 7.13
+    },
+    {
+      "rank": 137,
+      "teamName": "St Thomas MN",
+      "conference": "Summit Lg",
+      "wins": 24,
+      "losses": 10,
+      "rating": 7.12
+    },
+    {
+      "rank": 138,
+      "teamName": "Pacific",
+      "conference": "West Coast",
+      "wins": 18,
+      "losses": 15,
+      "rating": 7.12
+    },
+    {
+      "rank": 139,
+      "teamName": "Col Charleston",
+      "conference": "Coastal",
+      "wins": 21,
+      "losses": 11,
+      "rating": 7.11
+    },
+    {
+      "rank": 140,
+      "teamName": "Georgia Tech",
+      "conference": "Atlantic Coast",
+      "wins": 11,
+      "losses": 20,
+      "rating": 7.1
+    },
+    {
+      "rank": 141,
+      "teamName": "Valparaiso",
+      "conference": "Missouri Val",
+      "wins": 18,
+      "losses": 15,
+      "rating": 7.09
+    },
+    {
+      "rank": 142,
+      "teamName": "Washington St",
+      "conference": "West Coast",
+      "wins": 12,
+      "losses": 20,
+      "rating": 7.09
+    },
+    {
+      "rank": 143,
+      "teamName": "Boston College",
+      "conference": "Atlantic Coast",
+      "wins": 11,
+      "losses": 20,
+      "rating": 7.09
+    },
+    {
+      "rank": 144,
+      "teamName": "Toledo",
+      "conference": "Mid-American",
+      "wins": 19,
+      "losses": 15,
+      "rating": 7.07
+    },
+    {
+      "rank": 145,
+      "teamName": "Arkansas St",
+      "conference": "Sun Belt",
+      "wins": 20,
+      "losses": 12,
+      "rating": 7.07
+    },
+    {
+      "rank": 146,
+      "teamName": "WKU",
+      "conference": "Conference USA",
+      "wins": 18,
+      "losses": 14,
+      "rating": 7.07
+    },
+    {
+      "rank": 147,
+      "teamName": "Louisiana Tech",
+      "conference": "Conference USA",
+      "wins": 20,
+      "losses": 14,
+      "rating": 7.07
+    },
+    {
+      "rank": 148,
+      "teamName": "Temple",
+      "conference": "American Athletic",
+      "wins": 16,
+      "losses": 16,
+      "rating": 7.06
+    },
+    {
+      "rank": 149,
+      "teamName": "Charlotte",
+      "conference": "American Athletic",
+      "wins": 17,
+      "losses": 17,
+      "rating": 7.06
+    },
+    {
+      "rank": 150,
+      "teamName": "Furman",
+      "conference": "Southern",
+      "wins": 22,
+      "losses": 13,
+      "rating": 7.05
+    },
+    {
+      "rank": 151,
+      "teamName": "Winthrop",
+      "conference": "Big South",
+      "wins": 23,
+      "losses": 11,
+      "rating": 7.05
+    },
+    {
+      "rank": 152,
+      "teamName": "Penn",
+      "conference": "Ivy League",
+      "wins": 18,
+      "losses": 12,
+      "rating": 7.05
+    },
+    {
+      "rank": 153,
+      "teamName": "Fresno St",
+      "conference": "Mountain West",
+      "wins": 13,
+      "losses": 19,
+      "rating": 7.04
+    },
+    {
+      "rank": 154,
+      "teamName": "UT Arlington",
+      "conference": "Western Athletic",
+      "wins": 18,
+      "losses": 14,
+      "rating": 7.03
+    },
+    {
+      "rank": 155,
+      "teamName": "MTSU",
+      "conference": "Conference USA",
+      "wins": 17,
+      "losses": 15,
+      "rating": 7.03
+    },
+    {
+      "rank": 156,
+      "teamName": "Rhode Island",
+      "conference": "Atlantic 10",
+      "wins": 16,
+      "losses": 16,
+      "rating": 7.03
+    },
+    {
+      "rank": 157,
+      "teamName": "ETSU",
+      "conference": "Southern",
+      "wins": 23,
+      "losses": 11,
+      "rating": 7.02
+    },
+    {
+      "rank": 158,
+      "teamName": "Drake",
+      "conference": "Missouri Val",
+      "wins": 14,
+      "losses": 20,
+      "rating": 7.02
+    },
+    {
+      "rank": 159,
+      "teamName": "Robert Morris",
+      "conference": "Horizon",
+      "wins": 22,
+      "losses": 11,
+      "rating": 7.02
+    },
+    {
+      "rank": 160,
+      "teamName": "Loy Marymount",
+      "conference": "West Coast",
+      "wins": 15,
+      "losses": 17,
+      "rating": 7.01
+    },
+    {
+      "rank": 161,
+      "teamName": "South Alabama",
+      "conference": "Sun Belt",
+      "wins": 21,
+      "losses": 12,
+      "rating": 7
+    },
+    {
+      "rank": 162,
+      "teamName": "Portland St",
+      "conference": "Big Sky",
+      "wins": 20,
+      "losses": 11,
+      "rating": 7
+    },
+    {
+      "rank": 163,
+      "teamName": "N Colorado",
+      "conference": "Big Sky",
+      "wins": 20,
+      "losses": 12,
+      "rating": 7
+    },
+    {
+      "rank": 164,
+      "teamName": "Towson",
+      "conference": "Coastal",
+      "wins": 19,
+      "losses": 15,
+      "rating": 6.98
+    },
+    {
+      "rank": 165,
+      "teamName": "Idaho",
+      "conference": "Big Sky",
+      "wins": 21,
+      "losses": 15,
+      "rating": 6.97
+    },
+    {
+      "rank": 166,
+      "teamName": "Austin Peay",
+      "conference": "Atlantic Sun",
+      "wins": 22,
+      "losses": 9,
+      "rating": 6.97
+    },
+    {
+      "rank": 167,
+      "teamName": "CS Northridge",
+      "conference": "Big West",
+      "wins": 20,
+      "losses": 14,
+      "rating": 6.96
+    },
+    {
+      "rank": 168,
+      "teamName": "Richmond",
+      "conference": "Atlantic 10",
+      "wins": 15,
+      "losses": 17,
+      "rating": 6.96
+    },
+    {
+      "rank": 169,
+      "teamName": "UC Davis",
+      "conference": "Big West",
+      "wins": 19,
+      "losses": 14,
+      "rating": 6.96
+    },
+    {
+      "rank": 170,
+      "teamName": "Montana St",
+      "conference": "Big Sky",
+      "wins": 18,
+      "losses": 14,
+      "rating": 6.96
+    },
+    {
+      "rank": 171,
+      "teamName": "New Mexico St",
+      "conference": "Conference USA",
+      "wins": 16,
+      "losses": 16,
+      "rating": 6.95
+    },
+    {
+      "rank": 172,
+      "teamName": "UC Santa Barbara",
+      "conference": "Big West",
+      "wins": 18,
+      "losses": 14,
+      "rating": 6.94
+    },
+    {
+      "rank": 173,
+      "teamName": "Merrimack",
+      "conference": "Metro Atlantic",
+      "wins": 23,
+      "losses": 11,
+      "rating": 6.94
+    },
+    {
+      "rank": 174,
+      "teamName": "William & Mary",
+      "conference": "Coastal",
+      "wins": 20,
+      "losses": 12,
+      "rating": 6.94
+    },
+    {
+      "rank": 175,
+      "teamName": "Marshall",
+      "conference": "Sun Belt",
+      "wins": 20,
+      "losses": 13,
+      "rating": 6.94
+    },
+    {
+      "rank": 176,
+      "teamName": "Cornell",
+      "conference": "Ivy League",
+      "wins": 15,
+      "losses": 13,
+      "rating": 6.92
+    },
+    {
+      "rank": 177,
+      "teamName": "Oakland",
+      "conference": "Horizon",
+      "wins": 16,
+      "losses": 16,
+      "rating": 6.92
+    },
+    {
+      "rank": 178,
+      "teamName": "UTRGV",
+      "conference": "Southland",
+      "wins": 19,
+      "losses": 14,
+      "rating": 6.92
+    },
+    {
+      "rank": 179,
+      "teamName": "Harvard",
+      "conference": "Ivy League",
+      "wins": 17,
+      "losses": 12,
+      "rating": 6.9
+    },
+    {
+      "rank": 180,
+      "teamName": "Utah Tech",
+      "conference": "Western Athletic",
+      "wins": 19,
+      "losses": 15,
+      "rating": 6.9
+    },
+    {
+      "rank": 181,
+      "teamName": "Appalachian St",
+      "conference": "Sun Belt",
+      "wins": 19,
+      "losses": 13,
+      "rating": 6.89
+    },
+    {
+      "rank": 182,
+      "teamName": "Navy",
+      "conference": "Patriot League",
+      "wins": 26,
+      "losses": 8,
+      "rating": 6.89
+    },
+    {
+      "rank": 183,
+      "teamName": "N Kentucky",
+      "conference": "Horizon",
+      "wins": 20,
+      "losses": 14,
+      "rating": 6.89
+    },
+    {
+      "rank": 184,
+      "teamName": "Missouri St",
+      "conference": "Conference USA",
+      "wins": 16,
+      "losses": 18,
+      "rating": 6.88
+    },
+    {
+      "rank": 185,
+      "teamName": "Mercer",
+      "conference": "Southern",
+      "wins": 19,
+      "losses": 13,
+      "rating": 6.88
+    },
+    {
+      "rank": 186,
+      "teamName": "Samford",
+      "conference": "Southern",
+      "wins": 18,
+      "losses": 14,
+      "rating": 6.88
+    },
+    {
+      "rank": 187,
+      "teamName": "Monmouth NJ",
+      "conference": "Coastal",
+      "wins": 19,
+      "losses": 15,
+      "rating": 6.87
+    },
+    {
+      "rank": 188,
+      "teamName": "Queens NC",
+      "conference": "Atlantic Sun",
+      "wins": 21,
+      "losses": 14,
+      "rating": 6.87
+    },
+    {
+      "rank": 189,
+      "teamName": "Bowling Green",
+      "conference": "Mid-American",
+      "wins": 18,
+      "losses": 14,
+      "rating": 6.86
+    },
+    {
+      "rank": 190,
+      "teamName": "Montana",
+      "conference": "Big Sky",
+      "wins": 17,
+      "losses": 16,
+      "rating": 6.86
+    },
+    {
+      "rank": 191,
+      "teamName": "James Madison",
+      "conference": "Sun Belt",
+      "wins": 18,
+      "losses": 15,
+      "rating": 6.86
+    },
+    {
+      "rank": 192,
+      "teamName": "Fordham",
+      "conference": "Atlantic 10",
+      "wins": 17,
+      "losses": 15,
+      "rating": 6.86
+    },
+    {
+      "rank": 193,
+      "teamName": "Lipscomb",
+      "conference": "Atlantic Sun",
+      "wins": 19,
+      "losses": 13,
+      "rating": 6.86
+    },
+    {
+      "rank": 194,
+      "teamName": "Portland",
+      "conference": "West Coast",
+      "wins": 15,
+      "losses": 19,
+      "rating": 6.86
+    },
+    {
+      "rank": 195,
+      "teamName": "Tennessee St",
+      "conference": "OH Valley",
+      "wins": 23,
+      "losses": 10,
+      "rating": 6.85
+    },
+    {
+      "rank": 196,
+      "teamName": "Siena",
+      "conference": "Metro Atlantic",
+      "wins": 23,
+      "losses": 12,
+      "rating": 6.85
+    },
+    {
+      "rank": 197,
+      "teamName": "Southern Miss",
+      "conference": "Sun Belt",
+      "wins": 19,
+      "losses": 16,
+      "rating": 6.85
+    },
+    {
+      "rank": 198,
+      "teamName": "TAM C. Christi",
+      "conference": "Southland",
+      "wins": 18,
+      "losses": 15,
+      "rating": 6.85
+    },
+    {
+      "rank": 199,
+      "teamName": "CS Fullerton",
+      "conference": "Big West",
+      "wins": 18,
+      "losses": 16,
+      "rating": 6.85
+    },
+    {
+      "rank": 200,
+      "teamName": "Cent Arkansas",
+      "conference": "Atlantic Sun",
+      "wins": 22,
+      "losses": 12,
+      "rating": 6.84
+    },
+    {
+      "rank": 201,
+      "teamName": "Massachusetts",
+      "conference": "Mid-American",
+      "wins": 17,
+      "losses": 16,
+      "rating": 6.84
+    },
+    {
+      "rank": 202,
+      "teamName": "Ga Southern",
+      "conference": "Sun Belt",
+      "wins": 21,
+      "losses": 16,
+      "rating": 6.84
+    },
+    {
+      "rank": 203,
+      "teamName": "Jacksonville St",
+      "conference": "Conference USA",
+      "wins": 15,
+      "losses": 17,
+      "rating": 6.83
+    },
+    {
+      "rank": 204,
+      "teamName": "San Jose St",
+      "conference": "Mountain West",
+      "wins": 9,
+      "losses": 24,
+      "rating": 6.82
+    },
+    {
+      "rank": 205,
+      "teamName": "E Washington",
+      "conference": "Big Sky",
+      "wins": 14,
+      "losses": 19,
+      "rating": 6.8
+    },
+    {
+      "rank": 206,
+      "teamName": "Campbell",
+      "conference": "Coastal",
+      "wins": 16,
+      "losses": 18,
+      "rating": 6.8
+    },
+    {
+      "rank": 207,
+      "teamName": "Rice",
+      "conference": "American Athletic",
+      "wins": 13,
+      "losses": 18,
+      "rating": 6.8
+    },
+    {
+      "rank": 208,
+      "teamName": "Coastal Car",
+      "conference": "Sun Belt",
+      "wins": 19,
+      "losses": 13,
+      "rating": 6.79
+    },
+    {
+      "rank": 209,
+      "teamName": "Wofford",
+      "conference": "Southern",
+      "wins": 19,
+      "losses": 13,
+      "rating": 6.79
+    },
+    {
+      "rank": 210,
+      "teamName": "Texas St",
+      "conference": "Sun Belt",
+      "wins": 19,
+      "losses": 13,
+      "rating": 6.79
+    },
+    {
+      "rank": 211,
+      "teamName": "Florida Intl",
+      "conference": "Conference USA",
+      "wins": 15,
+      "losses": 17,
+      "rating": 6.76
+    },
+    {
+      "rank": 212,
+      "teamName": "Ohio",
+      "conference": "Mid-American",
+      "wins": 15,
+      "losses": 17,
+      "rating": 6.76
+    },
+    {
+      "rank": 213,
+      "teamName": "Weber St",
+      "conference": "Big Sky",
+      "wins": 16,
+      "losses": 16,
+      "rating": 6.76
+    },
+    {
+      "rank": 214,
+      "teamName": "Loyola-Chicago",
+      "conference": "Atlantic 10",
+      "wins": 9,
+      "losses": 24,
+      "rating": 6.75
+    },
+    {
+      "rank": 215,
+      "teamName": "Indiana St",
+      "conference": "Missouri Val",
+      "wins": 11,
+      "losses": 21,
+      "rating": 6.75
+    },
+    {
+      "rank": 216,
+      "teamName": "Detroit",
+      "conference": "Horizon",
+      "wins": 17,
+      "losses": 15,
+      "rating": 6.75
+    },
+    {
+      "rank": 217,
+      "teamName": "PFW",
+      "conference": "Horizon",
+      "wins": 17,
+      "losses": 15,
+      "rating": 6.75
+    },
+    {
+      "rank": 218,
+      "teamName": "UMBC",
+      "conference": "America East",
+      "wins": 24,
+      "losses": 9,
+      "rating": 6.75
+    },
+    {
+      "rank": 219,
+      "teamName": "WI Green Bay",
+      "conference": "Horizon",
+      "wins": 18,
+      "losses": 15,
+      "rating": 6.74
+    },
+    {
+      "rank": 220,
+      "teamName": "Drexel",
+      "conference": "Coastal",
+      "wins": 17,
+      "losses": 16,
+      "rating": 6.73
+    },
+    {
+      "rank": 221,
+      "teamName": "Columbia",
+      "conference": "Ivy League",
+      "wins": 16,
+      "losses": 12,
+      "rating": 6.73
+    },
+    {
+      "rank": 222,
+      "teamName": "Vermont",
+      "conference": "America East",
+      "wins": 22,
+      "losses": 12,
+      "rating": 6.73
+    },
+    {
+      "rank": 223,
+      "teamName": "Quinnipiac",
+      "conference": "Metro Atlantic",
+      "wins": 19,
+      "losses": 13,
+      "rating": 6.72
+    },
+    {
+      "rank": 224,
+      "teamName": "Marist",
+      "conference": "Metro Atlantic",
+      "wins": 19,
+      "losses": 12,
+      "rating": 6.71
+    },
+    {
+      "rank": 225,
+      "teamName": "Buffalo",
+      "conference": "Mid-American",
+      "wins": 17,
+      "losses": 15,
+      "rating": 6.7
+    },
+    {
+      "rank": 226,
+      "teamName": "S Dakota St",
+      "conference": "Summit Lg",
+      "wins": 14,
+      "losses": 18,
+      "rating": 6.7
+    },
+    {
+      "rank": 227,
+      "teamName": "Tarleton St",
+      "conference": "Western Athletic",
+      "wins": 14,
+      "losses": 18,
+      "rating": 6.7
+    },
+    {
+      "rank": 228,
+      "teamName": "LIU Brooklyn",
+      "conference": "Northeast",
+      "wins": 24,
+      "losses": 11,
+      "rating": 6.7
+    },
+    {
+      "rank": 229,
+      "teamName": "San Diego",
+      "conference": "West Coast",
+      "wins": 12,
+      "losses": 21,
+      "rating": 6.69
+    },
+    {
+      "rank": 230,
+      "teamName": "Abilene Chr",
+      "conference": "Western Athletic",
+      "wins": 14,
+      "losses": 19,
+      "rating": 6.69
+    },
+    {
+      "rank": 231,
+      "teamName": "New Orleans",
+      "conference": "Southland",
+      "wins": 15,
+      "losses": 18,
+      "rating": 6.69
+    },
+    {
+      "rank": 232,
+      "teamName": "Howard",
+      "conference": "Mid-Eastern AC",
+      "wins": 24,
+      "losses": 11,
+      "rating": 6.68
+    },
+    {
+      "rank": 233,
+      "teamName": "La Salle",
+      "conference": "Atlantic 10",
+      "wins": 9,
+      "losses": 23,
+      "rating": 6.68
+    },
+    {
+      "rank": 234,
+      "teamName": "East Carolina",
+      "conference": "American Athletic",
+      "wins": 11,
+      "losses": 20,
+      "rating": 6.68
+    },
+    {
+      "rank": 235,
+      "teamName": "Cal Poly",
+      "conference": "Big West",
+      "wins": 14,
+      "losses": 19,
+      "rating": 6.67
+    },
+    {
+      "rank": 236,
+      "teamName": "W Carolina",
+      "conference": "Southern",
+      "wins": 15,
+      "losses": 16,
+      "rating": 6.67
+    },
+    {
+      "rank": 237,
+      "teamName": "TN Martin",
+      "conference": "OH Valley",
+      "wins": 22,
+      "losses": 11,
+      "rating": 6.67
+    },
+    {
+      "rank": 238,
+      "teamName": "Youngstown St",
+      "conference": "Horizon",
+      "wins": 15,
+      "losses": 17,
+      "rating": 6.66
+    },
+    {
+      "rank": 239,
+      "teamName": "Iona",
+      "conference": "Metro Atlantic",
+      "wins": 18,
+      "losses": 14,
+      "rating": 6.66
+    },
+    {
+      "rank": 240,
+      "teamName": "UTEP",
+      "conference": "Conference USA",
+      "wins": 11,
+      "losses": 20,
+      "rating": 6.66
+    },
+    {
+      "rank": 241,
+      "teamName": "Nicholls St",
+      "conference": "Southland",
+      "wins": 14,
+      "losses": 19,
+      "rating": 6.65
+    },
+    {
+      "rank": 242,
+      "teamName": "North Dakota",
+      "conference": "Summit Lg",
+      "wins": 18,
+      "losses": 17,
+      "rating": 6.64
+    },
+    {
+      "rank": 243,
+      "teamName": "Stony Brook",
+      "conference": "Coastal",
+      "wins": 17,
+      "losses": 15,
+      "rating": 6.64
+    },
+    {
+      "rank": 244,
+      "teamName": "St Peter's",
+      "conference": "Metro Atlantic",
+      "wins": 17,
+      "losses": 12,
+      "rating": 6.63
+    },
+    {
+      "rank": 245,
+      "teamName": "SE Missouri St",
+      "conference": "OH Valley",
+      "wins": 20,
+      "losses": 13,
+      "rating": 6.63
+    },
+    {
+      "rank": 246,
+      "teamName": "NE Omaha",
+      "conference": "Summit Lg",
+      "wins": 16,
+      "losses": 17,
+      "rating": 6.62
+    },
+    {
+      "rank": 247,
+      "teamName": "UNC Asheville",
+      "conference": "Big South",
+      "wins": 15,
+      "losses": 17,
+      "rating": 6.62
+    },
+    {
+      "rank": 248,
+      "teamName": "FGCU",
+      "conference": "Atlantic Sun",
+      "wins": 16,
+      "losses": 18,
+      "rating": 6.6
+    },
+    {
+      "rank": 249,
+      "teamName": "Fairfield",
+      "conference": "Metro Atlantic",
+      "wins": 21,
+      "losses": 13,
+      "rating": 6.6
+    },
+    {
+      "rank": 250,
+      "teamName": "Denver",
+      "conference": "Summit Lg",
+      "wins": 15,
+      "losses": 17,
+      "rating": 6.59
+    },
+    {
+      "rank": 251,
+      "teamName": "Morehead St",
+      "conference": "OH Valley",
+      "wins": 20,
+      "losses": 13,
+      "rating": 6.59
+    },
+    {
+      "rank": 252,
+      "teamName": "Colgate",
+      "conference": "Patriot League",
+      "wins": 18,
+      "losses": 15,
+      "rating": 6.59
+    },
+    {
+      "rank": 253,
+      "teamName": "WI Milwaukee",
+      "conference": "Horizon",
+      "wins": 12,
+      "losses": 20,
+      "rating": 6.56
+    },
+    {
+      "rank": 254,
+      "teamName": "Radford",
+      "conference": "Big South",
+      "wins": 16,
+      "losses": 16,
+      "rating": 6.56
+    },
+    {
+      "rank": 255,
+      "teamName": "Elon",
+      "conference": "Coastal",
+      "wins": 14,
+      "losses": 18,
+      "rating": 6.56
+    },
+    {
+      "rank": 256,
+      "teamName": "UNC Greensboro",
+      "conference": "Southern",
+      "wins": 15,
+      "losses": 19,
+      "rating": 6.55
+    },
+    {
+      "rank": 257,
+      "teamName": "Idaho St",
+      "conference": "Big Sky",
+      "wins": 13,
+      "losses": 20,
+      "rating": 6.55
+    },
+    {
+      "rank": 258,
+      "teamName": "Princeton",
+      "conference": "Ivy League",
+      "wins": 9,
+      "losses": 20,
+      "rating": 6.55
+    },
+    {
+      "rank": 259,
+      "teamName": "Old Dominion",
+      "conference": "Sun Belt",
+      "wins": 12,
+      "losses": 21,
+      "rating": 6.54
+    },
+    {
+      "rank": 260,
+      "teamName": "SIUE",
+      "conference": "OH Valley",
+      "wins": 20,
+      "losses": 13,
+      "rating": 6.54
+    },
+    {
+      "rank": 261,
+      "teamName": "Longwood",
+      "conference": "Big South",
+      "wins": 16,
+      "losses": 16,
+      "rating": 6.51
+    },
+    {
+      "rank": 262,
+      "teamName": "Chattanooga",
+      "conference": "Southern",
+      "wins": 13,
+      "losses": 19,
+      "rating": 6.51
+    },
+    {
+      "rank": 263,
+      "teamName": "Delaware",
+      "conference": "Conference USA",
+      "wins": 10,
+      "losses": 21,
+      "rating": 6.5
+    },
+    {
+      "rank": 264,
+      "teamName": "Pepperdine",
+      "conference": "West Coast",
+      "wins": 9,
+      "losses": 23,
+      "rating": 6.5
+    },
+    {
+      "rank": 265,
+      "teamName": "Presbyterian",
+      "conference": "Big South",
+      "wins": 15,
+      "losses": 18,
+      "rating": 6.49
+    },
+    {
+      "rank": 266,
+      "teamName": "UC Riverside",
+      "conference": "Big West",
+      "wins": 10,
+      "losses": 22,
+      "rating": 6.49
+    },
+    {
+      "rank": 267,
+      "teamName": "Southern Utah",
+      "conference": "Western Athletic",
+      "wins": 10,
+      "losses": 22,
+      "rating": 6.49
+    },
+    {
+      "rank": 268,
+      "teamName": "South Dakota",
+      "conference": "Summit Lg",
+      "wins": 16,
+      "losses": 16,
+      "rating": 6.48
+    },
+    {
+      "rank": 269,
+      "teamName": "Lamar",
+      "conference": "Southland",
+      "wins": 12,
+      "losses": 19,
+      "rating": 6.48
+    },
+    {
+      "rank": 270,
+      "teamName": "E Michigan",
+      "conference": "Mid-American",
+      "wins": 10,
+      "losses": 21,
+      "rating": 6.48
+    },
+    {
+      "rank": 271,
+      "teamName": "Dartmouth",
+      "conference": "Ivy League",
+      "wins": 11,
+      "losses": 16,
+      "rating": 6.47
+    },
+    {
+      "rank": 272,
+      "teamName": "Long Beach St",
+      "conference": "Big West",
+      "wins": 10,
+      "losses": 22,
+      "rating": 6.46
+    },
+    {
+      "rank": 273,
+      "teamName": "Mt St Mary's",
+      "conference": "Metro Atlantic",
+      "wins": 15,
+      "losses": 17,
+      "rating": 6.46
+    },
+    {
+      "rank": 274,
+      "teamName": "Ball St",
+      "conference": "Mid-American",
+      "wins": 12,
+      "losses": 19,
+      "rating": 6.45
+    },
+    {
+      "rank": 275,
+      "teamName": "American Univ",
+      "conference": "Patriot League",
+      "wins": 16,
+      "losses": 16,
+      "rating": 6.44
+    },
+    {
+      "rank": 276,
+      "teamName": "Evansville",
+      "conference": "Missouri Val",
+      "wins": 7,
+      "losses": 25,
+      "rating": 6.44
+    },
+    {
+      "rank": 277,
+      "teamName": "Boston Univ",
+      "conference": "Patriot League",
+      "wins": 17,
+      "losses": 17,
+      "rating": 6.43
+    },
+    {
+      "rank": 278,
+      "teamName": "Louisiana",
+      "conference": "Sun Belt",
+      "wins": 11,
+      "losses": 22,
+      "rating": 6.43
+    },
+    {
+      "rank": 279,
+      "teamName": "C Michigan",
+      "conference": "Mid-American",
+      "wins": 10,
+      "losses": 21,
+      "rating": 6.42
+    },
+    {
+      "rank": 280,
+      "teamName": "Southern Univ",
+      "conference": "Southwestern AC",
+      "wins": 17,
+      "losses": 17,
+      "rating": 6.42
+    },
+    {
+      "rank": 281,
+      "teamName": "Bethune-Cookman",
+      "conference": "Southwestern AC",
+      "wins": 17,
+      "losses": 15,
+      "rating": 6.42
+    },
+    {
+      "rank": 282,
+      "teamName": "Hampton",
+      "conference": "Coastal",
+      "wins": 13,
+      "losses": 19,
+      "rating": 6.41
+    },
+    {
+      "rank": 283,
+      "teamName": "Charleston So",
+      "conference": "Big South",
+      "wins": 15,
+      "losses": 17,
+      "rating": 6.41
+    },
+    {
+      "rank": 284,
+      "teamName": "Lindenwood",
+      "conference": "OH Valley",
+      "wins": 18,
+      "losses": 15,
+      "rating": 6.4
+    },
+    {
+      "rank": 285,
+      "teamName": "Incarnate Word",
+      "conference": "Southland",
+      "wins": 12,
+      "losses": 19,
+      "rating": 6.4
+    },
+    {
+      "rank": 286,
+      "teamName": "Cleveland St",
+      "conference": "Horizon",
+      "wins": 11,
+      "losses": 22,
+      "rating": 6.39
+    },
+    {
+      "rank": 287,
+      "teamName": "Bellarmine",
+      "conference": "Atlantic Sun",
+      "wins": 13,
+      "losses": 19,
+      "rating": 6.38
+    },
+    {
+      "rank": 288,
+      "teamName": "CS Sacramento",
+      "conference": "Big Sky",
+      "wins": 10,
+      "losses": 21,
+      "rating": 6.37
+    },
+    {
+      "rank": 289,
+      "teamName": "Lehigh",
+      "conference": "Patriot League",
+      "wins": 18,
+      "losses": 17,
+      "rating": 6.36
+    },
+    {
+      "rank": 290,
+      "teamName": "W Michigan",
+      "conference": "Mid-American",
+      "wins": 10,
+      "losses": 21,
+      "rating": 6.36
+    },
+    {
+      "rank": 291,
+      "teamName": "Central Conn",
+      "conference": "Northeast",
+      "wins": 18,
+      "losses": 12,
+      "rating": 6.36
+    },
+    {
+      "rank": 292,
+      "teamName": "SE Louisiana",
+      "conference": "Southland",
+      "wins": 9,
+      "losses": 22,
+      "rating": 6.35
+    },
+    {
+      "rank": 293,
+      "teamName": "Georgia St",
+      "conference": "Sun Belt",
+      "wins": 10,
+      "losses": 22,
+      "rating": 6.34
+    },
+    {
+      "rank": 294,
+      "teamName": "Jacksonville",
+      "conference": "Atlantic Sun",
+      "wins": 12,
+      "losses": 20,
+      "rating": 6.34
+    },
+    {
+      "rank": 295,
+      "teamName": "E Kentucky",
+      "conference": "Atlantic Sun",
+      "wins": 11,
+      "losses": 21,
+      "rating": 6.34
+    },
+    {
+      "rank": 296,
+      "teamName": "Sacred Heart",
+      "conference": "Metro Atlantic",
+      "wins": 14,
+      "losses": 19,
+      "rating": 6.34
+    },
+    {
+      "rank": 297,
+      "teamName": "Brown",
+      "conference": "Ivy League",
+      "wins": 9,
+      "losses": 18,
+      "rating": 6.34
+    },
+    {
+      "rank": 298,
+      "teamName": "Northwestern LA",
+      "conference": "Southland",
+      "wins": 10,
+      "losses": 22,
+      "rating": 6.33
+    },
+    {
+      "rank": 299,
+      "teamName": "West Georgia",
+      "conference": "Atlantic Sun",
+      "wins": 15,
+      "losses": 17,
+      "rating": 6.31
+    },
+    {
+      "rank": 300,
+      "teamName": "Northern Arizona",
+      "conference": "Big Sky",
+      "wins": 10,
+      "losses": 22,
+      "rating": 6.31
+    },
+    {
+      "rank": 301,
+      "teamName": "Oral Roberts",
+      "conference": "Summit Lg",
+      "wins": 10,
+      "losses": 23,
+      "rating": 6.3
+    },
+    {
+      "rank": 302,
+      "teamName": "Houston Chr",
+      "conference": "Southland",
+      "wins": 12,
+      "losses": 20,
+      "rating": 6.3
+    },
+    {
+      "rank": 303,
+      "teamName": "East Texas A&M",
+      "conference": "Southland",
+      "wins": 11,
+      "losses": 21,
+      "rating": 6.3
+    },
+    {
+      "rank": 304,
+      "teamName": "SC Upstate",
+      "conference": "Big South",
+      "wins": 13,
+      "losses": 19,
+      "rating": 6.29
+    },
+    {
+      "rank": 305,
+      "teamName": "Prairie View",
+      "conference": "Southwestern AC",
+      "wins": 19,
+      "losses": 18,
+      "rating": 6.28
+    },
+    {
+      "rank": 306,
+      "teamName": "Stetson",
+      "conference": "Atlantic Sun",
+      "wins": 12,
+      "losses": 21,
+      "rating": 6.28
+    },
+    {
+      "rank": 307,
+      "teamName": "MA Lowell",
+      "conference": "America East",
+      "wins": 15,
+      "losses": 18,
+      "rating": 6.27
+    },
+    {
+      "rank": 308,
+      "teamName": "Northeastern",
+      "conference": "Coastal",
+      "wins": 7,
+      "losses": 24,
+      "rating": 6.26
+    },
+    {
+      "rank": 309,
+      "teamName": "NC A&T",
+      "conference": "Coastal",
+      "wins": 11,
+      "losses": 19,
+      "rating": 6.26
+    },
+    {
+      "rank": 310,
+      "teamName": "Ark Little Rock",
+      "conference": "OH Valley",
+      "wins": 12,
+      "losses": 20,
+      "rating": 6.24
+    },
+    {
+      "rank": 311,
+      "teamName": "Mercyhurst",
+      "conference": "Northeast",
+      "wins": 18,
+      "losses": 17,
+      "rating": 6.23
+    },
+    {
+      "rank": 312,
+      "teamName": "NJIT",
+      "conference": "America East",
+      "wins": 16,
+      "losses": 17,
+      "rating": 6.21
+    },
+    {
+      "rank": 313,
+      "teamName": "Florida A&M",
+      "conference": "Southwestern AC",
+      "wins": 15,
+      "losses": 16,
+      "rating": 6.21
+    },
+    {
+      "rank": 314,
+      "teamName": "N Illinois",
+      "conference": "Mid-American",
+      "wins": 9,
+      "losses": 21,
+      "rating": 6.21
+    },
+    {
+      "rank": 315,
+      "teamName": "Norfolk St",
+      "conference": "Mid-Eastern AC",
+      "wins": 15,
+      "losses": 17,
+      "rating": 6.2
+    },
+    {
+      "rank": 316,
+      "teamName": "Tennessee Tech",
+      "conference": "OH Valley",
+      "wins": 13,
+      "losses": 18,
+      "rating": 6.19
+    },
+    {
+      "rank": 317,
+      "teamName": "UT San Antonio",
+      "conference": "American Athletic",
+      "wins": 5,
+      "losses": 25,
+      "rating": 6.18
+    },
+    {
+      "rank": 318,
+      "teamName": "Grambling",
+      "conference": "Southwestern AC",
+      "wins": 14,
+      "losses": 19,
+      "rating": 6.18
+    },
+    {
+      "rank": 319,
+      "teamName": "E Illinois",
+      "conference": "OH Valley",
+      "wins": 13,
+      "losses": 20,
+      "rating": 6.18
+    },
+    {
+      "rank": 320,
+      "teamName": "Alabama A&M",
+      "conference": "Southwestern AC",
+      "wins": 18,
+      "losses": 15,
+      "rating": 6.17
+    },
+    {
+      "rank": 321,
+      "teamName": "North Alabama",
+      "conference": "Atlantic Sun",
+      "wins": 9,
+      "losses": 21,
+      "rating": 6.17
+    },
+    {
+      "rank": 322,
+      "teamName": "CS Bakersfield",
+      "conference": "Big West",
+      "wins": 8,
+      "losses": 24,
+      "rating": 6.15
+    },
+    {
+      "rank": 323,
+      "teamName": "Manhattan",
+      "conference": "Metro Atlantic",
+      "wins": 12,
+      "losses": 20,
+      "rating": 6.15
+    },
+    {
+      "rank": 324,
+      "teamName": "Wagner",
+      "conference": "Northeast",
+      "wins": 14,
+      "losses": 17,
+      "rating": 6.14
+    },
+    {
+      "rank": 325,
+      "teamName": "Bucknell",
+      "conference": "Patriot League",
+      "wins": 10,
+      "losses": 23,
+      "rating": 6.13
+    },
+    {
+      "rank": 326,
+      "teamName": "Citadel",
+      "conference": "Southern",
+      "wins": 11,
+      "losses": 22,
+      "rating": 6.12
+    },
+    {
+      "rank": 327,
+      "teamName": "Le Moyne",
+      "conference": "Northeast",
+      "wins": 15,
+      "losses": 17,
+      "rating": 6.12
+    },
+    {
+      "rank": 328,
+      "teamName": "SUNY Albany",
+      "conference": "America East",
+      "wins": 11,
+      "losses": 21,
+      "rating": 6.09
+    },
+    {
+      "rank": 329,
+      "teamName": "TX Southern",
+      "conference": "Southwestern AC",
+      "wins": 12,
+      "losses": 18,
+      "rating": 6.08
+    },
+    {
+      "rank": 330,
+      "teamName": "Lafayette",
+      "conference": "Patriot League",
+      "wins": 11,
+      "losses": 21,
+      "rating": 6.08
+    },
+    {
+      "rank": 331,
+      "teamName": "Jackson St",
+      "conference": "Southwestern AC",
+      "wins": 12,
+      "losses": 21,
+      "rating": 6.08
+    },
+    {
+      "rank": 332,
+      "teamName": "Loyola MD",
+      "conference": "Patriot League",
+      "wins": 12,
+      "losses": 20,
+      "rating": 6.05
+    },
+    {
+      "rank": 333,
+      "teamName": "Bryant",
+      "conference": "America East",
+      "wins": 9,
+      "losses": 22,
+      "rating": 6.04
+    },
+    {
+      "rank": 334,
+      "teamName": "Holy Cross",
+      "conference": "Patriot League",
+      "wins": 11,
+      "losses": 22,
+      "rating": 6.04
+    },
+    {
+      "rank": 335,
+      "teamName": "Canisius",
+      "conference": "Metro Atlantic",
+      "wins": 10,
+      "losses": 21,
+      "rating": 6.03
+    },
+    {
+      "rank": 336,
+      "teamName": "NC Central",
+      "conference": "Mid-Eastern AC",
+      "wins": 14,
+      "losses": 18,
+      "rating": 6.02
+    },
+    {
+      "rank": 337,
+      "teamName": "Ark Pine Bluff",
+      "conference": "Southwestern AC",
+      "wins": 13,
+      "losses": 19,
+      "rating": 6.02
+    },
+    {
+      "rank": 338,
+      "teamName": "Air Force",
+      "conference": "Mountain West",
+      "wins": 3,
+      "losses": 29,
+      "rating": 6.02
+    },
+    {
+      "rank": 339,
+      "teamName": "Alabama St",
+      "conference": "Southwestern AC",
+      "wins": 10,
+      "losses": 22,
+      "rating": 5.99
+    },
+    {
+      "rank": 340,
+      "teamName": "Army",
+      "conference": "Patriot League",
+      "wins": 11,
+      "losses": 21,
+      "rating": 5.98
+    },
+    {
+      "rank": 341,
+      "teamName": "Niagara",
+      "conference": "Metro Atlantic",
+      "wins": 8,
+      "losses": 22,
+      "rating": 5.97
+    },
+    {
+      "rank": 342,
+      "teamName": "North Florida",
+      "conference": "Atlantic Sun",
+      "wins": 7,
+      "losses": 25,
+      "rating": 5.96
+    },
+    {
+      "rank": 343,
+      "teamName": "IUPUI",
+      "conference": "Horizon",
+      "wins": 7,
+      "losses": 25,
+      "rating": 5.96
+    },
+    {
+      "rank": 344,
+      "teamName": "Stonehill",
+      "conference": "Northeast",
+      "wins": 12,
+      "losses": 21,
+      "rating": 5.95
+    },
+    {
+      "rank": 345,
+      "teamName": "Alcorn St",
+      "conference": "Southwestern AC",
+      "wins": 9,
+      "losses": 23,
+      "rating": 5.94
+    },
+    {
+      "rank": 346,
+      "teamName": "New Haven",
+      "conference": "Northeast",
+      "wins": 14,
+      "losses": 17,
+      "rating": 5.94
+    },
+    {
+      "rank": 347,
+      "teamName": "Morgan St",
+      "conference": "Mid-Eastern AC",
+      "wins": 14,
+      "losses": 16,
+      "rating": 5.93
+    },
+    {
+      "rank": 348,
+      "teamName": "Maine",
+      "conference": "America East",
+      "wins": 8,
+      "losses": 24,
+      "rating": 5.93
+    },
+    {
+      "rank": 349,
+      "teamName": "F Dickinson",
+      "conference": "Northeast",
+      "wins": 11,
+      "losses": 21,
+      "rating": 5.92
+    },
+    {
+      "rank": 350,
+      "teamName": "New Hampshire",
+      "conference": "America East",
+      "wins": 9,
+      "losses": 21,
+      "rating": 5.92
+    },
+    {
+      "rank": 351,
+      "teamName": "S Carolina St",
+      "conference": "Mid-Eastern AC",
+      "wins": 10,
+      "losses": 22,
+      "rating": 5.86
+    },
+    {
+      "rank": 352,
+      "teamName": "Southern Indiana",
+      "conference": "OH Valley",
+      "wins": 7,
+      "losses": 23,
+      "rating": 5.84
+    },
+    {
+      "rank": 353,
+      "teamName": "Chicago St",
+      "conference": "Northeast",
+      "wins": 7,
+      "losses": 25,
+      "rating": 5.78
+    },
+    {
+      "rank": 354,
+      "teamName": "MD E Shore",
+      "conference": "Mid-Eastern AC",
+      "wins": 9,
+      "losses": 23,
+      "rating": 5.76
+    },
+    {
+      "rank": 355,
+      "teamName": "Rider",
+      "conference": "Metro Atlantic",
+      "wins": 4,
+      "losses": 25,
+      "rating": 5.74
+    },
+    {
+      "rank": 356,
+      "teamName": "VMI",
+      "conference": "Southern",
+      "wins": 6,
+      "losses": 26,
+      "rating": 5.73
+    },
+    {
+      "rank": 357,
+      "teamName": "Missouri KC",
+      "conference": "Summit Lg",
+      "wins": 4,
+      "losses": 27,
+      "rating": 5.72
+    },
+    {
+      "rank": 358,
+      "teamName": "St Francis PA",
+      "conference": "Northeast",
+      "wins": 7,
+      "losses": 24,
+      "rating": 5.71
+    },
+    {
+      "rank": 359,
+      "teamName": "ULM",
+      "conference": "Sun Belt",
+      "wins": 4,
+      "losses": 28,
+      "rating": 5.69
+    },
+    {
+      "rank": 360,
+      "teamName": "Gardner Webb",
+      "conference": "Big South",
+      "wins": 4,
+      "losses": 29,
+      "rating": 5.69
+    },
+    {
+      "rank": 361,
+      "teamName": "Binghamton",
+      "conference": "America East",
+      "wins": 8,
+      "losses": 23,
+      "rating": 5.64
+    },
+    {
+      "rank": 362,
+      "teamName": "Coppin St",
+      "conference": "Mid-Eastern AC",
+      "wins": 7,
+      "losses": 24,
+      "rating": 5.59
+    },
+    {
+      "rank": 363,
+      "teamName": "Delaware St",
+      "conference": "Mid-Eastern AC",
+      "wins": 8,
+      "losses": 23,
+      "rating": 5.55
+    },
+    {
+      "rank": 364,
+      "teamName": "W Illinois",
+      "conference": "OH Valley",
+      "wins": 5,
+      "losses": 26,
+      "rating": 5.55
+    },
+    {
+      "rank": 365,
+      "teamName": "MS Valley St",
+      "conference": "Southwestern AC",
+      "wins": 3,
+      "losses": 30,
+      "rating": 5.05
+    }
+  ]
+}

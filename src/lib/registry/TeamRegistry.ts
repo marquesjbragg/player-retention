@@ -46,6 +46,10 @@ export const TeamRegistry = {
     return load().find(e => e.externalIds.cbbdTeamId === cbbdTeamId) ?? null
   },
 
+  getBySidearmId(sidearmId: string): RegistryEntry | null {
+    return load().find(e => e.externalIds.sidearmId === sidearmId) ?? null
+  },
+
   getConferences(division?: 'D1' | 'D2'): string[] {
     const entries = division ? load().filter(e => e.division === division) : load()
     const seen = new Set<string>()

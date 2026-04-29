@@ -2,7 +2,8 @@ import * as fs from 'fs'
 import * as path from 'path'
 import type { CacheEntry } from '@/lib/types'
 
-const CACHE_ROOT = path.resolve(process.cwd(), 'data/cache/d1/cbbd')
+const D1_CACHE_ROOT = path.resolve(process.cwd(), 'data/cache/d1/cbbd')
+const D2_CACHE_ROOT = path.resolve(process.cwd(), 'data/cache/d2/sidearm')
 
 // 2025-26 is the current season (ending year 2026).
 // Any season ending year <= CURRENT_SEASON_YEAR - 1 is frozen (complete, never re-fetch).
@@ -12,11 +13,19 @@ const TTL_CURRENT_MS = 6 * 60 * 60 * 1000   // 6 hours for live season
 // ─── Path helpers ─────────────────────────────────────────────────────────────
 
 export const CachePaths = {
-  rawPlayers:      (season: number, teamSlug: string) => path.join(CACHE_ROOT, 'raw', 'players', String(season), `${teamSlug}.json`),
-  rawRatings:      (season: number)                   => path.join(CACHE_ROOT, 'raw', 'ratings', `${season}.json`),
-  players:         (season: number, teamSlug: string) => path.join(CACHE_ROOT, 'players', String(season), `${teamSlug}.json`),
-  teamSeason:      (season: number, teamSlug: string) => path.join(CACHE_ROOT, 'team-seasons', String(season), `${teamSlug}.json`),
-  ratings:         (season: number)                   => path.join(CACHE_ROOT, 'ratings', `${season}.json`),
+  rawPlayers:  (season: number, teamSlug: string) => path.join(D1_CACHE_ROOT, 'raw', 'players', String(season), `${teamSlug}.json`),
+  rawRatings:  (season: number)                   => path.join(D1_CACHE_ROOT, 'raw', 'ratings', `${season}.json`),
+  players:     (season: number, teamSlug: string) => path.join(D1_CACHE_ROOT, 'players', String(season), `${teamSlug}.json`),
+  teamSeason:  (season: number, teamSlug: string) => path.join(D1_CACHE_ROOT, 'team-seasons', String(season), `${teamSlug}.json`),
+  ratings:     (season: number)                   => path.join(D1_CACHE_ROOT, 'ratings', `${season}.json`),
+  coaches:     (season: number, teamSlug: string) => path.join(D1_CACHE_ROOT, 'coaches', String(season), `${teamSlug}.json`),
+}
+
+export const D2CachePaths = {
+  rawPlayers:  (season: number, teamSlug: string) => path.join(D2_CACHE_ROOT, 'raw', 'players', String(season), `${teamSlug}.json`),
+  rawTeam:     (season: number, teamSlug: string) => path.join(D2_CACHE_ROOT, 'raw', 'team-seasons', String(season), `${teamSlug}.json`),
+  players:     (season: number, teamSlug: string) => path.join(D2_CACHE_ROOT, 'players', String(season), `${teamSlug}.json`),
+  teamSeason:  (season: number, teamSlug: string) => path.join(D2_CACHE_ROOT, 'team-seasons', String(season), `${teamSlug}.json`),
 }
 
 // ─── Core operations ──────────────────────────────────────────────────────────

@@ -4366,5 +4366,3107 @@
       "cbbdName": "Youngstown State"
     },
     "logoUrl": null
+  },
+  {
+    "slug": "lake-superior-state",
+    "displayName": "Lake Superior State",
+    "shortName": "Lake Superior State",
+    "division": "D2",
+    "conference": "GLIAC",
+    "externalIds": {
+      "sidearmId": "345"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "northern-michigan",
+    "displayName": "Northern Michigan",
+    "shortName": "Northern Michigan",
+    "division": "D2",
+    "conference": "GLIAC",
+    "externalIds": {
+      "sidearmId": "506"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "saginaw-valley-state",
+    "displayName": "Saginaw Valley State",
+    "shortName": "Saginaw Valley State",
+    "division": "D2",
+    "conference": "GLIAC",
+    "externalIds": {
+      "sidearmId": "591"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "wayne-state-university",
+    "displayName": "Wayne State University",
+    "shortName": "Wayne State University",
+    "division": "D2",
+    "conference": "GLIAC",
+    "externalIds": {
+      "sidearmId": "757"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "grand-valley-state",
+    "displayName": "Grand Valley State",
+    "shortName": "Grand Valley State",
+    "division": "D2",
+    "conference": "GLIAC",
+    "externalIds": {
+      "sidearmId": "262"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "purdue-northwest",
+    "displayName": "Purdue Northwest",
+    "shortName": "Purdue Northwest",
+    "division": "D2",
+    "conference": "GLIAC",
+    "externalIds": {
+      "sidearmId": "30222"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "davenport",
+    "displayName": "Davenport",
+    "shortName": "Davenport",
+    "division": "D2",
+    "conference": "GLIAC",
+    "externalIds": {
+      "sidearmId": "30221"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "ferris-state",
+    "displayName": "Ferris State",
+    "shortName": "Ferris State",
+    "division": "D2",
+    "conference": "GLIAC",
+    "externalIds": {
+      "sidearmId": "224"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "parkside",
+    "displayName": "Parkside",
+    "shortName": "Parkside",
+    "division": "D2",
+    "conference": "GLIAC",
+    "externalIds": {
+      "sidearmId": "799"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "michigan-tech",
+    "displayName": "Michigan Tech",
+    "shortName": "Michigan Tech",
+    "division": "D2",
+    "conference": "GLIAC",
+    "externalIds": {
+      "sidearmId": "417"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "roosevelt",
+    "displayName": "Roosevelt",
+    "shortName": "Roosevelt",
+    "division": "D2",
+    "conference": "GLIAC",
+    "externalIds": {
+      "sidearmId": "2807"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "sioux-falls",
+    "displayName": "Sioux Falls",
+    "shortName": "Sioux Falls",
+    "division": "D2",
+    "conference": "NSIC",
+    "externalIds": {
+      "sidearmId": "30128"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "concordia-st-paul",
+    "displayName": "Concordia-St. Paul",
+    "shortName": "Concordia-St. Paul",
+    "division": "D2",
+    "conference": "NSIC",
+    "externalIds": {
+      "sidearmId": "9081"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "augustana",
+    "displayName": "Augustana",
+    "shortName": "Augustana",
+    "division": "D2",
+    "conference": "NSIC",
+    "externalIds": {
+      "sidearmId": "41"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "minnesota-state-moorhead",
+    "displayName": "MSU Moorhead",
+    "shortName": "MSU Moorhead",
+    "division": "D2",
+    "conference": "NSIC",
+    "externalIds": {
+      "sidearmId": "1240"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "bemidji-state",
+    "displayName": "Bemidji State",
+    "shortName": "Bemidji State",
+    "division": "D2",
+    "conference": "NSIC",
+    "externalIds": {
+      "sidearmId": "54"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "minnesota-state",
+    "displayName": "Minnesota State",
+    "shortName": "Minnesota State",
+    "division": "D2",
+    "conference": "NSIC",
+    "externalIds": {
+      "sidearmId": "383"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "minnesota-duluth",
+    "displayName": "Minnesota Duluth",
+    "shortName": "Minnesota Duluth",
+    "division": "D2",
+    "conference": "NSIC",
+    "externalIds": {
+      "sidearmId": "427"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "wayne-state-ne",
+    "displayName": "Wayne State College",
+    "shortName": "Wayne State College",
+    "division": "D2",
+    "conference": "NSIC",
+    "externalIds": {
+      "sidearmId": "1433"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "jamestown",
+    "displayName": "Jamestown",
+    "shortName": "Jamestown",
+    "division": "D2",
+    "conference": "NSIC",
+    "externalIds": {
+      "sidearmId": "30267"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "st-cloud-state",
+    "displayName": "St. Cloud State",
+    "shortName": "St. Cloud State",
+    "division": "D2",
+    "conference": "NSIC",
+    "externalIds": {
+      "sidearmId": "598"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "minot-state",
+    "displayName": "Minot State",
+    "shortName": "Minot State",
+    "division": "D2",
+    "conference": "NSIC",
+    "externalIds": {
+      "sidearmId": "30125"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "umary",
+    "displayName": "UMary",
+    "shortName": "UMary",
+    "division": "D2",
+    "conference": "NSIC",
+    "externalIds": {
+      "sidearmId": "30075"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "minnesota-crookston",
+    "displayName": "Minnesota Crookston",
+    "shortName": "Minnesota Crookston",
+    "division": "D2",
+    "conference": "NSIC",
+    "externalIds": {
+      "sidearmId": "27854"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "northern-state",
+    "displayName": "Northern State",
+    "shortName": "Northern State",
+    "division": "D2",
+    "conference": "NSIC",
+    "externalIds": {
+      "sidearmId": "1266"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "southwest-minnesota-state",
+    "displayName": "Southwest Minnesota State",
+    "shortName": "Southwest Minnesota State",
+    "division": "D2",
+    "conference": "NSIC",
+    "externalIds": {
+      "sidearmId": "8736"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "winona-state",
+    "displayName": "Winona State",
+    "shortName": "Winona State",
+    "division": "D2",
+    "conference": "NSIC",
+    "externalIds": {
+      "sidearmId": "790"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "gannon",
+    "displayName": "Gannon",
+    "shortName": "Gannon",
+    "division": "D2",
+    "conference": "PSAC",
+    "externalIds": {
+      "sidearmId": "246"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "e-stroudsburg",
+    "displayName": "E. Stroudsburg",
+    "shortName": "E. Stroudsburg",
+    "division": "D2",
+    "conference": "PSAC",
+    "externalIds": {
+      "sidearmId": "197"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "west-chester",
+    "displayName": "West Chester",
+    "shortName": "West Chester",
+    "division": "D2",
+    "conference": "PSAC",
+    "externalIds": {
+      "sidearmId": "765"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "indiana-pa",
+    "displayName": "IUP",
+    "shortName": "IUP",
+    "division": "D2",
+    "conference": "PSAC",
+    "externalIds": {
+      "sidearmId": "307"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "california-pa",
+    "displayName": "California (Pa.)",
+    "shortName": "California (Pa.)",
+    "division": "D2",
+    "conference": "PSAC",
+    "externalIds": {
+      "sidearmId": "106"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "clarion",
+    "displayName": "Clarion",
+    "shortName": "Clarion",
+    "division": "D2",
+    "conference": "PSAC",
+    "externalIds": {
+      "sidearmId": "143"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "millersville",
+    "displayName": "Millersville",
+    "shortName": "Millersville",
+    "division": "D2",
+    "conference": "PSAC",
+    "externalIds": {
+      "sidearmId": "423"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "seton-hill",
+    "displayName": "Seton Hill",
+    "shortName": "Seton Hill",
+    "division": "D2",
+    "conference": "PSAC",
+    "externalIds": {
+      "sidearmId": "30063"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "pitt-johnstown",
+    "displayName": "Pitt-Johnstown",
+    "shortName": "Pitt-Johnstown",
+    "division": "D2",
+    "conference": "PSAC",
+    "externalIds": {
+      "sidearmId": "546"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "slippery-rock",
+    "displayName": "Slippery Rock",
+    "shortName": "Slippery Rock",
+    "division": "D2",
+    "conference": "PSAC",
+    "externalIds": {
+      "sidearmId": "643"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "edinboro",
+    "displayName": "Edinboro",
+    "shortName": "Edinboro",
+    "division": "D2",
+    "conference": "PSAC",
+    "externalIds": {
+      "sidearmId": "209"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "shippensburg",
+    "displayName": "Shippensburg",
+    "shortName": "Shippensburg",
+    "division": "D2",
+    "conference": "PSAC",
+    "externalIds": {
+      "sidearmId": "638"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "shepherd",
+    "displayName": "Shepherd",
+    "shortName": "Shepherd",
+    "division": "D2",
+    "conference": "PSAC",
+    "externalIds": {
+      "sidearmId": "10870"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "lock-haven",
+    "displayName": "Lock Haven",
+    "shortName": "Lock Haven",
+    "division": "D2",
+    "conference": "PSAC",
+    "externalIds": {
+      "sidearmId": "360"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "mansfield",
+    "displayName": "Mansfield",
+    "shortName": "Mansfield",
+    "division": "D2",
+    "conference": "PSAC",
+    "externalIds": {
+      "sidearmId": "384"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "kutztown",
+    "displayName": "Kutztown",
+    "shortName": "Kutztown",
+    "division": "D2",
+    "conference": "PSAC",
+    "externalIds": {
+      "sidearmId": "339"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "bloomsburg",
+    "displayName": "Bloomsburg",
+    "shortName": "Bloomsburg",
+    "division": "D2",
+    "conference": "PSAC",
+    "externalIds": {
+      "sidearmId": "65"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "goldey-beacom",
+    "displayName": "Goldey-Beacom",
+    "shortName": "Goldey-Beacom",
+    "division": "D2",
+    "conference": "CACC",
+    "externalIds": {
+      "sidearmId": "8366"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "dominican",
+    "displayName": "Dominican",
+    "shortName": "Dominican",
+    "division": "D2",
+    "conference": "CACC",
+    "externalIds": {
+      "sidearmId": "8956"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "felician",
+    "displayName": "Felician",
+    "shortName": "Felician",
+    "division": "D2",
+    "conference": "CACC",
+    "externalIds": {
+      "sidearmId": "23157"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "jefferson",
+    "displayName": "Jefferson",
+    "shortName": "Jefferson",
+    "division": "D2",
+    "conference": "CACC",
+    "externalIds": {
+      "sidearmId": "543"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "wilmington",
+    "displayName": "Wilmington",
+    "shortName": "Wilmington",
+    "division": "D2",
+    "conference": "CACC",
+    "externalIds": {
+      "sidearmId": "1460"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "bridgeport",
+    "displayName": "Bridgeport",
+    "shortName": "Bridgeport",
+    "division": "D2",
+    "conference": "CACC",
+    "externalIds": {
+      "sidearmId": "74"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "caldwell",
+    "displayName": "Caldwell",
+    "shortName": "Caldwell",
+    "division": "D2",
+    "conference": "CACC",
+    "externalIds": {
+      "sidearmId": "995"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "holy-family",
+    "displayName": "Holy Family",
+    "shortName": "Holy Family",
+    "division": "D2",
+    "conference": "CACC",
+    "externalIds": {
+      "sidearmId": "1126"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "post",
+    "displayName": "Post",
+    "shortName": "Post",
+    "division": "D2",
+    "conference": "CACC",
+    "externalIds": {
+      "sidearmId": "1318"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "georgian-court",
+    "displayName": "Georgian Court",
+    "shortName": "Georgian Court",
+    "division": "D2",
+    "conference": "CACC",
+    "externalIds": {
+      "sidearmId": "9004"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "chestnut-hill",
+    "displayName": "Chestnut Hill",
+    "shortName": "Chestnut Hill",
+    "division": "D2",
+    "conference": "CACC",
+    "externalIds": {
+      "sidearmId": "21323"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "cal-state-monterey-bay",
+    "displayName": "Cal State Monterey Bay",
+    "shortName": "Cal State Monterey Bay",
+    "division": "D2",
+    "conference": "CCAA",
+    "externalIds": {
+      "sidearmId": "30055"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "cal-state-dominguez-hills",
+    "displayName": "Cal State Dominguez Hills",
+    "shortName": "Cal State Dominguez Hills",
+    "division": "D2",
+    "conference": "CCAA",
+    "externalIds": {
+      "sidearmId": "92"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "cal-state-east-bay",
+    "displayName": "Cal State East Bay",
+    "shortName": "Cal State East Bay",
+    "division": "D2",
+    "conference": "CCAA",
+    "externalIds": {
+      "sidearmId": "98"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "cal-state-san-bernardino",
+    "displayName": "Cal State San Bernardino",
+    "shortName": "Cal State San Bernardino",
+    "division": "D2",
+    "conference": "CCAA",
+    "externalIds": {
+      "sidearmId": "93"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "cal-state-san-marcos",
+    "displayName": "Cal State San Marcos",
+    "shortName": "Cal State San Marcos",
+    "division": "D2",
+    "conference": "CCAA",
+    "externalIds": {
+      "sidearmId": "30198"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "cal-poly-humboldt",
+    "displayName": "Cal Poly Humboldt",
+    "shortName": "Cal Poly Humboldt",
+    "division": "D2",
+    "conference": "CCAA",
+    "externalIds": {
+      "sidearmId": "291"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "stanislaus-state",
+    "displayName": "Stanislaus State",
+    "shortName": "Stanislaus State",
+    "division": "D2",
+    "conference": "CCAA",
+    "externalIds": {
+      "sidearmId": "103"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "chico-state",
+    "displayName": "Chico State",
+    "shortName": "Chico State",
+    "division": "D2",
+    "conference": "CCAA",
+    "externalIds": {
+      "sidearmId": "95"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "cal-poly-pomona",
+    "displayName": "Cal Poly Pomona",
+    "shortName": "Cal Poly Pomona",
+    "division": "D2",
+    "conference": "CCAA",
+    "externalIds": {
+      "sidearmId": "91"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "uc-merced",
+    "displayName": "UC Merced",
+    "shortName": "UC Merced",
+    "division": "D2",
+    "conference": "CCAA",
+    "externalIds": {
+      "sidearmId": "30266"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "cal-state-la",
+    "displayName": "Cal State LA",
+    "shortName": "Cal State LA",
+    "division": "D2",
+    "conference": "CCAA",
+    "externalIds": {
+      "sidearmId": "100"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "san-francisco-state",
+    "displayName": "San Francisco State",
+    "shortName": "San Francisco State",
+    "division": "D2",
+    "conference": "CCAA",
+    "externalIds": {
+      "sidearmId": "628"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "fayetteville-state",
+    "displayName": "Fayetteville State",
+    "shortName": "Fayetteville State",
+    "division": "D2",
+    "conference": "CIAA",
+    "externalIds": {
+      "sidearmId": "223"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "shaw",
+    "displayName": "Shaw",
+    "shortName": "Shaw",
+    "division": "D2",
+    "conference": "CIAA",
+    "externalIds": {
+      "sidearmId": "636"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "claflin",
+    "displayName": "Claflin",
+    "shortName": "Claflin",
+    "division": "D2",
+    "conference": "CIAA",
+    "externalIds": {
+      "sidearmId": "30058"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "johnson-c-smith",
+    "displayName": "Johnson C. Smith",
+    "shortName": "Johnson C. Smith",
+    "division": "D2",
+    "conference": "CIAA",
+    "externalIds": {
+      "sidearmId": "323"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "livingstone",
+    "displayName": "Livingstone",
+    "shortName": "Livingstone",
+    "division": "D2",
+    "conference": "CIAA",
+    "externalIds": {
+      "sidearmId": "359"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "virginia-state",
+    "displayName": "Virginia State",
+    "shortName": "Virginia State",
+    "division": "D2",
+    "conference": "CIAA",
+    "externalIds": {
+      "sidearmId": "743"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "virginia-union",
+    "displayName": "Virginia Union",
+    "shortName": "Virginia Union",
+    "division": "D2",
+    "conference": "CIAA",
+    "externalIds": {
+      "sidearmId": "744"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "bowie-state",
+    "displayName": "Bowie State",
+    "shortName": "Bowie State",
+    "division": "D2",
+    "conference": "CIAA",
+    "externalIds": {
+      "sidearmId": "70"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "winston-salem-state",
+    "displayName": "Winston-Salem State",
+    "shortName": "Winston-Salem State",
+    "division": "D2",
+    "conference": "CIAA",
+    "externalIds": {
+      "sidearmId": "791"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "lincoln-pa",
+    "displayName": "Lincoln (PA)",
+    "shortName": "Lincoln (PA)",
+    "division": "D2",
+    "conference": "CIAA",
+    "externalIds": {
+      "sidearmId": "357"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "bluefield-state",
+    "displayName": "Bluefield State",
+    "shortName": "Bluefield State",
+    "division": "D2",
+    "conference": "CIAA",
+    "externalIds": {
+      "sidearmId": "985"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "elizabeth-city-state",
+    "displayName": "Elizabeth City State",
+    "shortName": "Elizabeth City State",
+    "division": "D2",
+    "conference": "CIAA",
+    "externalIds": {
+      "sidearmId": "210"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "southern-wesleyan",
+    "displayName": "Southern Wesleyan",
+    "shortName": "Southern Wesleyan",
+    "division": "D2",
+    "conference": "Conference Carolinas",
+    "externalIds": {
+      "sidearmId": "30192"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "mount-olive",
+    "displayName": "Mount Olive",
+    "shortName": "Mount Olive",
+    "division": "D2",
+    "conference": "Conference Carolinas",
+    "externalIds": {
+      "sidearmId": "1245"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "chowan",
+    "displayName": "Chowan",
+    "shortName": "Chowan",
+    "division": "D2",
+    "conference": "Conference Carolinas",
+    "externalIds": {
+      "sidearmId": "8875"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "king",
+    "displayName": "King",
+    "shortName": "King",
+    "division": "D2",
+    "conference": "Conference Carolinas",
+    "externalIds": {
+      "sidearmId": "30051"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "barton",
+    "displayName": "Barton",
+    "shortName": "Barton",
+    "division": "D2",
+    "conference": "Conference Carolinas",
+    "externalIds": {
+      "sidearmId": "15646"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "young-harris",
+    "displayName": "Young Harris",
+    "shortName": "Young Harris",
+    "division": "D2",
+    "conference": "Conference Carolinas",
+    "externalIds": {
+      "sidearmId": "30154"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "ferrum",
+    "displayName": "Ferrum",
+    "shortName": "Ferrum",
+    "division": "D2",
+    "conference": "Conference Carolinas",
+    "externalIds": {
+      "sidearmId": "225"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "unc-pembroke",
+    "displayName": "UNC Pembroke",
+    "shortName": "UNC Pembroke",
+    "division": "D2",
+    "conference": "Conference Carolinas",
+    "externalIds": {
+      "sidearmId": "537"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "shorter",
+    "displayName": "Shorter",
+    "shortName": "Shorter",
+    "division": "D2",
+    "conference": "Conference Carolinas",
+    "externalIds": {
+      "sidearmId": "30151"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "emmanuel",
+    "displayName": "Emmanuel",
+    "shortName": "Emmanuel",
+    "division": "D2",
+    "conference": "Conference Carolinas",
+    "externalIds": {
+      "sidearmId": "30193"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "converse",
+    "displayName": "Converse",
+    "shortName": "Converse",
+    "division": "D2",
+    "conference": "Conference Carolinas",
+    "externalIds": {
+      "sidearmId": "8935"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "francis-marion",
+    "displayName": "Francis Marion",
+    "shortName": "Francis Marion",
+    "division": "D2",
+    "conference": "Conference Carolinas",
+    "externalIds": {
+      "sidearmId": "1085"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "lees-mcrae",
+    "displayName": "Lees-McRae",
+    "shortName": "Lees-McRae",
+    "division": "D2",
+    "conference": "Conference Carolinas",
+    "externalIds": {
+      "sidearmId": "13302"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "north-greenville",
+    "displayName": "North Greenville",
+    "shortName": "North Greenville",
+    "division": "D2",
+    "conference": "Conference Carolinas",
+    "externalIds": {
+      "sidearmId": "9223"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "belmont-abbey",
+    "displayName": "Belmont Abbey",
+    "shortName": "Belmont Abbey",
+    "division": "D2",
+    "conference": "Conference Carolinas",
+    "externalIds": {
+      "sidearmId": "2683"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "erskine",
+    "displayName": "Erskine",
+    "shortName": "Erskine",
+    "division": "D2",
+    "conference": "Conference Carolinas",
+    "externalIds": {
+      "sidearmId": "1072"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "staten-island",
+    "displayName": "Staten Island",
+    "shortName": "Staten Island",
+    "division": "D2",
+    "conference": "ECC",
+    "externalIds": {
+      "sidearmId": "675"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "daemen",
+    "displayName": "Daemen",
+    "shortName": "Daemen",
+    "division": "D2",
+    "conference": "ECC",
+    "externalIds": {
+      "sidearmId": "30174"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "st-thomas-aquinas",
+    "displayName": "St. Thomas Aquinas",
+    "shortName": "St. Thomas Aquinas",
+    "division": "D2",
+    "conference": "ECC",
+    "externalIds": {
+      "sidearmId": "1348"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "molloy",
+    "displayName": "Molloy",
+    "shortName": "Molloy",
+    "division": "D2",
+    "conference": "ECC",
+    "externalIds": {
+      "sidearmId": "437"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "roberts-wesleyan",
+    "displayName": "Roberts Wesleyan",
+    "shortName": "Roberts Wesleyan",
+    "division": "D2",
+    "conference": "ECC",
+    "externalIds": {
+      "sidearmId": "30150"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "dyouville",
+    "displayName": "D'Youville",
+    "shortName": "D'Youville",
+    "division": "D2",
+    "conference": "ECC",
+    "externalIds": {
+      "sidearmId": "1059"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "district-of-columbia",
+    "displayName": "District of Columbia",
+    "shortName": "District of Columbia",
+    "division": "D2",
+    "conference": "ECC",
+    "externalIds": {
+      "sidearmId": "186"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "queens",
+    "displayName": "Queens",
+    "shortName": "Queens",
+    "division": "D2",
+    "conference": "ECC",
+    "externalIds": {
+      "sidearmId": "560"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "mercy",
+    "displayName": "Mercy",
+    "shortName": "Mercy",
+    "division": "D2",
+    "conference": "ECC",
+    "externalIds": {
+      "sidearmId": "407"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "lake-erie",
+    "displayName": "Lake Erie",
+    "shortName": "Lake Erie",
+    "division": "D2",
+    "conference": "G-MAC",
+    "externalIds": {
+      "sidearmId": "2746"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "findlay",
+    "displayName": "Findlay",
+    "shortName": "Findlay",
+    "division": "D2",
+    "conference": "G-MAC",
+    "externalIds": {
+      "sidearmId": "1079"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "walsh",
+    "displayName": "Walsh",
+    "shortName": "Walsh",
+    "division": "D2",
+    "conference": "G-MAC",
+    "externalIds": {
+      "sidearmId": "30141"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "northwood",
+    "displayName": "Northwood",
+    "shortName": "Northwood",
+    "division": "D2",
+    "conference": "G-MAC",
+    "externalIds": {
+      "sidearmId": "510"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "ohio-dominican",
+    "displayName": "Ohio Dominican",
+    "shortName": "Ohio Dominican",
+    "division": "D2",
+    "conference": "G-MAC",
+    "externalIds": {
+      "sidearmId": "30119"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "cedarville",
+    "displayName": "Cedarville",
+    "shortName": "Cedarville",
+    "division": "D2",
+    "conference": "G-MAC",
+    "externalIds": {
+      "sidearmId": "30124"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "ashland",
+    "displayName": "Ashland",
+    "shortName": "Ashland",
+    "division": "D2",
+    "conference": "G-MAC",
+    "externalIds": {
+      "sidearmId": "35"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "thomas-more",
+    "displayName": "Thomas More",
+    "shortName": "Thomas More",
+    "division": "D2",
+    "conference": "G-MAC",
+    "externalIds": {
+      "sidearmId": "1402"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "kentucky-wesleyan",
+    "displayName": "Kentucky Wesleyan",
+    "shortName": "Kentucky Wesleyan",
+    "division": "D2",
+    "conference": "G-MAC",
+    "externalIds": {
+      "sidearmId": "333"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "hillsdale",
+    "displayName": "Hillsdale",
+    "shortName": "Hillsdale",
+    "division": "D2",
+    "conference": "G-MAC",
+    "externalIds": {
+      "sidearmId": "280"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "malone",
+    "displayName": "Malone",
+    "shortName": "Malone",
+    "division": "D2",
+    "conference": "G-MAC",
+    "externalIds": {
+      "sidearmId": "30137"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "tiffin",
+    "displayName": "Tiffin",
+    "shortName": "Tiffin",
+    "division": "D2",
+    "conference": "G-MAC",
+    "externalIds": {
+      "sidearmId": "1403"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "oklahoma-baptist",
+    "displayName": "Oklahoma Baptist",
+    "shortName": "Oklahoma Baptist",
+    "division": "D2",
+    "conference": "GAC",
+    "externalIds": {
+      "sidearmId": "30202"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "harding",
+    "displayName": "Harding",
+    "shortName": "Harding",
+    "division": "D2",
+    "conference": "GAC",
+    "externalIds": {
+      "sidearmId": "1116"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "ouachita-baptist",
+    "displayName": "Ouachita Baptist",
+    "shortName": "Ouachita Baptist",
+    "division": "D2",
+    "conference": "GAC",
+    "externalIds": {
+      "sidearmId": "1289"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "southern-arkansas",
+    "displayName": "Southern Arkansas",
+    "shortName": "Southern Arkansas",
+    "division": "D2",
+    "conference": "GAC",
+    "externalIds": {
+      "sidearmId": "1376"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "southern-nazarene",
+    "displayName": "Southern Nazarene",
+    "shortName": "Southern Nazarene",
+    "division": "D2",
+    "conference": "GAC",
+    "externalIds": {
+      "sidearmId": "30152"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "east-central",
+    "displayName": "East Central",
+    "shortName": "East Central",
+    "division": "D2",
+    "conference": "GAC",
+    "externalIds": {
+      "sidearmId": "8965"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "henderson-state",
+    "displayName": "Henderson State",
+    "shortName": "Henderson State",
+    "division": "D2",
+    "conference": "GAC",
+    "externalIds": {
+      "sidearmId": "1123"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "northwestern-oklahoma-state",
+    "displayName": "Northwestern Oklahoma State",
+    "shortName": "Northwestern Oklahoma State",
+    "division": "D2",
+    "conference": "GAC",
+    "externalIds": {
+      "sidearmId": "30178"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "southwestern-oklahoma-state",
+    "displayName": "Southwestern Oklahoma State",
+    "shortName": "Southwestern Oklahoma State",
+    "division": "D2",
+    "conference": "GAC",
+    "externalIds": {
+      "sidearmId": "8744"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "southeastern-oklahoma-state",
+    "displayName": "Southeastern Oklahoma State",
+    "shortName": "Southeastern Oklahoma State",
+    "division": "D2",
+    "conference": "GAC",
+    "externalIds": {
+      "sidearmId": "1371"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "arkansas-tech",
+    "displayName": "Arkansas Tech",
+    "shortName": "Arkansas Tech",
+    "division": "D2",
+    "conference": "GAC",
+    "externalIds": {
+      "sidearmId": "947"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "arkansas-monticello",
+    "displayName": "Arkansas-Monticello",
+    "shortName": "Arkansas-Monticello",
+    "division": "D2",
+    "conference": "GAC",
+    "externalIds": {
+      "sidearmId": "8411"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "rockhurst",
+    "displayName": "Rockhurst",
+    "shortName": "Rockhurst",
+    "division": "D2",
+    "conference": "GLVC",
+    "externalIds": {
+      "sidearmId": "1328"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "upper-iowa",
+    "displayName": "Upper Iowa",
+    "shortName": "Upper Iowa",
+    "division": "D2",
+    "conference": "GLVC",
+    "externalIds": {
+      "sidearmId": "728"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "drury",
+    "displayName": "Drury",
+    "shortName": "Drury",
+    "division": "D2",
+    "conference": "GLVC",
+    "externalIds": {
+      "sidearmId": "1057"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "missouri-st",
+    "displayName": "Missouri S&T",
+    "shortName": "Missouri S&T",
+    "division": "D2",
+    "conference": "GLVC",
+    "externalIds": {
+      "sidearmId": "435"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "indianapolis",
+    "displayName": "Indianapolis",
+    "shortName": "Indianapolis",
+    "division": "D2",
+    "conference": "GLVC",
+    "externalIds": {
+      "sidearmId": "309"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "illinois-springfield",
+    "displayName": "Illinois Springfield",
+    "shortName": "Illinois Springfield",
+    "division": "D2",
+    "conference": "GLVC",
+    "externalIds": {
+      "sidearmId": "30050"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "truman",
+    "displayName": "Truman",
+    "shortName": "Truman",
+    "division": "D2",
+    "conference": "GLVC",
+    "externalIds": {
+      "sidearmId": "499"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "missouri-st-louis",
+    "displayName": "Missouri-St. Louis",
+    "shortName": "Missouri-St. Louis",
+    "division": "D2",
+    "conference": "GLVC",
+    "externalIds": {
+      "sidearmId": "436"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "quincy",
+    "displayName": "Quincy",
+    "shortName": "Quincy",
+    "division": "D2",
+    "conference": "GLVC",
+    "externalIds": {
+      "sidearmId": "561"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "lincoln",
+    "displayName": "Lincoln",
+    "shortName": "Lincoln",
+    "division": "D2",
+    "conference": "GLVC",
+    "externalIds": {
+      "sidearmId": "356"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "william-jewell",
+    "displayName": "William Jewell",
+    "shortName": "William Jewell",
+    "division": "D2",
+    "conference": "GLVC",
+    "externalIds": {
+      "sidearmId": "30120"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "mckendree",
+    "displayName": "McKendree",
+    "shortName": "McKendree",
+    "division": "D2",
+    "conference": "GLVC",
+    "externalIds": {
+      "sidearmId": "30138"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "southwest-baptist",
+    "displayName": "Southwest Baptist",
+    "shortName": "Southwest Baptist",
+    "division": "D2",
+    "conference": "GLVC",
+    "externalIds": {
+      "sidearmId": "2755"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "maryville",
+    "displayName": "Maryville",
+    "shortName": "Maryville",
+    "division": "D2",
+    "conference": "GLVC",
+    "externalIds": {
+      "sidearmId": "395"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "lewis",
+    "displayName": "Lewis",
+    "shortName": "Lewis",
+    "division": "D2",
+    "conference": "GLVC",
+    "externalIds": {
+      "sidearmId": "354"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "montana-state-billings",
+    "displayName": "Montana State Billings",
+    "shortName": "Montana State Billings",
+    "division": "D2",
+    "conference": "GNAC",
+    "externalIds": {
+      "sidearmId": "205"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "western-washington",
+    "displayName": "Western Washington",
+    "shortName": "Western Washington",
+    "division": "D2",
+    "conference": "GNAC",
+    "externalIds": {
+      "sidearmId": "1448"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "saint-martins",
+    "displayName": "Saint Martin's",
+    "shortName": "Saint Martin's",
+    "division": "D2",
+    "conference": "GNAC",
+    "externalIds": {
+      "sidearmId": "1343"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "alaska-fairbanks",
+    "displayName": "Alaska Fairbanks",
+    "shortName": "Alaska Fairbanks",
+    "division": "D2",
+    "conference": "GNAC",
+    "externalIds": {
+      "sidearmId": "12"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "central-washington",
+    "displayName": "Central Washington",
+    "shortName": "Central Washington",
+    "division": "D2",
+    "conference": "GNAC",
+    "externalIds": {
+      "sidearmId": "1010"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "northwest-nazarene",
+    "displayName": "Northwest Nazarene",
+    "shortName": "Northwest Nazarene",
+    "division": "D2",
+    "conference": "GNAC",
+    "externalIds": {
+      "sidearmId": "1274"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "alaska-anchorage",
+    "displayName": "Alaska Anchorage",
+    "shortName": "Alaska Anchorage",
+    "division": "D2",
+    "conference": "GNAC",
+    "externalIds": {
+      "sidearmId": "11"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "simon-fraser",
+    "displayName": "Simon Fraser",
+    "shortName": "Simon Fraser",
+    "division": "D2",
+    "conference": "GNAC",
+    "externalIds": {
+      "sidearmId": "30127"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "seattle-pacific",
+    "displayName": "Seattle Pacific",
+    "shortName": "Seattle Pacific",
+    "division": "D2",
+    "conference": "GNAC",
+    "externalIds": {
+      "sidearmId": "634"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "western-oregon",
+    "displayName": "Western Oregon",
+    "shortName": "Western Oregon",
+    "division": "D2",
+    "conference": "GNAC",
+    "externalIds": {
+      "sidearmId": "1446"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "valdosta-state",
+    "displayName": "Valdosta State",
+    "shortName": "Valdosta State",
+    "division": "D2",
+    "conference": "GSC",
+    "externalIds": {
+      "sidearmId": "734"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "west-florida",
+    "displayName": "West Florida",
+    "shortName": "West Florida",
+    "division": "D2",
+    "conference": "GSC",
+    "externalIds": {
+      "sidearmId": "11740"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "trevecca",
+    "displayName": "Trevecca",
+    "shortName": "Trevecca",
+    "division": "D2",
+    "conference": "GSC",
+    "externalIds": {
+      "sidearmId": "30002"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "alabama-huntsville",
+    "displayName": "UAH",
+    "shortName": "UAH",
+    "division": "D2",
+    "conference": "GSC",
+    "externalIds": {
+      "sidearmId": "10"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "montevallo",
+    "displayName": "Montevallo",
+    "shortName": "Montevallo",
+    "division": "D2",
+    "conference": "GSC",
+    "externalIds": {
+      "sidearmId": "1238"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "union-tn",
+    "displayName": "Union",
+    "shortName": "Union",
+    "division": "D2",
+    "conference": "GSC",
+    "externalIds": {
+      "sidearmId": "30153"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "west-alabama",
+    "displayName": "West Alabama",
+    "shortName": "West Alabama",
+    "division": "D2",
+    "conference": "GSC",
+    "externalIds": {
+      "sidearmId": "358"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "lee",
+    "displayName": "Lee",
+    "shortName": "Lee",
+    "division": "D2",
+    "conference": "GSC",
+    "externalIds": {
+      "sidearmId": "30013"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "mississippi-college",
+    "displayName": "MC",
+    "shortName": "MC",
+    "division": "D2",
+    "conference": "GSC",
+    "externalIds": {
+      "sidearmId": "429"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "delta-state",
+    "displayName": "Delta State",
+    "shortName": "Delta State",
+    "division": "D2",
+    "conference": "GSC",
+    "externalIds": {
+      "sidearmId": "181"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "auburn-montgomery",
+    "displayName": "AUM",
+    "shortName": "AUM",
+    "division": "D2",
+    "conference": "GSC",
+    "externalIds": {
+      "sidearmId": "30093"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "christian-brothers",
+    "displayName": "Christian Brothers",
+    "shortName": "Christian Brothers",
+    "division": "D2",
+    "conference": "GSC",
+    "externalIds": {
+      "sidearmId": "1015"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "west-texas-am",
+    "displayName": "West Texas A&M",
+    "shortName": "West Texas A&M",
+    "division": "D2",
+    "conference": "LSC",
+    "externalIds": {
+      "sidearmId": "767"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "eastern-new-mexico",
+    "displayName": "Eastern New Mexico",
+    "shortName": "Eastern New Mexico",
+    "division": "D2",
+    "conference": "LSC",
+    "externalIds": {
+      "sidearmId": "206"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "dallas-baptist",
+    "displayName": "DBU",
+    "shortName": "DBU",
+    "division": "D2",
+    "conference": "LSC",
+    "externalIds": {
+      "sidearmId": "1045"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "st-edwards",
+    "displayName": "St. Edward's",
+    "shortName": "St. Edward's",
+    "division": "D2",
+    "conference": "LSC",
+    "externalIds": {
+      "sidearmId": "1334"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "lubbock-christian",
+    "displayName": "Lubbock Christian",
+    "shortName": "Lubbock Christian",
+    "division": "D2",
+    "conference": "LSC",
+    "externalIds": {
+      "sidearmId": "30177"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "ut-permian-basin",
+    "displayName": "UT Permian Basin",
+    "shortName": "UT Permian Basin",
+    "division": "D2",
+    "conference": "LSC",
+    "externalIds": {
+      "sidearmId": "30088"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "western-new-mexico",
+    "displayName": "Western New Mexico",
+    "shortName": "Western New Mexico",
+    "division": "D2",
+    "conference": "LSC",
+    "externalIds": {
+      "sidearmId": "1445"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "ut-dallas",
+    "displayName": "UT Dallas",
+    "shortName": "UT Dallas",
+    "division": "D2",
+    "conference": "LSC",
+    "externalIds": {
+      "sidearmId": "23121"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "cameron",
+    "displayName": "Cameron",
+    "shortName": "Cameron",
+    "division": "D2",
+    "conference": "LSC",
+    "externalIds": {
+      "sidearmId": "996"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "midwestern-state",
+    "displayName": "Midwestern State",
+    "shortName": "Midwestern State",
+    "division": "D2",
+    "conference": "LSC",
+    "externalIds": {
+      "sidearmId": "1222"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "oklahoma-christian",
+    "displayName": "Oklahoma Christian",
+    "shortName": "Oklahoma Christian",
+    "division": "D2",
+    "conference": "LSC",
+    "externalIds": {
+      "sidearmId": "30179"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "st-marys",
+    "displayName": "St. Mary's",
+    "shortName": "St. Mary's",
+    "division": "D2",
+    "conference": "LSC",
+    "externalIds": {
+      "sidearmId": "1346"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "ut-tyler",
+    "displayName": "UT Tyler",
+    "shortName": "UT Tyler",
+    "division": "D2",
+    "conference": "LSC",
+    "externalIds": {
+      "sidearmId": "30028"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "angelo-state",
+    "displayName": "Angelo State",
+    "shortName": "Angelo State",
+    "division": "D2",
+    "conference": "LSC",
+    "externalIds": {
+      "sidearmId": "25"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "texas-am-kingsville",
+    "displayName": "Texas A&M-Kingsville",
+    "shortName": "Texas A&M-Kingsville",
+    "division": "D2",
+    "conference": "LSC",
+    "externalIds": {
+      "sidearmId": "696"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "texas-am-international",
+    "displayName": "Texas A&M International",
+    "shortName": "Texas A&M International",
+    "division": "D2",
+    "conference": "LSC",
+    "externalIds": {
+      "sidearmId": "30090"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "sul-ross-state",
+    "displayName": "Sul Ross State",
+    "shortName": "Sul Ross State",
+    "division": "D2",
+    "conference": "LSC",
+    "externalIds": {
+      "sidearmId": "1390"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "west-liberty",
+    "displayName": "West Liberty",
+    "shortName": "West Liberty",
+    "division": "D2",
+    "conference": "MEC",
+    "externalIds": {
+      "sidearmId": "1438"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "frostburg-state",
+    "displayName": "Frostburg State",
+    "shortName": "Frostburg State",
+    "division": "D2",
+    "conference": "MEC",
+    "externalIds": {
+      "sidearmId": "243"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "fairmont-state",
+    "displayName": "Fairmont State",
+    "shortName": "Fairmont State",
+    "division": "D2",
+    "conference": "MEC",
+    "externalIds": {
+      "sidearmId": "1076"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "glenville-state",
+    "displayName": "Glenville State",
+    "shortName": "Glenville State",
+    "division": "D2",
+    "conference": "MEC",
+    "externalIds": {
+      "sidearmId": "1098"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "wheeling",
+    "displayName": "Wheeling",
+    "shortName": "Wheeling",
+    "division": "D2",
+    "conference": "MEC",
+    "externalIds": {
+      "sidearmId": "12799"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "concord",
+    "displayName": "Concord",
+    "shortName": "Concord",
+    "division": "D2",
+    "conference": "MEC",
+    "externalIds": {
+      "sidearmId": "1028"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "west-virginia-state",
+    "displayName": "West Virginia State",
+    "shortName": "West Virginia State",
+    "division": "D2",
+    "conference": "MEC",
+    "externalIds": {
+      "sidearmId": "1439"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "davis-elkins",
+    "displayName": "Davis & Elkins",
+    "shortName": "Davis & Elkins",
+    "division": "D2",
+    "conference": "MEC",
+    "externalIds": {
+      "sidearmId": "174"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "point-park",
+    "displayName": "Point Park",
+    "shortName": "Point Park",
+    "division": "D2",
+    "conference": "MEC",
+    "externalIds": {
+      "sidearmId": "30268"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "west-virginia-wesleyan",
+    "displayName": "West Virginia Wesleyan",
+    "shortName": "West Virginia Wesleyan",
+    "division": "D2",
+    "conference": "MEC",
+    "externalIds": {
+      "sidearmId": "9630"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "washburn",
+    "displayName": "Washburn",
+    "shortName": "Washburn",
+    "division": "D2",
+    "conference": "MIAA",
+    "externalIds": {
+      "sidearmId": "2814"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "missouri-southern",
+    "displayName": "Missouri Southern",
+    "shortName": "Missouri Southern",
+    "division": "D2",
+    "conference": "MIAA",
+    "externalIds": {
+      "sidearmId": "9012"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "northeastern-state",
+    "displayName": "Northeastern State",
+    "shortName": "Northeastern State",
+    "division": "D2",
+    "conference": "MIAA",
+    "externalIds": {
+      "sidearmId": "12810"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "missouri-western",
+    "displayName": "Missouri Western",
+    "shortName": "Missouri Western",
+    "division": "D2",
+    "conference": "MIAA",
+    "externalIds": {
+      "sidearmId": "9013"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "central-missouri",
+    "displayName": "Central Missouri",
+    "shortName": "Central Missouri",
+    "division": "D2",
+    "conference": "MIAA",
+    "externalIds": {
+      "sidearmId": "130"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "arkansas-fort-smith",
+    "displayName": "Arkansas-Fort Smith",
+    "shortName": "Arkansas-Fort Smith",
+    "division": "D2",
+    "conference": "MIAA",
+    "externalIds": {
+      "sidearmId": "30105"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "nebraska-kearney",
+    "displayName": "Nebraska Kearney",
+    "shortName": "Nebraska Kearney",
+    "division": "D2",
+    "conference": "MIAA",
+    "externalIds": {
+      "sidearmId": "1156"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "rogers-state",
+    "displayName": "Rogers State",
+    "shortName": "Rogers State",
+    "division": "D2",
+    "conference": "MIAA",
+    "externalIds": {
+      "sidearmId": "30180"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "pittsburg-state",
+    "displayName": "Pittsburg State",
+    "shortName": "Pittsburg State",
+    "division": "D2",
+    "conference": "MIAA",
+    "externalIds": {
+      "sidearmId": "1314"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "emporia-state",
+    "displayName": "Emporia State",
+    "shortName": "Emporia State",
+    "division": "D2",
+    "conference": "MIAA",
+    "externalIds": {
+      "sidearmId": "1071"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "newman",
+    "displayName": "Newman",
+    "shortName": "Newman",
+    "division": "D2",
+    "conference": "MIAA",
+    "externalIds": {
+      "sidearmId": "30054"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "northwest-missouri",
+    "displayName": "Northwest Missouri",
+    "shortName": "Northwest Missouri",
+    "division": "D2",
+    "conference": "MIAA",
+    "externalIds": {
+      "sidearmId": "507"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "central-oklahoma",
+    "displayName": "Central Oklahoma",
+    "shortName": "Central Oklahoma",
+    "division": "D2",
+    "conference": "MIAA",
+    "externalIds": {
+      "sidearmId": "1009"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "fort-hays-state",
+    "displayName": "Fort Hays State",
+    "shortName": "Fort Hays State",
+    "division": "D2",
+    "conference": "MIAA",
+    "externalIds": {
+      "sidearmId": "9011"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "saint-anselm",
+    "displayName": "Saint Anselm",
+    "shortName": "Saint Anselm",
+    "division": "D2",
+    "conference": "NE10",
+    "externalIds": {
+      "sidearmId": "593"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "assumption",
+    "displayName": "Assumption",
+    "shortName": "Assumption",
+    "division": "D2",
+    "conference": "NE10",
+    "externalIds": {
+      "sidearmId": "36"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "bentley",
+    "displayName": "Bentley",
+    "shortName": "Bentley",
+    "division": "D2",
+    "conference": "NE10",
+    "externalIds": {
+      "sidearmId": "56"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "southern-new-hampshire",
+    "displayName": "Southern New Hampshire",
+    "shortName": "Southern New Hampshire",
+    "division": "D2",
+    "conference": "NE10",
+    "externalIds": {
+      "sidearmId": "468"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "franklin-pierce",
+    "displayName": "Franklin Pierce",
+    "shortName": "Franklin Pierce",
+    "division": "D2",
+    "conference": "NE10",
+    "externalIds": {
+      "sidearmId": "241"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "saint-michaels",
+    "displayName": "Saint Michael's",
+    "shortName": "Saint Michael's",
+    "division": "D2",
+    "conference": "NE10",
+    "externalIds": {
+      "sidearmId": "613"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "adelphi",
+    "displayName": "Adelphi",
+    "shortName": "Adelphi",
+    "division": "D2",
+    "conference": "NE10",
+    "externalIds": {
+      "sidearmId": "3"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "southern-connecticut",
+    "displayName": "Southern Connecticut",
+    "shortName": "Southern Connecticut",
+    "division": "D2",
+    "conference": "NE10",
+    "externalIds": {
+      "sidearmId": "658"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "american-international",
+    "displayName": "American International",
+    "shortName": "American International",
+    "division": "D2",
+    "conference": "NE10",
+    "externalIds": {
+      "sidearmId": "22"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "pace",
+    "displayName": "Pace",
+    "shortName": "Pace",
+    "division": "D2",
+    "conference": "NE10",
+    "externalIds": {
+      "sidearmId": "533"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "point-loma",
+    "displayName": "Point Loma",
+    "shortName": "Point Loma",
+    "division": "D2",
+    "conference": "PacWest",
+    "externalIds": {
+      "sidearmId": "30149"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "chaminade",
+    "displayName": "Chaminade",
+    "shortName": "Chaminade",
+    "division": "D2",
+    "conference": "PacWest",
+    "externalIds": {
+      "sidearmId": "133"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "jessup",
+    "displayName": "Jessup",
+    "shortName": "Jessup",
+    "division": "D2",
+    "conference": "PacWest",
+    "externalIds": {
+      "sidearmId": "30262"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "hawaii-pacific",
+    "displayName": "Hawai'i Pacific",
+    "shortName": "Hawai'i Pacific",
+    "division": "D2",
+    "conference": "PacWest",
+    "externalIds": {
+      "sidearmId": "2696"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "westmont",
+    "displayName": "Westmont",
+    "shortName": "Westmont",
+    "division": "D2",
+    "conference": "PacWest",
+    "externalIds": {
+      "sidearmId": "30260"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "biola",
+    "displayName": "Biola",
+    "shortName": "Biola",
+    "division": "D2",
+    "conference": "PacWest",
+    "externalIds": {
+      "sidearmId": "30220"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "azusa-pacific",
+    "displayName": "Azusa Pacific",
+    "shortName": "Azusa Pacific",
+    "division": "D2",
+    "conference": "PacWest",
+    "externalIds": {
+      "sidearmId": "30146"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "concordia-irvine",
+    "displayName": "Concordia",
+    "shortName": "Concordia",
+    "division": "D2",
+    "conference": "PacWest",
+    "externalIds": {
+      "sidearmId": "30199"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "vanguard",
+    "displayName": "Vanguard",
+    "shortName": "Vanguard",
+    "division": "D2",
+    "conference": "PacWest",
+    "externalIds": {
+      "sidearmId": "30263"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "menlo",
+    "displayName": "Menlo",
+    "shortName": "Menlo",
+    "division": "D2",
+    "conference": "PacWest",
+    "externalIds": {
+      "sidearmId": "405"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "fresno-pacific",
+    "displayName": "Fresno Pacific",
+    "shortName": "Fresno Pacific",
+    "division": "D2",
+    "conference": "PacWest",
+    "externalIds": {
+      "sidearmId": "30147"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "hawaii-hilo",
+    "displayName": "Hawai'i Hilo",
+    "shortName": "Hawai'i Hilo",
+    "division": "D2",
+    "conference": "PacWest",
+    "externalIds": {
+      "sidearmId": "2697"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "uscb",
+    "displayName": "USC Beaufort",
+    "shortName": "USC Beaufort",
+    "division": "D2",
+    "conference": "Peach Belt",
+    "externalIds": {
+      "sidearmId": "30259"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "lander",
+    "displayName": "Lander",
+    "shortName": "Lander",
+    "division": "D2",
+    "conference": "Peach Belt",
+    "externalIds": {
+      "sidearmId": "1167"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "georgia-college",
+    "displayName": "Georgia College & State University",
+    "shortName": "Georgia College & State University",
+    "division": "D2",
+    "conference": "Peach Belt",
+    "externalIds": {
+      "sidearmId": "1096"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "south-carolina-aiken",
+    "displayName": "USCA",
+    "shortName": "USCA",
+    "division": "D2",
+    "conference": "Peach Belt",
+    "externalIds": {
+      "sidearmId": "11276"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "georgia-southwestern",
+    "displayName": "Georgia Southwestern",
+    "shortName": "Georgia Southwestern",
+    "division": "D2",
+    "conference": "Peach Belt",
+    "externalIds": {
+      "sidearmId": "1097"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "augusta",
+    "displayName": "Augusta",
+    "shortName": "Augusta",
+    "division": "D2",
+    "conference": "Peach Belt",
+    "externalIds": {
+      "sidearmId": "39"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "north-georgia",
+    "displayName": "North Georgia",
+    "shortName": "North Georgia",
+    "division": "D2",
+    "conference": "Peach Belt",
+    "externalIds": {
+      "sidearmId": "30052"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "columbus-state",
+    "displayName": "Columbus State",
+    "shortName": "Columbus State",
+    "division": "D2",
+    "conference": "Peach Belt",
+    "externalIds": {
+      "sidearmId": "159"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "middle-georgia",
+    "displayName": "Middle Georgia",
+    "shortName": "Middle Georgia",
+    "division": "D2",
+    "conference": "Peach Belt",
+    "externalIds": {
+      "sidearmId": "30272"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "clayton-state",
+    "displayName": "Clayton State",
+    "shortName": "Clayton State",
+    "division": "D2",
+    "conference": "Peach Belt",
+    "externalIds": {
+      "sidearmId": "20576"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "flagler",
+    "displayName": "Flagler",
+    "shortName": "Flagler",
+    "division": "D2",
+    "conference": "Peach Belt",
+    "externalIds": {
+      "sidearmId": "30092"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "uccs",
+    "displayName": "UCCS",
+    "shortName": "UCCS",
+    "division": "D2",
+    "conference": "RMAC",
+    "externalIds": {
+      "sidearmId": "9754"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "adams-state",
+    "displayName": "Adams State",
+    "shortName": "Adams State",
+    "division": "D2",
+    "conference": "RMAC",
+    "externalIds": {
+      "sidearmId": "929"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "fort-lewis",
+    "displayName": "Fort Lewis",
+    "shortName": "Fort Lewis",
+    "division": "D2",
+    "conference": "RMAC",
+    "externalIds": {
+      "sidearmId": "1083"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "black-hills-state",
+    "displayName": "Black Hills State",
+    "shortName": "Black Hills State",
+    "division": "D2",
+    "conference": "RMAC",
+    "externalIds": {
+      "sidearmId": "30134"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "westminster-ut",
+    "displayName": "Westminster",
+    "shortName": "Westminster",
+    "division": "D2",
+    "conference": "RMAC",
+    "externalIds": {
+      "sidearmId": "30209"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "colorado-mesa",
+    "displayName": "Colorado Mesa",
+    "shortName": "Colorado Mesa",
+    "division": "D2",
+    "conference": "RMAC",
+    "externalIds": {
+      "sidearmId": "11416"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "new-mexico-highlands",
+    "displayName": "New Mexico Highlands",
+    "shortName": "New Mexico Highlands",
+    "division": "D2",
+    "conference": "RMAC",
+    "externalIds": {
+      "sidearmId": "8577"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "colorado-school-of-mines",
+    "displayName": "Colorado School of Mines",
+    "shortName": "Colorado School of Mines",
+    "division": "D2",
+    "conference": "RMAC",
+    "externalIds": {
+      "sidearmId": "155"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "metro-state",
+    "displayName": "MSU Denver",
+    "shortName": "MSU Denver",
+    "division": "D2",
+    "conference": "RMAC",
+    "externalIds": {
+      "sidearmId": "413"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "western-colorado",
+    "displayName": "Western Colorado",
+    "shortName": "Western Colorado",
+    "division": "D2",
+    "conference": "RMAC",
+    "externalIds": {
+      "sidearmId": "2759"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "south-dakota-mines",
+    "displayName": "South Dakota Mines",
+    "shortName": "South Dakota Mines",
+    "division": "D2",
+    "conference": "RMAC",
+    "externalIds": {
+      "sidearmId": "30139"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "chadron-state",
+    "displayName": "Chadron State",
+    "shortName": "Chadron State",
+    "division": "D2",
+    "conference": "RMAC",
+    "externalIds": {
+      "sidearmId": "1012"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "csu-pueblo",
+    "displayName": "CSU Pueblo",
+    "shortName": "CSU Pueblo",
+    "division": "D2",
+    "conference": "RMAC",
+    "externalIds": {
+      "sidearmId": "2720"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "colorado-christian",
+    "displayName": "Colorado Christian",
+    "shortName": "Colorado Christian",
+    "division": "D2",
+    "conference": "RMAC",
+    "externalIds": {
+      "sidearmId": "11403"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "regis",
+    "displayName": "Regis",
+    "shortName": "Regis",
+    "division": "D2",
+    "conference": "RMAC",
+    "externalIds": {
+      "sidearmId": "568"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "lane",
+    "displayName": "Lane",
+    "shortName": "Lane",
+    "division": "D2",
+    "conference": "SIAC",
+    "externalIds": {
+      "sidearmId": "347"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "fort-valley-state",
+    "displayName": "Fort Valley State",
+    "shortName": "Fort Valley State",
+    "division": "D2",
+    "conference": "SIAC",
+    "externalIds": {
+      "sidearmId": "237"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "albany-state",
+    "displayName": "Albany State",
+    "shortName": "Albany State",
+    "division": "D2",
+    "conference": "SIAC",
+    "externalIds": {
+      "sidearmId": "13"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "morehouse",
+    "displayName": "Morehouse",
+    "shortName": "Morehouse",
+    "division": "D2",
+    "conference": "SIAC",
+    "externalIds": {
+      "sidearmId": "445"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "spring-hill",
+    "displayName": "Spring Hill",
+    "shortName": "Spring Hill",
+    "division": "D2",
+    "conference": "SIAC",
+    "externalIds": {
+      "sidearmId": "30191"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "allen",
+    "displayName": "Allen",
+    "shortName": "Allen",
+    "division": "D2",
+    "conference": "SIAC",
+    "externalIds": {
+      "sidearmId": "30240"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "central-state",
+    "displayName": "Central State",
+    "shortName": "Central State",
+    "division": "D2",
+    "conference": "SIAC",
+    "externalIds": {
+      "sidearmId": "30049"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "miles",
+    "displayName": "Miles",
+    "shortName": "Miles",
+    "division": "D2",
+    "conference": "SIAC",
+    "externalIds": {
+      "sidearmId": "422"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "clark-atlanta",
+    "displayName": "Clark Atlanta",
+    "shortName": "Clark Atlanta",
+    "division": "D2",
+    "conference": "SIAC",
+    "externalIds": {
+      "sidearmId": "144"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "kentucky-state",
+    "displayName": "Kentucky State",
+    "shortName": "Kentucky State",
+    "division": "D2",
+    "conference": "SIAC",
+    "externalIds": {
+      "sidearmId": "332"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "edward-waters",
+    "displayName": "Edward Waters",
+    "shortName": "Edward Waters",
+    "division": "D2",
+    "conference": "SIAC",
+    "externalIds": {
+      "sidearmId": "30244"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "tuskegee",
+    "displayName": "Tuskegee",
+    "shortName": "Tuskegee",
+    "division": "D2",
+    "conference": "SIAC",
+    "externalIds": {
+      "sidearmId": "720"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "savannah-state",
+    "displayName": "Savannah State",
+    "shortName": "Savannah State",
+    "division": "D2",
+    "conference": "SIAC",
+    "externalIds": {
+      "sidearmId": "632"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "lemoyne-owen",
+    "displayName": "LeMoyne-Owen",
+    "shortName": "LeMoyne-Owen",
+    "division": "D2",
+    "conference": "SIAC",
+    "externalIds": {
+      "sidearmId": "350"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "benedict",
+    "displayName": "Benedict",
+    "shortName": "Benedict",
+    "division": "D2",
+    "conference": "SIAC",
+    "externalIds": {
+      "sidearmId": "55"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "nova-southeastern",
+    "displayName": "Nova Southeastern",
+    "shortName": "Nova Southeastern",
+    "division": "D2",
+    "conference": "SSC",
+    "externalIds": {
+      "sidearmId": "24639"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "florida-southern",
+    "displayName": "Florida Southern",
+    "shortName": "Florida Southern",
+    "division": "D2",
+    "conference": "SSC",
+    "externalIds": {
+      "sidearmId": "233"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "embry-riddle",
+    "displayName": "Embry-Riddle",
+    "shortName": "Embry-Riddle",
+    "division": "D2",
+    "conference": "SSC",
+    "externalIds": {
+      "sidearmId": "9680"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "tampa",
+    "displayName": "Tampa",
+    "shortName": "Tampa",
+    "division": "D2",
+    "conference": "SSC",
+    "externalIds": {
+      "sidearmId": "689"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "palm-beach-atlantic",
+    "displayName": "Palm Beach Atlantic",
+    "shortName": "Palm Beach Atlantic",
+    "division": "D2",
+    "conference": "SSC",
+    "externalIds": {
+      "sidearmId": "30045"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "lynn",
+    "displayName": "Lynn",
+    "shortName": "Lynn",
+    "division": "D2",
+    "conference": "SSC",
+    "externalIds": {
+      "sidearmId": "20794"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "barry",
+    "displayName": "Barry",
+    "shortName": "Barry",
+    "division": "D2",
+    "conference": "SSC",
+    "externalIds": {
+      "sidearmId": "49"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "rollins",
+    "displayName": "Rollins",
+    "shortName": "Rollins",
+    "division": "D2",
+    "conference": "SSC",
+    "externalIds": {
+      "sidearmId": "584"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "eckerd",
+    "displayName": "Eckerd",
+    "shortName": "Eckerd",
+    "division": "D2",
+    "conference": "SSC",
+    "externalIds": {
+      "sidearmId": "208"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "saint-leo",
+    "displayName": "Saint Leo",
+    "shortName": "Saint Leo",
+    "division": "D2",
+    "conference": "SSC",
+    "externalIds": {
+      "sidearmId": "608"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "florida-tech",
+    "displayName": "Florida Tech",
+    "shortName": "Florida Tech",
+    "division": "D2",
+    "conference": "SSC",
+    "externalIds": {
+      "sidearmId": "230"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "charleston-wv",
+    "displayName": "Charleston",
+    "shortName": "Charleston",
+    "division": "D2",
+    "conference": "MEC",
+    "externalIds": {
+      "sidearmId": "1013"
+    },
+    "logoUrl": null
+  },
+  {
+    "slug": "dominican-ca",
+    "displayName": "Dominican",
+    "shortName": "Dominican",
+    "division": "D2",
+    "conference": "PacWest",
+    "externalIds": {
+      "sidearmId": "30118"
+    },
+    "logoUrl": null
   }
 ]

@@ -2,26 +2,184 @@
 @tailwind components;
 @tailwind utilities;
 
+/* ── Light theme ──────────────────────────────────────────────────── */
+
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  /* Backgrounds */
+  --background:   #fefefe;
+  --bg-out:       #faf9f7;
+  --bg-surface:   #ffffff;
+  --bg-raised:    #f8f7f5;
+  --bg-muted:     #f5f3f0;
+  --bg-subtle:    #f0eeea;
+  --bg-hover:     #ede9e4;
+  --bg-alt-row:   #fafaf9;
+
+  /* Borders */
+  --border:       #f0eeee;
+  --border-hi:    #e0dddd;
+
+  /* Brand */
+  --brand:        #2563eb;
+  --brand-dim:    rgba(37, 99, 235, 0.06);
+  --brand-glow:   rgba(37, 99, 235, 0.04);
+
+  /* Text */
+  --foreground:   #222222;
+  --text-hi:      #222;
+  --text-strong:  #1a1a1a;
+  --text-body:    #444;
+  --text-label:   #666;
+  --text-mid:     #888;
+  --text-lo:      #bbb;
+  --text-disabled:#ccc;
+
+  /* Nav */
+  --nav-bg:       #f6f5f3;
+
+  /* Semantic */
+  --positive:     #16a34a;
+  --negative:     #dc2626;
+  --neutral-val:  #888;
+
+  /* Badge palette */
+  --badge-green-bg:   #f0fdf4; --badge-green-fg:   #15803d;
+  --badge-red-bg:     #fef2f2; --badge-red-fg:     #dc2626;
+  --badge-amber-bg:   #fffbeb; --badge-amber-fg:   #b45309;
+  --badge-blue-bg:    #eff6ff; --badge-blue-fg:    #1d4ed8;
+  --badge-sky-bg:     #e0f2fe; --badge-sky-fg:     #0369a1;
+  --badge-gray-bg:    #f3f4f6; --badge-gray-fg:    #6b7280;
+  --badge-silver-bg:  #f9fafb; --badge-silver-fg:  #9ca3af;
+  --badge-neutral-bg: #f5f3f0; --badge-neutral-fg: #888;
+
+  /* Shadows */
+  --shadow-sm:    0 1px 3px rgba(0,0,0,0.08);
+  --shadow-md:    0 4px 20px rgba(0,0,0,0.10);
+  --shadow-menu:  0 4px 20px rgba(0,0,0,0.12);
+
+  --mono: ui-monospace, 'SF Mono', 'Cascadia Code', 'Consolas', 'DejaVu Sans Mono', monospace;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+/* ── Dark theme ───────────────────────────────────────────────────── */
+
+[data-theme='dark'] {
+  color-scheme: dark;
+
+  /* Backgrounds — two-tone: nav darker than page */
+  --background:   #1c1c1e;
+  --bg-out:       #222224;
+  --bg-surface:   #2a2a2c;
+  --bg-raised:    #2f2f31;
+  --bg-muted:     #242426;
+  --bg-subtle:    #313133;
+  --bg-hover:     #303032;
+  --bg-alt-row:   #222426;
+
+  /* Borders */
+  --border:       #333335;
+  --border-hi:    #3a3a3c;
+
+  /* Brand — slightly brighter blue */
+  --brand:        #3b82f6;
+  --brand-dim:    rgba(59, 130, 246, 0.12);
+  --brand-glow:   rgba(59, 130, 246, 0.06);
+
+  /* Text */
+  --foreground:   #e0e0e2;
+  --text-hi:      #d8d8da;
+  --text-strong:  #e8e8ea;
+  --text-body:    #a0a0a4;
+  --text-label:   #6a6a6e;
+  --text-mid:     #74747a;
+  --text-lo:      #505055;
+  --text-disabled:#404045;
+
+  /* Nav — deepest surface */
+  --nav-bg:       #141416;
+
+  /* Semantic */
+  --positive:     #22c55e;
+  --negative:     #f87171;
+  --neutral-val:  #74747a;
+
+  /* Badge palette — dark variants use translucent bg + brighter fg */
+  --badge-green-bg:   rgba(22, 163, 74, 0.15);  --badge-green-fg:   #4ade80;
+  --badge-red-bg:     rgba(220, 38, 38, 0.15);  --badge-red-fg:     #f87171;
+  --badge-amber-bg:   rgba(180, 83, 9, 0.15);   --badge-amber-fg:   #fbbf24;
+  --badge-blue-bg:    rgba(37, 99, 235, 0.15);  --badge-blue-fg:    #60a5fa;
+  --badge-sky-bg:     rgba(3, 105, 161, 0.15);  --badge-sky-fg:     #38bdf8;
+  --badge-gray-bg:    rgba(107, 114, 128, 0.15);--badge-gray-fg:    #9ca3af;
+  --badge-silver-bg:  rgba(156, 163, 175, 0.1); --badge-silver-fg:  #d1d5db;
+  --badge-neutral-bg: rgba(128, 128, 128, 0.10);--badge-neutral-fg: #74747a;
+
+  /* Shadows — heavier in dark mode */
+  --shadow-sm:    0 1px 3px rgba(0,0,0,0.30);
+  --shadow-md:    0 4px 20px rgba(0,0,0,0.40);
+  --shadow-menu:  0 4px 24px rgba(0,0,0,0.50);
 }
+
+/* ── Base ─────────────────────────────────────────────────────────── */
 
 body {
   color: var(--foreground);
   background: var(--background);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: var(--mono);
+}
+
+/* ── Browse table ──────────────────────────────────────────────────── */
+
+.browse-table > tbody > tr.browse-row > td {
+  background-color: var(--bg-out);
+  border-bottom: 1px solid var(--border);
+  transition: background-color 0.06s;
+}
+
+.browse-table > tbody > tr.browse-row:hover > td {
+  background-color: var(--bg-hover);
+}
+
+/* Sticky col right-edge shadow */
+.browse-table .sticky-shadow {
+  box-shadow: 3px 0 8px -2px rgba(0, 0, 0, 0.07);
+}
+
+[data-theme='dark'] .browse-table .sticky-shadow {
+  box-shadow: 3px 0 8px -2px rgba(0, 0, 0, 0.4);
+}
+
+/* Group start — left border on first col of each non-team group */
+.browse-table th.group-start,
+.browse-table td.group-start {
+  border-left: 2px solid var(--border-hi);
+}
+
+/* ── Player browse table ──────────────────────────────────────────── */
+
+.player-table > tbody > tr:nth-child(even) {
+  background-color: var(--bg-alt-row);
+}
+
+.player-table > tbody > tr:hover {
+  background-color: var(--bg-hover);
+}
+
+/* ── Interactive hover helpers ─────────────────────────────────────── */
+
+/* Search result items (team + player search dropdowns) */
+.search-result-item:hover {
+  background-color: var(--bg-raised) !important;
+}
+
+/* Contextual menu items */
+.menu-item:not(:disabled):hover {
+  background-color: var(--bg-raised) !important;
+}
+
+/* Season selector buttons (PlayerPage) */
+.season-btn:not(.active):hover {
+  background-color: var(--bg-subtle) !important;
 }
 
 @layer utilities {
-  .text-balance {
-    text-wrap: balance;
-  }
+  .text-balance { text-wrap: balance; }
 }

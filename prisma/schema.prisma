@@ -1,0 +1,197 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+// ─── Team ─────────────────────────────────────────────────────────────────────
+// Canonical team identity. Slug is the stable primary key used throughout the app.
+
+model Team {
+  id          String  @id           // slug: "duke", "grand-valley-state"
+  displayName String
+  shortName   String
+  division    String                // "D1" | "D2"
+  conference  String
+  cbbdTeamId  Int?
+  cbbdName    String?
+  sidearmId   String?
+  masseyName  String?
+  logoUrl     String?
+
+  playerSeasons  PlayerSeason[]
+  teamSeasons    TeamSeason[]
+  ratingsEntries RatingsEntry[]
+  masseyEntries  MasseyEntry[]
+  coaches        Coach[]
+}
+
+// ─── PlayerSeason ─────────────────────────────────────────────────────────────
+// One player's stats for one team for one season.
+// playerId keeps its full prefix ("cbbd-237", "sidearm-425-2311") to match
+// existing in-memory conventions without changes to route logic.
+
+model PlayerSeason {
+  id             String @id @default(cuid())
+  playerId       String                       // "cbbd-237" | "sidearm-425-2311"
+  playerName     String
+  teamId         String
+  year           Int                          // ending-year: 2026 = 2025-26 season
+  division       String                       // "D1" | "D2" — denormalized for fast filtering
+  source         String                       // "cbbd" | "sidearm"
+
+  // Core counting stats
+  games          Int
+  gamesStarted   Int?                         // null = starts not reported
+  minutesPlayed  Int
+  points         Int
+  assists        Int
+  totalRebounds  Int
+  offRebounds    Int
+  defRebounds    Int
+  steals         Int
+  blocks         Int
+  turnovers      Int
+  fgMade         Int
+  fgAttempted    Int
+  threeMade      Int
+  threeAttempted Int
+  ftMade         Int
+  ftAttempted    Int
+  position       String?
+
+  // D1-only T-Rank enrichment
+  tRankPid          Int?
+  tRankPositionRole String?
+  tRankYr           String?
+  tRankHt           String?
+  tRankUsg          Float?
+  tRankOrtg         Float?
+  tRankDrtg         Float?
+  tRankBpm          Float?
+  tRankObpm         Float?
+  tRankDbpm         Float?
+
+  // D2-only eligibility
+  eligibilityYear String?                     // "FR"|"SO"|"JR"|"SR"|"GS"|"RS"
+
+  team Team @relation(fields: [teamId], references: [id])
+
+  @@unique([playerId, teamId, year])
+  @@index([teamId, year])
+  @@index([playerId])
+  @@index([year, division])
+}
+
+// ─── TeamSeason ───────────────────────────────────────────────────────────────
+// Team-level stats for one season.
+// All per-game stats are nullable — D2 has 7 structurally unavailable fields
+// (apg, bpg, ftPct, oppPpg, oppTopg, spg, threePct) that are stored as null,
+// not as fake zeroes.
+
+model TeamSeason {
+  id          String @id @default(cuid())
+  teamId      String
+  year        Int
+  division    String
+  conference  String
+  wins        Int
+  losses      Int
+  source      String
+
+  ppg         Float?
+  oppPpg      Float?                          // D2: always null (Sidearm gap)
+  fgPct       Float?
+  threePct    Float?                          // D2: always null
+  ftPct       Float?                          // D2: always null
+  oppFgPct    Float?
+  oppThreePct Float?
+  apg         Float?                          // D2: always null
+  topg        Float?
+  spg         Float?                          // D2: always null
+  bpg         Float?                          // D2: always null
+  orbpg       Float?
+  drbpg       Float?
+  oppTopg     Float?                          // D2: always null
+
+  team Team @relation(fields: [teamId], references: [id])
+
+  @@unique([teamId, year])
+  @@index([teamId])
+  @@index([year, division])
+}
+
+// ─── RatingsEntry ─────────────────────────────────────────────────────────────
+// D1 adjusted efficiency ratings per team per season (CBBD NET ratings).
+// D2 has no equivalent feed.
+
+model RatingsEntry {
+  id         String @id @default(cuid())
+  teamId     String
+  year       Int
+  rank       Int?
+  rating     Float?
+  offRating  Float?
+  defRating  Float?
+  conference String
+  source     String                           // "cbbd"
+
+  team Team @relation(fields: [teamId], references: [id])
+
+  @@unique([teamId, year])
+  @@index([year])
+}
+
+// ─── MasseyEntry ──────────────────────────────────────────────────────────────
+// Massey composite ratings (D1 only). teamId is nullable when name-matching fails.
+
+model MasseyEntry {
+  id         String  @id @default(cuid())
+  teamId     String?
+  teamName   String                           // raw name from Massey file
+  year       Int
+  rank       Int
+  wins       Int
+  losses     Int
+  rating     Float
+  conference String
+
+  team Team? @relation(fields: [teamId], references: [id])
+
+  @@index([year])
+  @@index([teamId, year])
+}
+
+// ─── Coach ────────────────────────────────────────────────────────────────────
+
+model Coach {
+  id       String @id @default(cuid())
+  teamId   String
+  year     Int
+  name     String
+  division String
+
+  team Team @relation(fields: [teamId], references: [id])
+
+  @@unique([teamId, year])
+}
+
+// ─── ImportLog ────────────────────────────────────────────────────────────────
+// Audit trail for import scripts. Not exposed to the UI.
+
+model ImportLog {
+  id           String   @id @default(cuid())
+  importType   String                         // "teams" | "player-seasons" | "team-seasons" | etc.
+  year         Int?
+  division     String?
+  teamId       String?
+  status       String                         // "ok" | "partial" | "error"
+  message      String?
+  rowsAffected Int?
+  createdAt    DateTime @default(now())
+
+  @@index([importType, year])
+}
