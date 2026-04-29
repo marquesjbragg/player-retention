@@ -7,7 +7,6 @@ import { useEffect, useState } from 'react'
 const NAV_LINKS: { href: string; label: string; exact?: boolean }[] = [
   { href: '/browse',         label: 'Browse',      exact: true  },
   { href: '/browse/players', label: 'Players',     exact: false },
-  { href: '/compare',        label: 'Compare',     exact: false },
   { href: '/methodology',    label: 'Methodology', exact: false },
 ]
 
